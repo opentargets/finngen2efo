@@ -1,0 +1,11 @@
+name: finngen2efo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - r-base=4.1
+  - r-devtools
+  - r-languageserver
+  - r-tidyverse
+  - radian
