@@ -1,0 +1,1558 @@
+AB1_ARTHROPOD	Arthropod-borne viral fevers and viral haemorrhagic fevers	MONDO_0018087	viral hemorrhagic fever	0.8811
+AB1_BACT_BIR_OTHER_INF_AGENTS	Bacterial, viral and other infectious agents	EFO_0005741	infectious disease	0.7424999999999999
+AB1_HIV	Human immunodeficiency virus [HIV] disease	EFO_0000764	HIV infection	0.99
+AB1_INFECTIONS	Certain infectious and parasitic diseases	EFO_0001067	parasitic infection	0.99
+AB1_INTESTINAL_INFECTIONS	Intestinal infectious diseases	MONDO_0000916	intestinal infectious disease	1
+AB1_MYCOSES	Mycoses	MONDO_0002041	fungal infectious disease	0.96
+AB1_OTHER_BACTERIAL	Other bacterial diseases	EFO_0000771	bacterial disease	1
+AB1_OTHER_CHLAMYDIAE	Other diseases caused by chlamydiae	EFO_1000863	Chlamydophila infectious disease	0.6435
+AB1_OTHER_INFECTIONS	Other infectious diseases	EFO_0005741	infectious disease	1
+AB1_OTHER_VIRAL	Other viral diseases	EFO_0000763	viral disease	1
+AB1_PEDICULOSIS_ACARIASIS_OTHERINFEST	Pediculosis, acariasis and other infestations	MONDO_0003472	lice infestation	0.9009
+AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES	Sequelae of infectious and parasitic diseases	EFO_0001067	parasitic infection	0.8513999999999999
+AB1_TUBERCULOSIS	Tuberculosis	Orphanet_3389	Tuberculosis	1
+AB1_VIRAL_CNS	Viral infections of the central nervous system	MONDO_0024318	viral infection of central nervous system	1
+AB1_VIRAL_HEPATITIS	Viral hepatitis	EFO_0003047	hepatitis C virus infection	0.99
+AB1_VIRAL_HEPATITIS	Viral hepatitis	EFO_0004196	viral human hepatitis infection	0.99
+AB1_VIRAL_HEPATITIS	Viral hepatitis	EFO_0004197	hepatitis B virus infection	0.99
+AB1_VIRAL_HEPATITIS	Viral hepatitis	EFO_0007305	hepatitis A virus infection	0.96
+AB1_VIRAL_HEPATITIS	Viral hepatitis	EFO_0007540	animal viral hepatitis	0.99
+AB1_ZOONOTIC_BACTERIAL	Certain zoonotic bacterial diseases	MONDO_0044746	zoonotic bacterial infection	0.99
+ABDOM_HERNIA	Hernia of abodminal wall	HP_0004299	Hernia of the abdominal wall	0.67
+ABDOM_HERNIA_POSTOP	Hernia of abodminal wall, postoperative	HP_0004299	Hernia of the abdominal wall	0.57
+ACUTE_RESPIRATORY_INFECTIONS	Asthma/COPD-related acute respiratory infections	EFO_0000694	severe acute respiratory syndrome	0.7424999999999999
+AD_AM	Alzheimer's disease (Atypical or mixed)	EFO_0000249	Alzheimer's disease	0.5642999999999999
+AD_EO	Alzheimer's disease (Early onset)	EFO_0000249	Alzheimer's disease	0.5642999999999999
+AD_LO	Alzheimer's disease (Late onset)	Orphanet_308604	Glycogen storage disease due to acid maltase deficiency, adult onset	0.5642999999999999
+AD_U	Alzheimer's disease (undefined)	EFO_0000249	Alzheimer's disease	0.8
+AD_U_EXMORE	Alzheimer's disease (undefined) (more controls excluded)	EFO_0000249	Alzheimer's disease	0.57
+ALCOGASTRITIS	Alcoholic gastritis	MONDO_0004640	alcoholic gastritis	1
+ALCOHOLACUTE10	Acute alcohol intoxication	EFO_0003829	alcohol dependence	0.6633
+ALCOLIVER	Alcoholic liver disease	EFO_0008573	alcoholic liver disease	1
+ALCONEURODEGEN	Degeneration of nervous system due to alcohol	Orphanet_141	Canavan disease	0.6633
+ALCOPANCACU	Acohol-induced acute pancreatitis	EFO_1001507	asparaginase-induced acute pancreatitis	0.92
+ALCOPANCCHRON	Alcohol-induced chronic pancreatitis	EFO_0000342	chronic pancreatitis	0.792
+ALLERG_ASTHMA	Allergic asthma (mode)	MONDO_0004784	allergic asthma	0.8
+ALLERG_RHINITIS	Allergic rhinitis	EFO_0005854	allergic rhinitis	1
+APPENDACUT_COMPLIC	Acute appendicitis, with complications	EFO_0007149	appendicitis	0.792
+ASTHMA_ACUTE_RESPIRATORY_INFECTIONS	Asthma-related acute respiratory infections	EFO_0000694	severe acute respiratory syndrome	0.7424999999999999
+ASTHMA_CHILD	Childhood asthma (age<16)	EFO_0004591	childhood onset asthma	0.792
+ASTHMA_CHILD_EXMORE	Childhood asthma (age<16) (more controls excluded)	EFO_0004591	childhood onset asthma	0.5642999999999999
+ASTHMA_MIXED	Asthma mixed form (mode)	EFO_0000270	asthma	0.6633
+ASTHMA_NAS	Asthma, unspecified (mode)	EFO_0000270	asthma	0.792
+ASTHMA_NAS_EXMORE	Asthma, unspecified (mode) (more controls excluded)	EFO_0000270	asthma	0.5642999999999999
+ASTHMA_OPPORTUNIST_INFECTIONS	Asthma and opportunit respiratory infection	MONDO_0024355	respiratory tract infectious disease	0.6432
+AUD_SWEDISH	Alcohol use disorder, Swedish definition	MONDO_0002046	alcohol abuse	0.6432
+BACT_INTEST_INFECTION_NOS	Other specified/unspecified bacterial intestinal infections	EFO_0000771	bacterial disease	0.6633
+BRONCHITIS	Bronchitis	EFO_0009661	bronchitis	1
+C3_BLADDER	Malignant neoplasm of bladder	MONDO_0001187	urinary bladder cancer	0.99
+C3_BLADDER_EXALLC	Malignant neoplasm of bladder (other cancers excluded from controls)	MONDO_0001187	urinary bladder cancer	0.7424999999999999
+C3_BRAIN	Malignant neoplasm of brain	MONDO_0001657	brain cancer	0.99
+C3_BRAIN_EXALLC	Malignant neoplasm of brain (other cancers excluded from controls)	MONDO_0001657	brain cancer	0.7424999999999999
+C3_BREAST	Malignant neoplasm of breast	MONDO_0007254	breast cancer	0.99
+C3_BREAST_EXALLC	Malignant neoplasm of breast (other cancers excluded from controls)	MONDO_0007254	breast cancer	0.7424999999999999
+C3_BRONCHUS_LUNG	Malignant neoplasm of bronchus and lung	MONDO_0001672	bronchus cancer	0.98
+C3_BRONCHUS_LUNG_EXALLC	Malignant neoplasm of bronchus and lung (other cancers excluded from controls)	MONDO_0001672	bronchus cancer	0.5488000000000001
+C3_CANCER	Malignant neoplasm	EFO_0000311	cancer	0.99
+C3_CANCER	Malignant neoplasm	EFO_1000654	childhood cancer	0.99
+C3_CERVIX_UTERI	Malignant neoplasm of cervix uteri	MONDO_0002974	cervical cancer	0.99
+C3_CERVIX_UTERI_EXALLC	Malignant neoplasm of cervix uteri (other cancers excluded from controls)	MONDO_0002974	cervical cancer	0.7821
+C3_CLL	Chronic lymphocytic leukaemia	EFO_0000095	chronic lymphocytic leukemia	0.99
+C3_CLL_EXALLC	Chronic lymphocytic leukaemia (other cancers excluded from controls)	EFO_0000095	chronic lymphocytic leukemia	0.6633
+C3_COLON	Malignant neoplasm of colon	MONDO_0021063	malignant colon neoplasm	1
+C3_COLON_ADENO	Colon adenocarcinoma	EFO_0000365	colorectal adenocarcinoma	0.99
+C3_COLON_ADENO	Colon adenocarcinoma	EFO_1001949	colon adenocarcinoma	1
+C3_COLON_ADENO_EXALLC	Colon adenocarcinoma (other cancers excluded from controls)	EFO_1001949	colon adenocarcinoma	0.64
+C3_COLON_EXALLC	Malignant neoplasm of colon (other cancers excluded from controls)	MONDO_0021063	malignant colon neoplasm	0.75
+C3_COLORECTAL	Colorectal cancer	EFO_0005842	colorectal cancer	1
+C3_COLORECTAL	Colorectal cancer	EFO_1001951	colorectal carcinoma	0.99
+C3_COLORECTAL_EXALLC	Colorectal cancer (other cancers excluded from controls)	EFO_0005842	colorectal cancer	0.71
+C3_CONNECTIVE_SOFT_NAS	Malignant neoplasm of other connective and soft tissue	MONDO_0024637	malignant soft tissue neoplasm	0.96
+C3_CONNECTIVE_SOFT_NAS_EXALLC	Malignant neoplasm of other connective and soft tissue (other cancers excluded from controls)	MONDO_0024637	malignant soft tissue neoplasm	0.78
+C3_CORPUS_UTERI	Malignant neoplasm of corpus uteri	MONDO_0002879	uterine body mixed cancer	0.8811
+C3_CORPUS_UTERI_EXALLC	Malignant neoplasm of corpus uteri (other cancers excluded from controls)	MONDO_0002879	uterine body mixed cancer	0.7227
+C3_DIGESTIVE_ORGANS	Malignant neoplasm of digestive organs	MONDO_0002149	reproductive system cancer	0.9009
+C3_DLBCL	Diffuse large B-cell lymphoma	EFO_0000403	diffuse large B-cell lymphoma	1
+C3_DLBCL	Diffuse large B-cell lymphoma	EFO_0001642	lymphoid neoplasm	0.99
+C3_DLBCL_EXALLC	Diffuse large B-cell lymphoma (other cancers excluded from controls)	EFO_0000403	diffuse large B-cell lymphoma	0.73
+C3_ENDOCRINE	Malignant neoplasm of endocrine gland	MONDO_0021069	malignant endocrine neoplasm	0.99
+C3_ENDOCRINE_EXALLC	Malignant neoplasm of endocrine gland (other cancers excluded from controls)	MONDO_0021069	malignant endocrine neoplasm	0.7821
+C3_EYE_ADNEXA	Malignant neoplasm of eye and adnexa	MONDO_0002236	ocular cancer	0.8513999999999999
+C3_EYE_ADNEXA_EXALLC	Malignant neoplasm of eye and adnexa (other cancers excluded from controls)	MONDO_0002236	ocular cancer	0.6633
+C3_EYE_BRAIN_NEURO	Malignant neoplasm of eye, brain and central nervous system	EFO_0000326	central nervous system cancer	0.8217
+C3_EYE_BRAIN_NEURO_EXALLC	Malignant neoplasm of eye, brain and central nervous system (other cancers excluded from controls)	EFO_0000326	central nervous system cancer	0.7029
+C3_FEMALE_GENITAL	malignant neoplasm of female genital organs	MONDO_0001416	female reproductive organ cancer	0.99
+C3_FEMALE_GENITAL_EXALLC	malignant neoplasm of female genital organs (other cancers excluded from controls)	MONDO_0001416	female reproductive organ cancer	0.5544
+C3_KIDNEY_NOTRENALPELVIS	Malignant neoplasm of kidney, except renal pelvis	MONDO_0044919	malignant renal pelvis neoplasm	0.89
+C3_KIDNEY_NOTRENALPELVIS_EXALLC	Malignant neoplasm of kidney, except renal pelvis (other cancers excluded from controls)	MONDO_0044919	malignant renal pelvis neoplasm	0.73
+C3_LARYNX	Malignant neoplasm of larynx	MONDO_0002352	larynx cancer	0.99
+C3_LARYNX_EXALLC	Malignant neoplasm of larynx (other cancers excluded from controls)	MONDO_0002352	larynx cancer	0.7424999999999999
+C3_LIP_ORAL_PHARYNX	Malignant neoplasm of lip, oral cavity and pharynx	EFO_0007321	hypopharynx cancer	0.6138
+C3_LIP_ORAL_PHARYNX_EXALLC	Malignant neoplasm of lip, oral cavity and pharynx (other cancers excluded from controls)	EFO_0007321	hypopharynx cancer	0.5445
+C3_LIVER_INTRAHEPATIC3_BILE_DUCTS_EXALLC	Malignant neoplasm of liver and intrahepatic bile ducts (other cancers excluded from controls)	MONDO_0024477	liver and intrahepatic bile duct neoplasm	0.77
+C3_LIVER_INTRAHEPATIC_BILE_DUCTS	Malignant neoplasm of liver and intrahepatic bile ducts	MONDO_0024477	liver and intrahepatic bile duct neoplasm	0.91
+C3_LUNG_NONSMALL	Non-small cell lung cancer	EFO_0003060	non-small cell lung carcinoma	0.99
+C3_LUNG_NONSMALL	Non-small cell lung cancer	MONDO_0008903	lung cancer	0.96
+C3_LUNG_NONSMALL_EXALLC	Non-small cell lung cancer (other cancers excluded from controls)	EFO_0003060	non-small cell lung carcinoma	0.8118
+C3_LYMPHNODES_SECONDARY_NAS	Secondary and unspecified malignant neoplasm of lymph nodes	MONDO_0001082	lymph node cancer	0.6633
+C3_LYMPHNODES_SECONDARY_NAS_EXALLC	Secondary and unspecified malignant neoplasm of lymph nodes (other cancers excluded from controls)	MONDO_0001082	lymph node cancer	0.5642999999999999
+C3_MALE_GENITAL	malignant neoplasm of male genital organs	EFO_0007355	male reproductive organ cancer	0.99
+C3_MALE_GENITAL_EXALLC	malignant neoplasm of male genital organs (other cancers excluded from controls)	EFO_0007355	male reproductive organ cancer	0.7623
+C3_MENINGES	Malignant neoplasm of meninges	EFO_0003851	meningeal neoplasm	0.99
+C3_MENINGES	Malignant neoplasm of meninges	MONDO_0021322	malignant tumor of meninges	0.99
+C3_MENINGES_EXALLC	Malignant neoplasm of meninges (other cancers excluded from controls)	EFO_0003851	meningeal neoplasm	0.7424999999999999
+C3_MESOTHELIOMA	Mesothelioma	EFO_0000588	mesothelioma	1
+C3_MESTOTHEL_SOFTTISSUE	Melignant neoplasm of mesothelium and soft tissue	MONDO_0003512	mediastinal mesenchymal tumor	0.891
+C3_NSCLC_ADENO	Non-small cell lung cancer, adenocarcinoma	EFO_0005288	non-small cell lung adenocarcinoma	0.94
+C3_NSCLC_ADENO_EXALLC	Non-small cell lung cancer, adenocarcinoma (other cancers excluded from controls)	EFO_0003060	non-small cell lung carcinoma	0.7821
+C3_NSCLC_SQUAM	Non-small cell lung cancer, squamous	MONDO_0056806	non-small cell squamous lung carcinoma	0.99
+C3_NSCLC_SQUAM_EXALLC	Non-small cell lung cancer, squamous (other cancers excluded from controls)	MONDO_0056806	non-small cell squamous lung carcinoma	0.6830999999999999
+C3_OESOPHAGUS	Malignant neoplasm of oesophagus	MONDO_0007576	esophageal cancer	0.8428
+C3_OESOPHAGUS_EXALLC	Malignant neoplasm of oesophagus (other cancers excluded from controls)	MONDO_0007576	esophageal cancer	0.6566000000000001
+C3_OTHER_SKIN	Other malignant neoplasms of skin (=non-melanoma skin cancer)	EFO_0005553	eccrine sweat gland cancer	0.891
+C3_OTHER_SKIN_EXALLC	Other malignant neoplasms of skin (=non-melanoma skin cancer) (other cancers excluded from controls)	EFO_0009259	skin carcinoma	0.7227
+C3_OVARY	Malignant neoplasm of ovary	MONDO_0008170	ovarian cancer	0.99
+C3_OVARY_EXALLC	Malignant neoplasm of ovary (other cancers excluded from controls)	MONDO_0008170	ovarian cancer	0.7424999999999999
+C3_PANCREAS	Malignant neoplasm of pancreas	EFO_1000359	Malignant Pancreatic Neoplasm	0.99
+C3_PANCREAS_EXALLC	Malignant neoplasm of pancreas (other cancers excluded from controls)	EFO_1000359	Malignant Pancreatic Neoplasm	0.7424999999999999
+C3_PROSTATE	Malignant neoplasm of prostate	MONDO_0008315	prostate cancer	0.99
+C3_PROSTATE_EXALLC	Malignant neoplasm of prostate (other cancers excluded from controls)	MONDO_0008315	prostate cancer	0.7424999999999999
+C3_RECTOSIGMOID_JUNCTION	Malignant neoplasm of rectosigmoid junction	MONDO_0002423	rectosigmoid junction neoplasm	0.8513999999999999
+C3_RECTOSIGMOID_JUNCTION_EXALLC	Malignant neoplasm of rectosigmoid junction (other cancers excluded from controls)	MONDO_0002423	rectosigmoid junction neoplasm	0.6633
+C3_RECTUM	Malignant neoplasm of rectum	EFO_1000657	rectum cancer	0.99
+C3_RECTUM_EXALLC	Malignant neoplasm of rectum (other cancers excluded from controls)	EFO_1000657	rectum cancer	0.7424999999999999
+C3_RESPIRATORY_INTRATHORACIC	Malignant neoplasm of respiratory system and intrathoracic organs	MONDO_0000376	respiratory system cancer	0.792
+C3_RESPIRATORY_INTRATHORACIC_EXALLC	Malignant neoplasm of respiratory system and intrathoracic organs (other cancers excluded from controls)	MONDO_0000376	respiratory system cancer	0.6138
+C3_SCLC	Small cell lung cancer	EFO_0000702	small cell lung carcinoma	0.99
+C3_SCLC_EXALLC	Small cell lung cancer (other cancers excluded from controls)	EFO_0000702	small cell lung carcinoma	0.8118
+C3_SECONDARY_NAS	Secondary malignant neoplasm of other and unspecified sites	EFO_0007355	male reproductive organ cancer	0.5445
+C3_SECONDARY_WITHOUT_SITESPEC	Malignant neoplasm, without specification of site	EFO_0005557	gum cancer	0.7424999999999999
+C3_SKIN	Malignant neoplasm of skin	MONDO_0002898	skin cancer	0.99
+C3_SKIN_EXALLC	Malignant neoplasm of skin (other cancers excluded from controls)	MONDO_0002898	skin cancer	0.7424999999999999
+C3_SMALL_INTESTINE	Malignant neoplasm of small intestine	MONDO_0000956	small intestine cancer	0.99
+C3_SMALL_INTESTINE_EXALLC	Malignant neoplasm of small intestine (other cancers excluded from controls)	MONDO_0000956	small intestine cancer	0.7821
+C3_SPINAL_CORD_CRANIAL_AND_OTHER_CNS	Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system	EFO_0000326	central nervous system cancer	0.6633
+C3_STOMACH	Malignant neoplasm of stomach	MONDO_0001056	gastric cancer	0.99
+C3_STOMACH_EXALLC	Malignant neoplasm of stomach (other cancers excluded from controls)	MONDO_0001056	gastric cancer	0.7424999999999999
+C3_TESTIS	Malignant neoplasm of testis	EFO_0005088	testicular carcinoma	0.99
+C3_TESTIS_EXALLC	Malignant neoplasm of testis (other cancers excluded from controls)	EFO_0005088	testicular carcinoma	0.7424999999999999
+C3_THYROID_GLAND	Malignant neoplasm of thyroid gland	MONDO_0002108	thyroid cancer	0.99
+C3_THYROID_GLAND_EXALLC	Malignant neoplasm of thyroid gland (other cancers excluded from controls)	MONDO_0002108	thyroid cancer	0.7821
+C3_UNCERTAIN_SECONDARY	Secondary uncertain malignant neoplasm	EFO_0009812	secondary malignant neoplasm	0.86
+C3_UNCERTAIN_SECONDARY_EXALLC	Secondary uncertain malignant neoplasm (other cancers excluded from controls)	EFO_0009812	secondary malignant neoplasm	0.67
+C3_URINARY_TRACT	Malignant neoplasm of urinary organs	EFO_1000363	Malignant Urinary System Neoplasm	0.75
+C3_VULVA	Malignant neoplasm of vulva	MONDO_0001528	vulva cancer	0.99
+C3_VULVA_EXALLC	Malignant neoplasm of vulva (other cancers excluded from controls)	MONDO_0001528	vulva cancer	0.7424999999999999
+CD2_BENIGN	Benign neoplasms	EFO_0002422	benign neoplasm	1
+CD2_BENIGN_ADRENAL	Benign neoplasm: Adrenal gland	MONDO_0021511	benign neoplasm of adrenal gland	1
+CD2_BENIGN_ADRENAL_EXALLC	Benign neoplasm: Adrenal gland (other cancers excluded from controls)	MONDO_0021511	benign neoplasm of adrenal gland	0.79
+CD2_BENIGN_ANUS_ANAL_CANAL	Benign neoplasm: Anus and anal canal	MONDO_0021469	benign neoplasm of anus	0.7424999999999999
+CD2_BENIGN_ASCENDING_COLON	Benign neoplasm: Ascending colon	MONDO_0002278	benign colon neoplasm	0.86
+CD2_BENIGN_ASCENDING_COLON_EXALLC	Benign neoplasm: Ascending colon (other cancers excluded from controls)	MONDO_0002278	benign colon neoplasm	0.67
+CD2_BENIGN_BONE_CARTILAGE	Benign neoplasm of bone and articular cartilage	MONDO_0000631	bone benign neoplasm	0.7424999999999999
+CD2_BENIGN_BONE_LONG_LOWER	Benign neoplasm: Long bones of lower limb	MONDO_0000952	cancer of long bone of lower limb	0.86
+CD2_BENIGN_BONE_LONG_LOWER_EXALLC	Benign neoplasm: Long bones of lower limb (other cancers excluded from controls)	MONDO_0000952	cancer of long bone of lower limb	0.77
+CD2_BENIGN_BONE_SHORT_LOWER	Benign neoplasm: Short bones of lower limb	MONDO_0000631	bone benign neoplasm	0.6633
+CD2_BENIGN_BONE_SHORT_UPPER	Benign neoplasm: Short bones of upper limb	EFO_0007360	maxillary neoplasm	0.7326
+CD2_BENIGN_BRAIN_CNS	Benign neoplasm of brain and other parts of central nervous system	MONDO_0000628	central nervous system organ benign neoplasm	0.8217
+CD2_BENIGN_BRAIN_CNS_EXALLC	Benign neoplasm of brain and other parts of central nervous system (other cancers excluded from controls)	MONDO_0000628	central nervous system organ benign neoplasm	0.7029
+CD2_BENIGN_BRAIN_SUPRATENT	Benign neoplasm: Brain, supratentorial	MONDO_0021451	benign neoplasm of brain	0.86
+CD2_BENIGN_BRAIN_SUPRATENT_EXALLC	Benign neoplasm: Brain, supratentorial (other cancers excluded from controls)	MONDO_0021451	benign neoplasm of brain	0.67
+CD2_BENIGN_BREAST	Benign neoplasm of breast	MONDO_0000620	breast benign neoplasm	1
+CD2_BENIGN_BREAST_EXALLC	Benign neoplasm of breast (other cancers excluded from controls)	MONDO_0000620	breast benign neoplasm	0.7424999999999999
+CD2_BENIGN_BRONCHUS_LUNG	Benign neoplasm: Bronchus and lung	MONDO_0002732	lung benign neoplasm	0.8513999999999999
+CD2_BENIGN_CAECUM	Benign neoplasm: Caecum	EFO_0007197	cecal benign neoplasm	0.9405
+CD2_BENIGN_CHOROID	Benign neoplasm: Choroid	MONDO_0021487	benign neoplasm of choroid	1
+CD2_BENIGN_CHOROID_EXALLC	Benign neoplasm: Choroid (other cancers excluded from controls)	MONDO_0021487	benign neoplasm of choroid	0.75
+CD2_BENIGN_COLON	Benign neoplasm: Colon	MONDO_0002278	benign colon neoplasm	1
+CD2_BENIGN_COLON_EXALLC	Benign neoplasm: Colon (other cancers excluded from controls)	MONDO_0002278	benign colon neoplasm	0.75
+CD2_BENIGN_COLON_NOS	Benign neoplasm: Colon, unspecified	MONDO_0002278	benign colon neoplasm	0.86
+CD2_BENIGN_COLON_NOS_EXALLC	Benign neoplasm: Colon, unspecified (other cancers excluded from controls)	MONDO_0002278	benign colon neoplasm	0.67
+CD2_BENIGN_COLORECANI	Benign neoplasm of colon, rectum, anus and anal canal	MONDO_0002278	benign colon neoplasm	0.66
+CD2_BENIGN_CONJUNCTIVA	Benign neoplasm: Conjunctiva	EFO_1000110	Benign Conjunctival Neoplasm	0.99
+CD2_BENIGN_CONJUNCTIVA_EXALLC	Benign neoplasm: Conjunctiva (other cancers excluded from controls)	EFO_1000110	Benign Conjunctival Neoplasm	0.7424999999999999
+CD2_BENIGN_CONNECTIVE_SOFT	Other benign neoplasms of connective and other soft tissue	MONDO_0000654	benign connective and soft tissue neoplasm	1
+CD2_BENIGN_CONNECTIVE_SOFT_EXALLC	Other benign neoplasms of connective and other soft tissue (other cancers excluded from controls)	MONDO_0000654	benign connective and soft tissue neoplasm	0.67
+CD2_BENIGN_CONNSOFT_HEADFACETRUNK	Benign neoplasm: Connective and other soft tissue of head, face and neck	MONDO_0000654	benign connective and soft tissue neoplasm	0.62
+CD2_BENIGN_CONNSOFT_HEADFACETRUNK_EXALLC	Benign neoplasm: Connective and other soft tissue of head, face and neck (other cancers excluded from controls)	MONDO_0000654	benign connective and soft tissue neoplasm	0.55
+CD2_BENIGN_CONNSOFT_LOWERLIMB	Benign neoplasm: Connective and other soft tissue of lower limb, including hip	MONDO_0000654	benign connective and soft tissue neoplasm	0.57
+CD2_BENIGN_CONNSOFT_NOS	Benign neoplasm: Connective and other soft tissue, unspecified	MONDO_0000654	benign connective and soft tissue neoplasm	0.73
+CD2_BENIGN_CONNSOFT_NOS_EXALLC	Benign neoplasm: Connective and other soft tissue, unspecified (other cancers excluded from controls)	MONDO_0000654	benign connective and soft tissue neoplasm	0.62
+CD2_BENIGN_CONNSOFT_UPPERLIMB	Benign neoplasm: Connective and other soft tissue of upper limb, including shoulder	MONDO_0000654	benign connective and soft tissue neoplasm	0.57
+CD2_BENIGN_CRANIAL_NERVE	Benign neoplasm: Cranial nerves	MONDO_0002633	cranial nerve neoplasm	0.86
+CD2_BENIGN_CRANIAL_NERVE_EXALLC	Benign neoplasm: Cranial nerves (other cancers excluded from controls)	MONDO_0002633	cranial nerve neoplasm	0.67
+CD2_BENIGN_DESCENDING_COLON	Benign neoplasm: Descending colon	MONDO_0002278	benign colon neoplasm	0.86
+CD2_BENIGN_DESCENDING_COLON_EXALLC	Benign neoplasm: Descending colon (other cancers excluded from controls)	MONDO_0002278	benign colon neoplasm	0.67
+CD2_BENIGN_DUODENUM	Benign neoplasm: Duodenum	EFO_1000907	duodenal benign neoplasm	0.99
+CD2_BENIGN_DUODENUM_EXALLC	Benign neoplasm: Duodenum (other cancers excluded from controls)	EFO_1000907	duodenal benign neoplasm	0.7424999999999999
+CD2_BENIGN_EAR_RESP	Benign neoplasm of middle ear and respiratory system	MONDO_0000382	respiratory system benign neoplasm	0.6
+CD2_BENIGN_EAR_RESP_EXALLC	Benign neoplasm of middle ear and respiratory system (other cancers excluded from controls)	MONDO_0000382	respiratory system benign neoplasm	0.52
+CD2_BENIGN_ENDOCRINE_OTH	Benign neoplasm of other and unspecified endocrine glands	MONDO_0000627	benign endocrine neoplasm	0.8811
+CD2_BENIGN_ENDOCRINE_OTH_EXALLC	Benign neoplasm of other and unspecified endocrine glands (other cancers excluded from controls)	MONDO_0000627	benign endocrine neoplasm	0.7227
+CD2_BENIGN_EXALLC	Benign neoplasms (other cancers excluded from controls)	EFO_0002422	benign neoplasm	0.67
+CD2_BENIGN_EYE	Benign neoplasm of eye and adnexa	MONDO_0021454	benign neoplasm of eye	0.86
+CD2_BENIGN_EYE_EXALLC	Benign neoplasm of eye and adnexa (other cancers excluded from controls)	MONDO_0021454	benign neoplasm of eye	0.67
+CD2_BENIGN_FEMALE_GEN_OTH	Benign neoplasm of other and unspecified female genital organs	MONDO_0001416	female reproductive organ cancer	0.594
+CD2_BENIGN_KIDNEY	Benign neoplasm: Kidney	EFO_1000111	Benign Kidney Neoplasm	1
+CD2_BENIGN_KIDNEY	Benign neoplasm: Kidney	MONDO_0002513	kidney benign neoplasm	1
+CD2_BENIGN_KIDNEY_EXALLC	Benign neoplasm: Kidney (other cancers excluded from controls)	EFO_1000111	Benign Kidney Neoplasm	0.75
+CD2_BENIGN_LARYNX	Benign neoplasm: Larynx	MONDO_0002354	benign laryngeal neoplasm	0.99
+CD2_BENIGN_LARYNX_EXALLC	Benign neoplasm: Larynx (other cancers excluded from controls)	MONDO_0002354	benign laryngeal neoplasm	0.7424999999999999
+CD2_BENIGN_LEIOMYOMA_UTERI_EXALLC	Leiomyoma of uterus (other cancers excluded from controls)	MONDO_0002715	uterine cancer	0.5642999999999999
+CD2_BENIGN_LIP	Benign neoplasm: Lip	MONDO_0021496	benign neoplasm of lip	1
+CD2_BENIGN_LIPOMATOUS	Benign lipomatous neoplasm	MONDO_0044983	benign lipomatous neoplasm	1
+CD2_BENIGN_LIPOMATOUS_EXALLC	Benign lipomatous neoplasm (other cancers excluded from controls)	MONDO_0044983	benign lipomatous neoplasm	0.75
+CD2_BENIGN_LIPO_NOS	Benign lipomatous neoplasm of other sites/unspecified	MONDO_0044983	benign lipomatous neoplasm	0.86
+CD2_BENIGN_LIPO_NOS_EXALLC	Benign lipomatous neoplasm of other sites/unspecified (other cancers excluded from controls)	MONDO_0044983	benign lipomatous neoplasm	0.67
+CD2_BENIGN_LIPO_SKIN_LIMBS	Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs	MONDO_0044983	benign lipomatous neoplasm	0.6
+CD2_BENIGN_LIPO_SKIN_TRUNK	Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk	MONDO_0044983	benign lipomatous neoplasm	0.6
+CD2_BENIGN_LIP_EXALLC	Benign neoplasm: Lip (other cancers excluded from controls)	MONDO_0021496	benign neoplasm of lip	0.75
+CD2_BENIGN_LIVER	Benign neoplasm: Liver	EFO_0002422	benign neoplasm	0.8
+CD2_BENIGN_LIVE_BILE	Benign neoplasm: Liver/bile ducts	MONDO_0024470	benign chondrogenic neoplasm	0.78
+CD2_BENIGN_MALE_GEN	Benign neoplasm of male genital organs	EFO_0007355	male reproductive organ cancer	0.8811
+CD2_BENIGN_MALE_GEN_EXALLC	Benign neoplasm of male genital organs (other cancers excluded from controls)	EFO_0007355	male reproductive organ cancer	0.5544
+CD2_BENIGN_MENINGES	Benign neoplasm of meninges	EFO_0003851	meningeal neoplasm	0.99
+CD2_BENIGN_MENINGES_CEREBRAL	Benign neoplasm: Cerebral meninges	EFO_0003851	meningeal neoplasm	0.8513999999999999
+CD2_BENIGN_MENINGES_CEREBRAL_EXALLC	Benign neoplasm: Cerebral meninges (other cancers excluded from controls)	EFO_0003851	meningeal neoplasm	0.6633
+CD2_BENIGN_MENINGES_EXALLC	Benign neoplasm of meninges (other cancers excluded from controls)	EFO_0003851	meningeal neoplasm	0.7424999999999999
+CD2_BENIGN_MENINGES_NOS	Beningn neoplasm: Meninges, unspecified	EFO_0003851	meningeal neoplasm	0.67
+CD2_BENIGN_MOUTH_NOS	Benign neoplasm: Other and unspecified parts of mouth	EFO_0002422	benign neoplasm	0.57
+CD2_BENIGN_MOUTH_PHARYNX	Benign neoplasm of mouth and pharynx	MONDO_0000647	benign vaginal neoplasm	0.8613
+CD2_BENIGN_NOS	Benign neoplasm: Other/unspecified site	EFO_0007197	cecal benign neoplasm	0.7424999999999999
+CD2_BENIGN_OESOPHAGUS	Benign neoplasm: Oesophagus	MONDO_0021476	benign neoplasm of tongue	0.91
+CD2_BENIGN_OTHERDIGESTIVE	Benign neoplasm of other and ill-defined parts of digestive system	MONDO_0000385	benign digestive system neoplasm	0.8316
+CD2_BENIGN_OTHERDIGESTIVE_EXALLC	Benign neoplasm of other and ill-defined parts of digestive system (other cancers excluded from controls)	MONDO_0000385	benign digestive system neoplasm	0.67
+CD2_BENIGN_OTHER_NOS	Benign neoplasm of other and unspecified sites	EFO_0002422	benign neoplasm	0.67
+CD2_BENIGN_OVARY	Benign neoplasm of ovary	MONDO_0000646	ovarian benign neoplasm	0.99
+CD2_BENIGN_OVARY_EXALLC	Benign neoplasm of ovary (other cancers excluded from controls)	MONDO_0000646	ovarian benign neoplasm	0.5148
+CD2_BENIGN_PANCREAS	Benign neoplasm: Pancreas	MONDO_0021470	benign neoplasm of pancreas	1
+CD2_BENIGN_PANCREAS_EXALLC	Benign neoplasm: Pancreas (other cancers excluded from controls)	MONDO_0021470	benign neoplasm of pancreas	0.75
+CD2_BENIGN_PAROTID	Benign neoplasm: Parotid gland	MONDO_0021463	benign neoplasm of parathyroid gland	0.93
+CD2_BENIGN_PAROTID_EXALLC	Benign neoplasm: Parotid gland (other cancers excluded from controls)	MONDO_0004700	parotid gland cancer	0.67
+CD2_BENIGN_PERIPH_AUTO_NEURO	Benign neoplasm: Peripheral nerves and autonomic nervous system	MONDO_0056804	benign neoplasm of peripheral nervous system	0.83
+CD2_BENIGN_PERIPH_AUTO_NEURO_EXALLC	Benign neoplasm: Peripheral nerves and autonomic nervous system (other cancers excluded from controls)	MONDO_0056804	benign neoplasm of peripheral nervous system	0.71
+CD2_BENIGN_PITUITARY_CRANIPHAR	Benign neoplasm: Pituitary gland, craniopharyngeal duct	MONDO_0021439	benign neoplasm of pituitary gland	0.8
+CD2_BENIGN_PITUITARY_CRANIPHAR_EXALLC	Benign neoplasm: Pituitary gland, craniopharyngeal duct (other cancers excluded from controls)	MONDO_0021439	benign neoplasm of pituitary gland	0.67
+CD2_BENIGN_RECTOSIGMOID_JUNC	Benign neoplasm: Rectosigmoid junction	MONDO_0002423	rectosigmoid junction neoplasm	0.8513999999999999
+CD2_BENIGN_RECTOSIGMOID_JUNC_EXALLC	Benign neoplasm: Rectosigmoid junction (other cancers excluded from controls)	MONDO_0002423	rectosigmoid junction neoplasm	0.6633
+CD2_BENIGN_RECTUM	Benign neoplasm: Rectum	MONDO_0021462	benign neoplasm of rectum	1
+CD2_BENIGN_RECTUM_ANAL	Benign neoplasm: Rectum, anus and anal canal	MONDO_0021462	benign neoplasm of rectum	0.67
+CD2_BENIGN_RECTUM_ANAL_CANAL_ICD9	Benign neoplasm: Rectum/anal canal icd-9	EFO_0002422	benign neoplasm	0.57
+CD2_BENIGN_RECTUM_EXALLC	Benign neoplasm: Rectum (other cancers excluded from controls)	MONDO_0021462	benign neoplasm of rectum	0.75
+CD2_BENIGN_SALIVARY	Benign neoplasm of major salivary glands	MONDO_0021460	benign neoplasm of salivary gland	0.89
+CD2_BENIGN_SALIVARY_EXALLC	Benign neoplasm of major salivary glands (other cancers excluded from controls)	MONDO_0021460	benign neoplasm of salivary gland	0.73
+CD2_BENIGN_SALIVARY_NOS	Benign neoplasm: other/unspecified salivary gland	MONDO_0021460	benign neoplasm of salivary gland	0.95
+CD2_BENIGN_SALIVARY_NOS_EXALLC	Benign neoplasm: other/unspecified salivary gland (other cancers excluded from controls)	MONDO_0021460	benign neoplasm of salivary gland	0.77
+CD2_BENIGN_SIGMOID_COLON	Benign neoplasm: Sigmoid colon	MONDO_0002278	benign colon neoplasm	0.86
+CD2_BENIGN_SIGMOID_COLON_EXALLC	Benign neoplasm: Sigmoid colon (other cancers excluded from controls)	MONDO_0002278	benign colon neoplasm	0.67
+CD2_BENIGN_SKIN	Other benign neoplasms of skin	EFO_0004198	skin neoplasm	0.96
+CD2_BENIGN_SKIN	Other benign neoplasms of skin	MONDO_0021440	benign neoplasm of skin	1
+CD2_BENIGN_SKIN_EAR	Benign neoplasm: Skin of ear and external auricular canal	MONDO_0021474	benign neoplasm of ear	0.6
+CD2_BENIGN_SKIN_EXALLC	Other benign neoplasms of skin (other cancers excluded from controls)	MONDO_0021440	benign neoplasm of skin	0.75
+CD2_BENIGN_SKIN_EYELID	Benign neoplasm: Skin of eyelid, including canthus	MONDO_0020173	benign tumor of palpebral epidermis	0.594
+CD2_BENIGN_SKIN_EYELID_EXALLC	Benign neoplasm: Skin of eyelid, including canthus (other cancers excluded from controls)	MONDO_0020173	benign tumor of palpebral epidermis	0.5148
+CD2_BENIGN_SKIN_FACE	Benign neoplasm: Skin of other and unspecified parts of face	EFO_0000389	cutaneous melanoma	0.7524
+CD2_BENIGN_SKIN_LIP	Benign neoplasm: Skin of lip	MONDO_0021496	benign neoplasm of lip	0.86
+CD2_BENIGN_SKIN_LIP_EXALLC	Benign neoplasm: Skin of lip (other cancers excluded from controls)	MONDO_0021496	benign neoplasm of lip	0.67
+CD2_BENIGN_SKIN_LOWERLIMB	Benign neoplasm: Skin of lower limb, including hip	MONDO_0021440	benign neoplasm of skin	0.6
+CD2_BENIGN_SKIN_NOS	Benign neoplasm: Skin, unspecified	MONDO_0021440	benign neoplasm of skin	0.86
+CD2_BENIGN_SKIN_NOS_EXALLC	Benign neoplasm: Skin, unspecified (other cancers excluded from controls)	MONDO_0021440	benign neoplasm of skin	0.67
+CD2_BENIGN_SKIN_SCALPNECK	Benign neoplasm: Skin of scalp and neck	MONDO_0021440	benign neoplasm of skin	0.75
+CD2_BENIGN_SKIN_TRUNK	Benign neoplasm: Skin of trunk	MONDO_0021440	benign neoplasm of skin	0.86
+CD2_BENIGN_SKIN_TRUNK_EXALLC	Benign neoplasm: Skin of trunk (other cancers excluded from controls)	MONDO_0021440	benign neoplasm of skin	0.67
+CD2_BENIGN_SKIN_UPPERLIMB	Benign neoplasm: Skin of upper limb, including shoulder	MONDO_0021440	benign neoplasm of skin	0.6
+CD2_BENIGN_SMALL_INTESTINE	Benign neoplasm: Small intestine	MONDO_0021501	benign neoplasm of small intestine	1
+CD2_BENIGN_SMALL_INTESTINE_EXALLC	Benign neoplasm: Small intestine (other cancers excluded from controls)	MONDO_0021501	benign neoplasm of small intestine	0.79
+CD2_BENIGN_SMALL_INTESTINE_OTH	Benign neoplasm: Other and unspecified parts of small intestine	MONDO_0021501	benign neoplasm of small intestine	0.792
+CD2_BENIGN_SMALL_INTESTINE_OTH_EXALLC	Benign neoplasm: Other and unspecified parts of small intestine (other cancers excluded from controls)	MONDO_0021501	benign neoplasm of small intestine	0.6633
+CD2_BENIGN_SPINAL_CORD	Benign neoplasm: Spinal cord	EFO_0003828	spinal cord neoplasm	0.99
+CD2_BENIGN_SPINAL_CORD	Benign neoplasm: Spinal cord	MONDO_0021506	benign neoplasm of spinal cord	1
+CD2_BENIGN_SPINAL_CORD_EXALLC	Benign neoplasm: Spinal cord (other cancers excluded from controls)	MONDO_0021506	benign neoplasm of spinal cord	0.79
+CD2_BENIGN_STOMACH	Benign neoplasm: Stomach	MONDO_0021449	benign neoplasm of stomach	1
+CD2_BENIGN_STOMACH_EXALLC	Benign neoplasm: Stomach (other cancers excluded from controls)	MONDO_0021449	benign neoplasm of stomach	0.75
+CD2_BENIGN_THYROID	Benign neoplasm of thyroid gland	EFO_1000122	Benign Thyroid Gland Neoplasm	1
+CD2_BENIGN_THYROID_EXALLC	Benign neoplasm of thyroid gland (other cancers excluded from controls)	EFO_1000122	Benign Thyroid Gland Neoplasm	0.79
+CD2_BENIGN_TONGUE	Benign neoplasm: Tongue	MONDO_0021476	benign neoplasm of tongue	1
+CD2_BENIGN_TONGUE_EXALLC	Benign neoplasm: Tongue (other cancers excluded from controls)	MONDO_0021476	benign neoplasm of tongue	0.75
+CD2_BENIGN_TRANSVERSE_COLON	Benign neoplasm: Transverse colon	MONDO_0002278	benign colon neoplasm	0.86
+CD2_BENIGN_TRANSVERSE_COLON_EXALLC	Benign neoplasm: Transverse colon (other cancers excluded from controls)	MONDO_0002278	benign colon neoplasm	0.67
+CD2_BENIGN_URINARY	Benign neoplasm of urinary organs	MONDO_0004180	benign urinary system neoplasm	0.75
+CD2_BENIGN_UTERUS_NOS	Other benign neoplasm of uterus: Other parts/unspecified	MONDO_0000632	uterine benign neoplasm	0.8513999999999999
+CD2_BENIGN_UTERUS_NOS_EXALLC	Other benign neoplasm of uterus: Other parts/unspecified (other cancers excluded from controls)	MONDO_0000632	uterine benign neoplasm	0.6633
+CD2_BENIGN_UTERUS_OTH	Other benign neoplasms of uterus	MONDO_0000632	uterine benign neoplasm	0.99
+CD2_BENIGN_UTERUS_OTH_EXALLC	Other benign neoplasms of uterus (other cancers excluded from controls)	MONDO_0000632	uterine benign neoplasm	0.7424999999999999
+CD2_BENIGN_VAGINA	Benign neoplasm: Vulva	MONDO_0000643	vulvar benign neoplasm	0.99
+CD2_BENIGN_VAGINA_EXALLC	Benign neoplasm: Vulva (other cancers excluded from controls)	MONDO_0000643	vulvar benign neoplasm	0.7424999999999999
+CD2_BENIGN_VULVA	Benign neoplasm: Vagina	MONDO_0000647	benign vaginal neoplasm	0.99
+CD2_BENIGN_VULVA_EXALLC	Benign neoplasm: Vagina (other cancers excluded from controls)	MONDO_0000647	benign vaginal neoplasm	0.7424999999999999
+CD2_FOLLICULAR_LYMPHOMA	Follicular lymphoma	EFO_0000096	neoplasm of mature B-cells	0.99
+CD2_FOLLICULAR_LYMPHOMA	Follicular lymphoma	MONDO_0018906	follicular lymphoma	1
+CD2_FOLLICULAR_LYMPHOMA_EXALLC	Follicular lymphoma (other cancers excluded from controls)	MONDO_0018906	follicular lymphoma	0.57
+CD2_HODGKIN_LYMPHOMA	Hodgkin lymphoma	EFO_0000183	Hodgkins lymphoma	1
+CD2_HODGKIN_LYMPHOMA_EXALLC	Hodgkin lymphoma (other cancers excluded from controls)	EFO_0000183	Hodgkins lymphoma	0.57
+CD2_INSITU_BREAST	Carcinoma in situ of breast	EFO_0000432	breast ductal carcinoma in situ	0.99
+CD2_INSITU_BREAST	Carcinoma in situ of breast	MONDO_0004658	breast carcinoma in situ	1
+CD2_INSITU_BREAST_EXALLC	Carcinoma in situ of breast (other cancers excluded from controls)	MONDO_0004658	breast carcinoma in situ	0.75
+CD2_INSITU_BREAST_INTRADUCTAL	Carcinoma in situ of breast, intraductal	EFO_1000221	Ductal Breast Carcinoma In Situ and Lobular Carcinoma In Situ	0.7326
+CD2_INSITU_BREAST_INTRADUCTAL_EXALLC	Carcinoma in situ of breast, intraductal (other cancers excluded from controls)	EFO_1000221	Ductal Breast Carcinoma In Situ and Lobular Carcinoma In Situ	0.7821
+CD2_INSITU_BREAST_NOS	Carcinoma in situ of breast, other/unspecified	MONDO_0004658	breast carcinoma in situ	0.86
+CD2_INSITU_BREAST_NOS_EXALLC	Carcinoma in situ of breast, other/unspecified (other cancers excluded from controls)	MONDO_0004658	breast carcinoma in situ	0.67
+CD2_INSITU_CERVIX_UTERI	Carcinoma in situ of cervix uteri	MONDO_0042487	uterine cervix carcinoma in situ	0.96
+CD2_INSITU_CERVIX_UTERI_EXALLC	Carcinoma in situ of cervix uteri (other cancers excluded from controls)	MONDO_0042487	uterine cervix carcinoma in situ	0.7821
+CD2_INSITU_SKIN	Carcinoma in situ of skin	MONDO_0004641	skin carcinoma in situ	1
+CD2_INSITU_SKIN_EXALLC	Carcinoma in situ of skin (other cancers excluded from controls)	MONDO_0004641	skin carcinoma in situ	0.6633
+CD2_INSITU_SKIN_FACE	Carcinoma in situ of skin of other and unspecified parts of face	EFO_0000389	cutaneous melanoma	0.6633
+CD2_INSITU_SKIN_LOWERLIMB	Carcinoma in situ of skin of lower limb, including hip	MONDO_0004641	skin carcinoma in situ	0.594
+CD2_INSITU_SKIN_SCALPNECK	Carcinoma in situ of skin of scalp and neck	MONDO_0004641	skin carcinoma in situ	0.7424999999999999
+CD2_INSITU_SKIN_TRUNK	Carcinoma in situ of skin of trunk	MONDO_0004641	skin carcinoma in situ	0.8513999999999999
+CD2_INSITU_SKIN_TRUNK_EXALLC	Carcinoma in situ of skin of trunk (other cancers excluded from controls)	MONDO_0004641	skin carcinoma in situ	0.594
+CD2_INSITU_SKIN_UPPERLIMB	Carcinoma in situ of skin of upper limb, including shoulder	MONDO_0004641	skin carcinoma in situ	0.594
+CD2_LYMPHOID_LEUKAEMIA_EXALLC	Lymphoid leukaemia (other cancers excluded from controls)	EFO_0000574	lymphoma	0.5642999999999999
+CD2_MULTIPLE_MYELOMA_PLASMA_CELL	Multiple myeloma and malignant plasma cell neoplasms	EFO_0001378	multiple myeloma	0.7227
+CD2_MULTIPLE_MYELOMA_PLASMA_CELL_EXALLC	Multiple myeloma and malignant plasma cell neoplasms (other cancers excluded from controls)	EFO_0001378	multiple myeloma	0.6039
+CD2_NONHODGKIN_NAS	Other and unspecified types of non-Hodgkin lymphoma	MONDO_0042493	gastric non-hodgkin lymphoma	0.72
+CD2_PRIMARY_LYMPHOID_HEMATOPOIETIC	Primary_lymphoid and hematopoietic malignant neoplasms	MONDO_0044881	hematopoietic and lymphoid cell neoplasm	0.6633
+CD2_PRIMARY_LYMPHOID_HEMATOPOIETIC_EXALLC	Primary_lymphoid and hematopoietic malignant neoplasms (other cancers excluded from controls)	MONDO_0044881	hematopoietic and lymphoid cell neoplasm	0.5346000000000001
+CHIRBIL_PRIM	Biliary chirrosis, primary	EFO_1001486	primary biliary cirrhosis	0.8543999999999999
+CHRONHEP_NAS	Chronic hepatitis NAS	EFO_0008496	chronic hepatitis	0.8
+CHRONLARGE	Crohn's disease of large intestine	EFO_0000384	Crohn's disease	0.891
+CHRONSMALL	Crohn's disease of small interstine	EFO_0005629	small bowel Crohn's disease	0.82
+CMV_NOS	Other/unspecified cytomegaloviral diseases	EFO_0001062	cytomegalovirus infection	0.792
+CONGEN_HEART_ARTER	Congenital malformations of heart and great arteries	Orphanet_216729	Congenitally uncorrected transposition of the great arteries with cardiac malformation	0.6
+COPD_EARLY	Early onset COPD	EFO_0004772	early onset hypertension	0.67
+COPD_INSUFFICIENCY	COPD-related respiratory insufficiency	HP_0002091	Restrictive ventilatory defect	0.6633
+C_DIFFICILE_ENTEROCOLITIS	Enterocolitis due to Clostridium difficile	EFO_0009130	clostridium difficile infection	0.57
+C_STROKE	STROKE	EFO_0000712	stroke	1
+C_STROKE	STROKE	EFO_0003763	cerebrovascular disorder	0.98
+D3_ACQHAEMOLYTICANAEMIA	Acquired haemolytic anaemia	EFO_1001264	Anemia, Hemolytic, Autoimmune	0.6633
+D3_AGRANULOCYTOSIS	Agranulocytosis	HP_0012234	Agranulocytosis	1
+D3_ALLERGPURPURA	Allergic purpura	EFO_1000965	Henoch-Schoenlein purpura	0.99
+D3_ANAEMIA	Anaemias	MONDO_0002280	anemia (disease)	0.99
+D3_ANAEMIAINCHRONICDISEASE	Anaemia in chronic diseases classified elsewhere	MONDO_0044751	chronic diarrheal disease	0.75
+D3_ANAEMIA_B12_DEF	Vitamin B12 deficiency anaemia	EFO_0000734	vitamin B12 deficiency	0.86
+D3_ANAEMIA_IRONDEF	Iron deficiency anaemia	HP_0001891	Iron deficiency anemia	0.99
+D3_ANAEMIA_IRONDEF_BLOODLOSS	Iron deficiency anaemia secondary to blood loss (chronic)	HP_0001891	Iron deficiency anemia	0.594
+D3_ANAEMIA_IRONDEF_NAS	Other and unspecified iron deficiency	HP_0001891	Iron deficiency anemia	0.67
+D3_APLASTICANDOTHANAEMIA	Aplastic and other anaemias	HP_0001915	Aplastic anemia	0.99
+D3_BLOODNAS	Other and unspecified diseases of blood and blood-forming organs	EFO_0005803	hematologic disease	0.6633
+D3_BLOODOTHER	Other diseases of blood and blood-forming organs	EFO_0005803	hematologic disease	0.99
+D3_COAGDEF	Chronic Coagulation defects	EFO_0009314	blood coagulation disease	0.792
+D3_COAGDEFNAS	Other and unspecified coagulation defects	EFO_0009314	blood coagulation disease	0.792
+D3_COAGDEF_PURPUR_HAEMORRHAGIC	Coagulation defects, purpura and other haemorrhagic conditions	EFO_0009314	blood coagulation disease	0.5642999999999999
+D3_COAGOTHER	Other coagulation defects	EFO_0009314	blood coagulation disease	0.99
+D3_COMBIMMUDEF	Combined immunodeficiencies	HP_0005387	Combined immunodeficiency	1
+D3_COMBIMMUDEF	Combined immunodeficiencies	Orphanet_101972	Combined T and B cell immunodeficiency	0.99
+D3_EOSINOPHILIA	Eosinophilia	EFO_1001467	Hypereosinophilic syndrome	0.96
+D3_EOSINOPHILIA	Eosinophilia	HP_0001880	Eosinophilia	1
+D3_IMMUDEF	Immunodeficiencies	HP_0002721	Immunodeficiency	1
+D3_IMMUDEF	Immunodeficiencies	MONDO_0021094	immunodeficiency disease	0.99
+D3_IMMUDEFANTIBODY	Immunodeficiency with predominantly antibody defects	Orphanet_331244	Other immunodeficiency syndrome with predominantly antibody defects	0.89
+D3_IMMUDEFANTIBODYNAS	Other and unspecified immunodeficiencies with predominantly antibody defects	Orphanet_331244	Other immunodeficiency syndrome with predominantly antibody defects	0.8
+D3_IMMUNEMECHANISM	Certain disorders involving the immune mechanism	EFO_0000540	immune system disease	0.99
+D3_IMMUNEMECHANISMNAS	Other and unspecified disorders involving the immune mechanism, not elsewhere classified	EFO_0000540	immune system disease	0.7227
+D3_IMMUNEMECHANISMOTHER	Other disorders involving the immune mechanism, not elsewhere classified	EFO_0000540	immune system disease	0.8811
+D3_ITP	Idiopathic thrombocytopenic purpura	EFO_0007160	autoimmune thrombocytopenic purpura	0.99
+D3_OTHERANAEMIA	Other anaemias	MONDO_0002280	anemia (disease)	0.99
+D3_OTHERBLOOD	Oher diseases of blood and blood-forming organs	EFO_0005803	hematologic disease	0.6633
+D3_OTHERWHITECELL	Other disorders of white blood cells	MONDO_0004805	leukocyte disease	0.99
+D3_SARCOIDOSIS	Sarcoidosis	Orphanet_797	Sarcoidosis	1
+D3_SPLEENDISEASE	Diseases of spleen	EFO_0009002	splenic disease	0.99
+D3_VONVILLEBRAND	Von Willebrand disease	MONDO_0024574	von Willebrand disease (hereditary or acquired)	0.99
+D3_VONVILLEBRAND	Von Willebrand disease	Orphanet_903	Von Willebrand disease	1
+D3_WHITEBLOODCELLNAS	Other and unspecified disorders of white blood cells	MONDO_0004805	leukocyte disease	0.8811
+DM_AION	AION (anterior ischemic optic neuropathy)	EFO_1000809	anterior ischemic optic neuropathy	0.95
+DM_BCKGRND_RETINA_NONPROLIF	Severe non-proliferative background diabetic retinopathy	EFO_0009760	non-proliferative diabetic retinopathy	0.82
+DM_KETOACIDOSIS	Diabetic ketoacidosis	EFO_1000897	diabetic ketoacidosis	1
+DM_MACULOPATHY	Diabetic maculopathy	EFO_0010133	diabetic maculopathy	1
+DM_NEOVASCULAR_GLAUCOMA	Neovascular glaucoma	EFO_1001060	neovascular glaucoma	1
+DM_NEPHROPATHY	Diabetic nephropathy	EFO_0000401	diabetic nephropathy	1
+DM_NEPHROPATHY_EXMORE	Diabetic nephropathy (more controls excluded)	EFO_0000401	diabetic nephropathy	0.6633
+DM_NEUROPATHY	Diabetic neuropathy	EFO_1000783	diabetic neuropathy	1
+DM_PERIPH_ANGIOPATHY	Peripheral angiopathy	EFO_0003875	peripheral vascular disease	0.99
+DM_POLYNEURO	Diabetic polyneuropathy	MONDO_0001583	diabetic polyneuropathy	1
+DM_RETINA_NOS	Unspecified diabetic retinopathy	EFO_0003770	diabetic retinopathy	0.8
+DM_RETINA_PROLIF	Proliferative diabetic retinopathy	EFO_0009322	proliferative diabetic retinopathy	1
+DM_RETINOPATHY	Diabetic retinopathy	EFO_0003770	diabetic retinopathy	1
+DM_RETINOPATHY_EXMORE	Diabetic retinopathy (more controls excluded)	EFO_0003770	diabetic retinopathy	0.67
+DM_RET_VEIN_OCCLU	Retinal vein occlusion (central or branch)	EFO_1001157	retinal vein occlusion	0.75
+DRY_AMD	Dry age-related macular degeneration (includes geographic atrophy)	EFO_0001365	age-related macular degeneration	0.66
+E4_ACIDOSIS	Acidosis	EFO_1000014	acidosis	1
+E4_ADDISON	Adrenocortical insufficiency	EFO_0009491	adrenocortical insufficiency	1
+E4_ADRENAL	Other disorders of adrenal gland	EFO_0005539	adrenal gland disease	0.99
+E4_AMYLOIDOSIS	Amyloidosis	EFO_1001875	amyloidosis	1
+E4_AMYLOIDOSIS	Amyloidosis	Orphanet_85448	Familial amyloidosis, Finnish type	0.96
+E4_CARCISDR	Carcinoid syndrome	EFO_1000852	carcinoid syndrome	1
+E4_CA_MET	Disorders of calcium metabolism	EFO_0005769	calcium metabolic disease	0.99
+E4_CUSHING	Cushing syndrome	EFO_0003099	Cushing syndrome	1
+E4_CUSHING	Cushing syndrome	EFO_0009452	hyperaldosteronism	0.99
+E4_DIABETES	Diabetes mellitus	EFO_0000400	diabetes mellitus	1
+E4_DIABINSIPIDUS	Diabetes insipidus	MONDO_0004782	diabetes insipidus	1
+E4_DM1	Type 1 diabetes	EFO_0001359	type I diabetes mellitus	0.99
+E4_DM1COMA	Type 1 diabetes with coma	EFO_0009758	fulminant type 1 diabetes	0.89
+E4_DM1KETO	Type 1 diabetes with ketoacidosis	EFO_0001359	type I diabetes mellitus	0.8513999999999999
+E4_DM1NASCOMP	Type 1 diabetes with other specified/multiple/unspecified complications	EFO_0001359	type I diabetes mellitus	0.7424999999999999
+E4_DM1NEU	Type 1 diabetes with neurological complications	EFO_0001359	type I diabetes mellitus	0.7424999999999999
+E4_DM1NOCOMP	Type 1 diabetes without complications	EFO_0001359	type I diabetes mellitus	0.8513999999999999
+E4_DM1OPTH	Type 1 diabetes with ophthalmic complications	EFO_0001359	type I diabetes mellitus	0.7424999999999999
+E4_DM1PERIPH	Type 1 diabetes with peripheral circulatory complications	EFO_0001359	type I diabetes mellitus	0.6732
+E4_DM1REN	Type 1 diabetes with renal complications	EFO_0001359	type I diabetes mellitus	0.7424999999999999
+E4_DM1_STRICT	Type 1 diabetes, strict (exclude DM2)	EFO_0001359	type I diabetes mellitus	0.6732
+E4_DM2	Type 2 diabetes	EFO_0001360	type II diabetes mellitus	0.99
+E4_DM2COMA	Type 2 diabetes with coma	EFO_0001360	type II diabetes mellitus	0.8513999999999999
+E4_DM2KETO	Type 2 diabetes with ketoacidosis	EFO_0001360	type II diabetes mellitus	0.8811
+E4_DM2NASCOMP	Type 2 diabetes with other specified/multiple/unspecified complications	EFO_0001360	type II diabetes mellitus	0.7424999999999999
+E4_DM2NEU	Type 2 diabetes with neurological complications	EFO_0001360	type II diabetes mellitus	0.7424999999999999
+E4_DM2NOCOMP	Type 2 diabetes without complications	EFO_0001360	type II diabetes mellitus	0.8513999999999999
+E4_DM2OPTH	Type 2 diabetes with ophthalmic complications	EFO_0001360	type II diabetes mellitus	0.7424999999999999
+E4_DM2PERIPH	Type 2 diabetes with peripheral circulatory complications	EFO_0001360	type II diabetes mellitus	0.6732
+E4_DM2REN	Type 2 diabetes with renal complications	EFO_0001360	type II diabetes mellitus	0.7424999999999999
+E4_DM2_STRICT	Type 2 diabetes, strict (exclude DM1)	EFO_0001360	type II diabetes mellitus	0.6732
+E4_ENDODIS	Other endocrine disorders	EFO_0001379	endocrine system disease	0.99
+E4_ENDODISNAS	Endocrine disorders, other/unspecified	MONDO_0001933	endocrine pancreas disease	0.6633
+E4_ENDOGLAND	Disorders of other endocrine glands	EFO_0001379	endocrine system disease	0.99
+E4_ENDOMETPOSTOP	Postprocedural endocrine and metabolic disorders, not elsewhere classified	EFO_0001379	endocrine system disease	0.5642999999999999
+E4_ENDONUTRMET	Endocrine, nutritional and metabolic diseases	MONDO_0024297	nutritional or metabolic disease	0.86
+E4_FLUIDELECTRO	Other disorders of fluid, electrolyte and acid-base balance	MONDO_0041261	disorder of acid-base balance	0.75
+E4_GOITREDIFF	Nontoxic diffuse goitre	MONDO_0001658	nontoxic goiter	0.792
+E4_GOITREMULTINOD	Nontoxic multinodular goitre	MONDO_0001658	nontoxic goiter	0.792
+E4_GOITRENAS	Other and/or unspecified nontoxic goitre	MONDO_0001658	nontoxic goiter	0.6633
+E4_GOITRENOD	Nontoxic single thyroid nodule	EFO_1001436	thyroid nodule	0.67
+E4_HYPERALDO	Hyperaldosteronism	EFO_0009452	hyperaldosteronism	1
+E4_HYPERPARA	Hyperparathyroidism	EFO_0008506	hyperparathyroidism	1
+E4_HYPERPIT	Hyperfunction of pituitary gland	EFO_1001108	pituitary apoplexy	0.891
+E4_HYPERPRO	Hyperprolactinaemia	EFO_0007319	hyperprolactinemia	0.99
+E4_HYPERPRO	Hyperprolactinaemia	MONDO_0024305	acquired hyperprolactinemia	0.99
+E4_HYPOPARA	Hypoparathyroidism	EFO_0009451	hypoparathyroidism	1
+E4_HYPOPIT	Hypopituitarism	EFO_0001380	hypopituitarism	1
+E4_IRON_MET	Disorders of iron metabolism	MONDO_0002279	iron metabolism disease	0.99
+E4_LACTONAS	Lactose intolerance, other/unspecified	EFO_1000062	lactose intolerance	0.6633
+E4_LACTOSEINT	Lactose intolerance	EFO_1000062	lactose intolerance	1
+E4_LIPOPROT	Disorders of lipoprotein metabolism and other lipidaemias	EFO_0000589	metabolic disease	0.6633
+E4_LIPOPROTNAS	Disorder of lipoprotein metabolism, unspecified	EFO_0000589	metabolic disease	0.8513999999999999
+E4_MALNUTRITION	Malnutrition	EFO_0001069	nutritional disorder	0.99
+E4_MALNUTRITION	Malnutrition	EFO_0008572	malnutrition	1
+E4_MALNUTRITION	Malnutrition	EFO_1001067	nutritional deficiency disease	0.96
+E4_METABO	Other metabolic disorders	EFO_0000589	metabolic disease	0.99
+E4_METABOLIA	Metabolic disorders	EFO_0000589	metabolic disease	0.99
+E4_MINERAL_MET	Disorders of mineral metabolism	EFO_0009556	mineral metabolism disease	0.99
+E4_OBESITY	Obesity	EFO_0001073	obesity	1
+E4_OBESITYXTRMALV	Extreme obesity with alveolar hypoventilation	HP_0002791	Hypoventilation	0.6633
+E4_OVARDYS	Ovarian dysfunction	EFO_0009003	ovarian dysfunction	1
+E4_OVARFAIL	Primary ovarian failure	EFO_0004266	primary ovarian insufficiency	0.99
+E4_PARATHYRO	Disorders of parathyroid gland	EFO_0005754	parathyroid disease	0.99
+E4_POCS	Polycystic ovarian syndrome	EFO_0000660	polycystic ovary syndrome	0.99
+E4_PORBILIR	Disorders of porphyrin and bilirubin metabolism	MONDO_0037821	porphyrin metabolism disease	0.9306
+E4_SHORT	Short stature, not elsewhere classified	HP_0008873	Disproportionate short-limb short stature	0.7424999999999999
+E4_THYROID	Disorders of the thyroid gland	EFO_1000627	thyroid disease	0.99
+E4_THYROIDITAUTOIM	Autoimmune thyroiditis	EFO_0003779	Hashimoto's thyroiditis	0.99
+E4_THYROIDITAUTOIM	Autoimmune thyroiditis	EFO_0006812	autoimmune thyroid disease	0.99
+E4_THYROIDITSUBAC	Subacute thyroiditis	EFO_1001194	subacute thyroiditis	1
+E4_THYROIDNASOTH	Disorder of thyroid, unspecified	EFO_1000627	thyroid disease	0.7424999999999999
+E4_VIT_B_DEF	Deficiency of other B group vitamins	EFO_0003762	vitamin D deficiency	0.792
+E4_VIT_DEF	Vitamin deficiency	EFO_0003762	vitamin D deficiency	1
+E4_VIT_DEF	Vitamin deficiency	EFO_0005878	vitamin deficiency	1
+E4_VIT_DEF	Vitamin deficiency	EFO_1000822	ascorbic acid deficiency	0.99
+E4_VIT_DEF	Vitamin deficiency	EFO_1001169	scurvy	0.99
+E4_VIT_DEF	Vitamin deficiency	EFO_1001237	vitamin A deficiency	1
+E4_VIT_DEF	Vitamin deficiency	MONDO_0024298	vitamin deficiency disorder	0.99
+E4_VIT_DEF	Vitamin deficiency	MONDO_0042976	vitamin B deficiency	1
+E4_VIT_D_DEF	Vitamin D deficiency	EFO_0003762	vitamin D deficiency	1
+E4_VIT_D_DEF	Vitamin D deficiency	EFO_0005878	vitamin deficiency	1
+E4_VIT_D_DEF	Vitamin D deficiency	EFO_1000822	ascorbic acid deficiency	0.99
+E4_VIT_D_DEF	Vitamin D deficiency	EFO_1001169	scurvy	0.99
+E4_VIT_D_DEF	Vitamin D deficiency	EFO_1001237	vitamin A deficiency	1
+E4_VIT_D_DEF	Vitamin D deficiency	MONDO_0024298	vitamin deficiency disorder	0.99
+E4_VIT_D_DEF	Vitamin D deficiency	MONDO_0042976	vitamin B deficiency	1
+ENCEPHALITIS	Encephalitis	EFO_0001423	encephalomyelitis	0.99
+ENCEPHALITIS	Encephalitis	MONDO_0019956	encephalitis	1
+ERECTILE_DYSFUNCTION	Erectile dysfunction	EFO_0004234	erectile dysfunction	1
+ESOSINOPHIL_DISEASE	Eosinophilic disease (BM)	MONDO_0018438	eosinophilic gastrointestinal disease	0.67
+F5_ALCOHOL_DEPENDENCE	Alcohol dependence	EFO_0003829	alcohol dependence	1
+F5_ALCOHOL_DEPENDENCE	Alcohol dependence	MONDO_0002046	alcohol abuse	0.96
+F5_ALLANXIOUS	All anxiety disorders	EFO_0006788	anxiety disorder	1
+F5_ALZHDEMENT	Dementia in Alzheimer disease	EFO_0000249	Alzheimer's disease	0.99
+F5_ANAPER	Anankastic personality disorder	MONDO_0001163	paranoid personality disorder	0.98
+F5_ANXIETY	Other anxiety disorders	EFO_0006788	anxiety disorder	1
+F5_ANXPER	Anxious personality disorder	MONDO_0001163	paranoid personality disorder	0.98
+F5_AUTISM	Autism	EFO_0003758	autism	1
+F5_BIPO	Bipolar affective disorders	EFO_0000289	bipolar disorder	0.99
+F5_CANNABIS	Mental and behavioural disorders due to cannabinoids	EFO_0000677	mental or behavioural disorder	0.75
+F5_CONDUCT	Conduct disorder	EFO_0004216	conduct disorder	1
+F5_CONDUCT	Conduct disorder	EFO_0004278	sudden cardiac arrest	0.99
+F5_CONDUCTEMO	Mixed disorders of conduct and emotions	EFO_0004216	conduct disorder	0.67
+F5_DELIRIUM	Delirium, not induced by alcohol and other psychoactive substances	EFO_1000800	alcohol withdrawal delirium	0.7296
+F5_DELUSIO	Persistent delusional disorders	MONDO_0004359	delusional disorder	0.8
+F5_DEMENTIA	Dementia	HP_0000726	Dementia	1
+F5_DEMENTIA	Dementia	MONDO_0001627	dementia (disease)	0.99
+F5_DEMINOTH	Dementia in other diseases classified elsewhere	MONDO_0001627	dementia (disease)	0.8
+F5_DEPPER	Dependent personality disorder	HP_0012075	Personality disorder	0.8
+F5_DEPRESSIO	Depression	EFO_0003761	unipolar depression	0.99
+F5_DEPRESSIO	Depression	MONDO_0002050	depressive disorder	0.99
+F5_DISPER	Dissocial personality disorder	MONDO_0001160	dissociative disorder	0.8
+F5_DISSOCIATIVE	Dissociative [conversion] disorders	MONDO_0001160	dissociative disorder	0.8
+F5_EATING	Eating disorders	EFO_0005203	eating disorder	1
+F5_EATOTH	Other eating disorders	EFO_0005203	eating disorder	1
+F5_EMOPER	Emotionally unstable personality disorder	HP_0012075	Personality disorder	0.67
+F5_GAD	Generalized anxiety disorder	EFO_1001892	generalized anxiety disorder	1
+F5_HABIT	Habit and impulse disorders	MONDO_0001162	impulse control disorder	0.67
+F5_HYPERKIN	Hyperkinetic disorders (excl. ADHD)	EFO_0003888	attention deficit hyperactivity disorder	0.6633
+F5_KELAMENT	Kela-cod for severe mental illness	MONDO_0002025	psychiatric disorder	0.7524
+F5_KELARET	Kela-code for behavioural disturbances in mental retardation	EFO_0003847	mental retardation	0.65
+F5_MENTALUNSPE	Mental disorders, not otherwise specified	EFO_0000677	mental or behavioural disorder	0.99
+F5_MENTALUNSPE	Mental disorders, not otherwise specified	MONDO_0002025	psychiatric disorder	0.99
+F5_MENTPUER	Mental and behauvioural disorders associated with the puerperium	EFO_0000677	mental or behavioural disorder	0.6633
+F5_MENTRET	Mental retardation	EFO_0003847	mental retardation	1
+F5_MENTRET	Mental retardation	HP_0001249	Intellectual disability	0.99
+F5_MILDRET	Mild mental retardation	HP_0001256	Intellectual disability, mild	0.99
+F5_MIXEDDEV	Mixed specific developmental disorders	MONDO_0000592	specific developmental disorder	0.86
+F5_MIXPER	Mixed and other personality disorders	HP_0012075	Personality disorder	0.8
+F5_MOOD	Mood [affective] disorders	EFO_0004247	mood disorder	0.8
+F5_MOODOTH	Other and unspecidied mood [affective] disorders	EFO_0000289	bipolar disorder	0.7227
+F5_MOTOR	Specific developmental disorder of motor function	MONDO_0000592	specific developmental disorder	0.75
+F5_NEUROTIC	Neurotic, stress-related and somatoform disorders	EFO_0004257	neurotic disorder	0.67
+F5_NEUROTICOTH	Other neurotic disorders	EFO_0004257	neurotic disorder	1
+F5_OCD	Obsessive-compulsive disorder	EFO_0004242	obsessive-compulsive disorder	1
+F5_OPIOIDS	Mental and behavioural disorders due to opioids	EFO_0000677	mental or behavioural disorder	0.75
+F5_ORGANIC	Organic, including symptomatic, mental disorders	EFO_1001457	cognitive disorder	0.72
+F5_OTHPER	Other specified and unspecified personality disorders	EFO_0007417	paracoccidioidomycosis	0.8712
+F5_OTHRET	Other and unspecified mental retardation	EFO_0003847	mental retardation	0.8
+F5_PANIC	Panic disorder	EFO_0004262	panic disorder	1
+F5_PARAPER	Paranoid personality disorder	MONDO_0001163	paranoid personality disorder	1
+F5_PERSMOOD	Persistent mood disorders	EFO_0004247	mood disorder	0.8
+F5_PERSONALITY	Specific personality disorders	HP_0012075	Personality disorder	0.8
+F5_PERVASIVE	Pervasive developmental disorders excl. Autism + Asperger	EFO_0003759	pervasive developmental disorder - not otherwise specified	0.67
+F5_PHOBANX	Phobic anxiety disorders	EFO_0006788	anxiety disorder	0.8
+F5_PSYCH	Psychiatric diseases	MONDO_0002025	psychiatric disorder	0.99
+F5_PSYCHDEVOTH	Other and unspecified disorders of psychological development	EFO_0003756	autism spectrum disorder	0.6435
+F5_PSYCHOTH	Other and unspecified nonorganic psychotic disorders	EFO_0000289	bipolar disorder	0.8019000000000001
+F5_PSYTRANS	Acute and transient psychotic disorders	EFO_0000677	mental or behavioural disorder	0.6633
+F5_PTSD	Post-traumatic stress disorder	EFO_0001358	post-traumatic stress disorder	1
+F5_SCHIZO	Schizophrenia, schizotypal and delusional disorders	MONDO_0004359	delusional disorder	0.67
+F5_SCHIZOAFF	Schizoaffective disorder	EFO_0000692	schizophrenia	0.96
+F5_SCHIZOAFF	Schizoaffective disorder	EFO_0005411	schizoaffective disorder	1
+F5_SCHIZPER	Schizoid personality disorder	MONDO_0001161	schizoid personality disorder	1
+F5_SCHOLA	Specific development disorders of scholastic skills	EFO_0003852	developmental disability	0.7722
+F5_SCHZPHR	Schizophrenia	EFO_0000692	schizophrenia	1
+F5_SEDAHYP	Mental and behavioural disorders due to sedatives or hypnotics	EFO_0000677	mental or behavioural disorder	0.67
+F5_SEXDYS	Sexual dysfunction	EFO_0004714	sexual dysfunction	1
+F5_SEXDYS	Sexual dysfunction	MONDO_0002134	physiological sexual disorder	0.97
+F5_SLEEP	Sleep disorders	EFO_0008568	Sleep Disorder	1
+F5_SLEEP	Sleep disorders	MONDO_0003406	sleep-wake disorder	0.96
+F5_SOMATOFORM	Somatoform disorder	EFO_0009687	somatoform disorder	1
+F5_SPEECH	Specific development disorders of speech and language	MONDO_0016226	specific language disorder	0.92
+F5_STIMUL	Mental and behavioural disorders due to use of other stimulants, including caffeine	EFO_0000677	mental or behavioural disorder	0.6
+F5_STRESSOTH	Other reactioin to severe stress, and adjustment disorders	MONDO_0003265	adjustment disorder	0.57
+F5_SUBSTANCE	Mental and behavioural disorders due to psychoctive substance use	EFO_0000677	mental or behavioural disorder	0.67
+F5_TIC	Tic disorders	HP_0100033	Tics	0.99
+F5_TIC	Tic disorders	MONDO_0002420	tic disorder	1
+F5_TOBAC	Mental and behavioural disorders due to tobacco	EFO_0000677	mental or behavioural disorder	0.75
+F5_UNSMENDIS	Unspecified mental disorder	EFO_0000677	mental or behavioural disorder	0.792
+F5_VASCDEM	Vascular dementia	EFO_0004718	vascular dementia	1
+FE	Focal epilepsy	EFO_0004263	partial epilepsy	0.99
+FEMHER_UNILATERAL	Femoral hernia, unilateral	EFO_1001791	femoral hernia	0.8
+FEMINGHER_BILATERAL	Inguinal or femoral hernia, bilateral	EFO_1001791	femoral hernia	0.67
+FEMNINGHER_UNILATERAL	Inguinal of femoral hernia, unilateral	EFO_1001791	femoral hernia	0.67
+FE_MODE	Focal epilepsy	EFO_0004263	partial epilepsy	0.99
+FE_STRICT	Focal epilepsy	EFO_0004263	partial epilepsy	0.99
+FG_CEREBVASC	Cerebrovascular diseases (FINNGEN)	EFO_0003763	cerebrovascular disorder	0.792
+FG_CVD	Cardiovascular diseases (excluding rheumatic etc)	EFO_0000319	cardiovascular disease	0.67
+FG_DOAAC	Diseases of arteries, arterioles and capillaries (FINNGEN)	MONDO_0001574	capillary disease	0.57
+FG_HYPERTENSION	Hypertensive diseases (excluding secondary)	EFO_0000537	hypertension	0.6633
+FG_OTHHEART	Other heart diseases	EFO_0000319	cardiovascular disease	0.99
+FG_OTHHEART	Other heart diseases	EFO_0003777	heart disease	1
+FG_PULMHEART	Pulmonary heart disease	MONDO_0004596	cor pulmonale	0.99
+G6_AD_WIDE	Alzheimer's disease, wide definition	EFO_0000249	Alzheimer's disease	0.5642999999999999
+G6_ALCODEGEN	Degeneration of the brain due to alcohol	HP_0002283	Global brain atrophy	0.5642999999999999
+G6_ALS	Motor neuron disease	EFO_0003782	motor neuron disease	1
+G6_ALZHEIMER	Alzheimer disease	EFO_0000249	Alzheimer's disease	1
+G6_ALZHEIMER_EXMORE	Alzheimer disease (more controls excluded)	EFO_0000249	Alzheimer's disease	0.67
+G6_ATROPHCIRCUM	Circumscribed brain atrophy	HP_0012444	Brain atrophy	0.8
+G6_ATYFAC	Atypical facial pain	EFO_0009625	facial pain	0.8
+G6_BELLPA	Bell's palsy	EFO_0007167	Bell's palsy	1
+G6_BRACHPLE	Brachial plexus disorders	EFO_1000844	brachial plexus neuropathy	0.99
+G6_CARPTU	Carpal tunnel syndrome	EFO_0004143	carpal tunnel syndrome	1
+G6_CAUDA	Cauda equina syndrome	EFO_0007196	Cauda equina syndrome	1
+G6_CAUSALGIA	Causalgia	EFO_1000854	causalgia	1
+G6_CERVROOT	Cervical root disorders	MONDO_0002256	cervix disease	0.792
+G6_CP	Cerebral palsy	EFO_1000632	cerebral palsy	1
+G6_CPETAL	Cerebral palsy and other paralytic syndromes	EFO_1000632	cerebral palsy	0.67
+G6_DEGENOTH	Other and unspecified degenerative diseases of nervous system	EFO_0005772	neurodegenerative disease	0.7722
+G6_DEMYEL	Demyelenating diseases of the central nervous system	EFO_0009386	central nervous system disease	0.89
+G6_DISBROTHUNS	Disorders of brain, other and unspecified	EFO_0005774	brain disease	0.792
+G6_DYSTON	Dystonia	HP_0001332	Dystonia	1
+G6_DYSTON	Dystonia	MONDO_0003441	dystonic disorder	0.99
+G6_ENCEPHOTH	Other encephalitis	EFO_0001423	encephalomyelitis	0.99
+G6_ENCEPHOTH	Other encephalitis	MONDO_0019956	encephalitis	1
+G6_EPIPAROX	Episodal and paroxysmal disorders	Orphanet_46348	Paroxysmal extreme pain disorder	0.65
+G6_EPLEPSY	Epilepsy	EFO_0000474	epilepsy	1
+G6_EPLEPSY	Epilepsy	HP_0001250	Seizure	0.96
+G6_FACOTH	Other facial nerve disorders	EFO_1002051	facial nerve disease	0.99
+G6_FEMLAPOP	Lesion of lateral popliteal nerve	MONDO_0024334	peripheral nerve lesion	0.57
+G6_GUILBAR	Guillain-Barre syndrome	EFO_0007292	Guillain-Barre syndrome	1
+G6_HCCOMM	Communicating hydrocephalus	MONDO_0002045	communicating hydrocephalus	1
+G6_HCNP	Normal-pressure hydrocephalus	EFO_1001065	normal pressure hydrocephalus	0.96
+G6_HEADACHE	Other headache syndromes	EFO_0009550	headache disorder	0.96
+G6_HEMIPLE	Hemiplegia	EFO_0009453	hemiplegia	1
+G6_HERATAXIA	Hereditary ataxia	EFO_0009671	hereditary ataxia	1
+G6_HYDROCEPH	Hydrocephalus	HP_0000238	Hydrocephalus	1
+G6_LSROOT	Lumbosacral root disorders, not elsewhere classified	MONDO_0002959	radiculopathy	0.5642999999999999
+G6_MEDLEOTH	Other lesions of median nerve	EFO_0004143	carpal tunnel syndrome	0.8316
+G6_MENINGBACT	Bacterial meningitis	EFO_1000831	bacterial meningitis	1
+G6_MENINGOTH	Other meningitis	EFO_0000584	infectious meningitis	0.99
+G6_MENINGOTH	Other meningitis	MONDO_0021108	meningitis (disease)	0.99
+G6_MIGRAINE	Migraine	EFO_0003821	migraine disorder	0.99
+G6_MIGRAINE_NO_AURA	Migraine without aura	EFO_0003821	migraine disorder	0.99
+G6_MIGRAINE_NO_AURA	Migraine without aura	EFO_0005295	migraine with aura	1
+G6_MIGRAINE_NO_AURA	Migraine without aura	EFO_0005296	migraine without aura	1
+G6_MIGRAINE_WITH_AURA	Migraine with aura	EFO_0003821	migraine disorder	0.99
+G6_MIGRAINE_WITH_AURA	Migraine with aura	EFO_0005295	migraine with aura	1
+G6_MIGRAINE_WITH_AURA	Migraine with aura	EFO_0005296	migraine without aura	1
+G6_MONOLOWOTHUNS	Other and unspecified mononeuropathies of lower limb	HP_0009816	Lower limb undergrowth	0.73
+G6_MONONPOTHUS	Other and unspecified mononeuropathies of upper limb	HP_0009824	Upper limb undergrowth	0.73
+G6_MS	MS-disease / Multiple Sclerosis	EFO_0003929	relapsing-remitting multiple sclerosis	0.9702
+G6_MYASTHENIA	Myasthenia gravis	EFO_0004991	Myasthenia gravis	1
+G6_MYONEU	Diseases of the myoneural junction and muscle	Orphanet_97238	Rippling muscle disease	0.57
+G6_NERPLEX	Nerve, nerve root and plexus disorders	EFO_0009559	nerve plexus disease	0.8118
+G6_NEUATR	Systemic atrophies primarly affecting the central nervous system	HP_0007367	Atrophy/Degeneration affecting the central nervous system	0.71
+G6_NEUINFL	Inflammatory diseases of the central nervous system	EFO_0009386	central nervous system disease	0.89
+G6_NEURO	Neurological diseases	EFO_0000618	nervous system disease	0.99
+G6_NEURODEG	Other degenerative diseases of the nervous system	EFO_0005772	neurodegenerative disease	0.8613
+G6_NEUROOTH	Other disorders of nervous system	EFO_0000618	nervous system disease	0.99
+G6_OTHDEMYEL	Other demyelinating diseases of the central nervous system	EFO_0009386	central nervous system disease	0.89
+G6_OTHNEU	Other neurological diseases	EFO_0000618	nervous system disease	0.99
+G6_PARDIPLE	Paraplegia, diplegia of upper limbs	MONDO_0004618	diplegia of upper limb	0.86
+G6_PARKINSON	Parkinson's disease	EFO_0002508	Parkinson's disease	1
+G6_PARKINSON_EXMORE	Parkinson's disease (more controls excluded)	EFO_0002508	Parkinson's disease	0.67
+G6_PARKSCND	Secondary parkinsonism+Parkinsonism in other disease	MONDO_0019724	secondary glomerular disease	0.91
+G6_PLANTAR	Lesion of plantar nerve	MONDO_0024334	peripheral nerve lesion	0.67
+G6_POLYNEU	Polyneuropathies and other disorders of the peripheral nervous system	EFO_0009387	peripheral nervous system disease	0.8811
+G6_POLYOTHUNS	Other and unspecified polyneuropathies, also in other diseases	EFO_0000319	cardiovascular disease	0.6633
+G6_POSTOPNEURO	Postprocedural disorders of nervous system	EFO_0000618	nervous system disease	0.9207000000000001
+G6_RADLES	Lesion of radial nerve	EFO_1001143	radial nerve lesion	1
+G6_ROOTPLEXOTHUNS	Other and unspecified nerve root and plexus disorders, also in other diseases	EFO_0009559	nerve plexus disease	0.6435
+G6_SCIALE	Lesion of sciatic nerve	MONDO_0001543	lesion of sciatic nerve	1
+G6_SPINOTH	Other diseases of spinal cord	EFO_0009488	spinal cord disease	1
+G6_STATUSEPI	Status epilepticus	EFO_0008526	status epilepticus	1
+G6_TARSTUN	Tarsal tunnel syndrome	EFO_1001208	tarsal tunnel syndrome	1
+G6_TIA	Transient ischemic attack	EFO_0003764	transient ischemic attack	1
+G6_TRINEU	Trigeminal neuralgia	EFO_1001219	trigeminal neuralgia	1
+G6_TRIOTHUNS	Other and unspecified trigeminal disorders	EFO_0000289	bipolar disorder	0.6830999999999999
+G6_ULLNLE	Lesion of ulnar nerve	EFO_1001143	radial nerve lesion	0.84
+G6_VASCSYND	Vascular syndromes of brain in cerebrovascular disorders	EFO_0003763	cerebrovascular disorder	0.8118
+G6_XTRAPYR	Extrapyramidal and movement disorders	MONDO_0001815	extrapyramidal and movement disease	0.86
+G6_XTRAPYROTH	Other extrapyramidal and movement disorders+ in other diseases	MONDO_0001815	extrapyramidal and movement disease	0.94
+GE	Generalized epilepsy	EFO_0005917	generalised epilepsy	0.99
+GEST_DIABETES	Gestational diabetes (for exclusion)	EFO_0004593	gestational diabetes	0.8
+GE_STRICT	Generalized epilepsy, strict edfinition	EFO_0005917	generalised epilepsy	0.6633
+GIANT_CELL_TEMP_ARTERITIS	Giant cell arteritis with polymyalgia rheumatica	EFO_1001209	temporal arteritis	0.7424999999999999
+GLOMER_NEPHRITIS	Glomerulonephritis	MONDO_0002462	glomerulonephritis (disease)	0.99
+H7_ALLERGICCONJUNCTIVITIS	Allergic conjunctivitis	EFO_0007141	allergic conjunctivitis	1
+H7_AMD	Age-related macular degeneration (whether dry or wet)	EFO_0001365	age-related macular degeneration	0.83
+H7_ANOMAPUPFUNC	Anomalies of pupillary function	HP_0007686	Abnormal pupillary function	0.67
+H7_ASTIGMATISM	Astigmatism	HP_0000483	Astigmatism	1
+H7_BINOCUMOVOTH	Other disorders of binocular movement	EFO_1001990	ocular motility disease	0.6633
+H7_BINODISTOTH	Other disorders of binocular vision	EFO_0009535	binocular vision disease	0.99
+H7_CATARACTOTHER	Other cataract	EFO_0001059	cataract	1
+H7_CENTRRETARTOCC	Central retinal artery occlusion	EFO_1001154	retinal artery occlusion	0.86
+H7_CHALAZION	Chalazion	EFO_0007363	meibomian cyst	0.99
+H7_CHOROIDOTH	Other disorders of choroid	MONDO_0001898	optic choroid disease	0.99
+H7_CHOROIDRETINA	Disorders of choroid and retina	MONDO_0001898	optic choroid disease	0.5544
+H7_CONJUNCTIVA	Disorders of conjunctiva	EFO_1000203	Conjunctival Disorder	0.99
+H7_CONJUNCTIVITIS	Conjunctivitis	EFO_0009450	conjunctivitis	1
+H7_CONJUNCTIVITISATOPIC	Atopic conjunctivitis	EFO_0007141	allergic conjunctivitis	0.99
+H7_CONJUNCTIVITISCHRON	Chronic conjunctivitis	MONDO_0002314	chronic conjunctivitis	1
+H7_CONJUVASC	Other conjunctival vascular disorders and cysts	MONDO_0022293	vascular disorder of penis	0.72
+H7_CORNEALDEFORM	Keratoconus	Orphanet_156071	Keratoconus	1
+H7_CORNEALNAS	Other and unspecified corneal deformities and disorders	EFO_1000879	corneal edema	0.7424999999999999
+H7_CORNEALOTH	Other disorders of cornea	EFO_0009464	corneal disease	0.99
+H7_CORNEALSCAR	Corneal scars and opacities	HP_0000559	Corneal scarring	0.8
+H7_DIPLOPIA	Diplopia	HP_0000651	Diplopia	1
+H7_ECTROPION	Ectropion of eyelid	MONDO_0002043	ectropion (disease)	0.99
+H7_EPIPHORA	Epiphora	HP_0009926	Epiphora	1
+H7_EPISCLERITIS	Episcleritis	HP_0100534	Episcleritis	1
+H7_EYE	Diseases of the eye and adnexa	EFO_0009546	eye adnexa disease	1
+H7_EYEADNEXOTH	Other specified and unspecified disorders of eye and adnexa	EFO_0009546	eye adnexa disease	0.74
+H7_EYELIDDIS	Other disorders of eyelid	EFO_0009547	eyelid disease	0.99
+H7_EYELIDINFLAMMATION	Other inflammation of eyelid	EFO_0009536	blepharitis	0.99
+H7_EYELIDINOTH	Disorders of eyelid in diseases classified elsewhere	EFO_0009547	eyelid disease	0.6435
+H7_EYEOTH	Other disorders of eye and adnexa	EFO_0009546	eye adnexa disease	0.67
+H7_GLAUCCLOSEPRIM	Primary angle-closure glaucoma	EFO_1001506	primary angle closure glaucoma	0.99
+H7_GLAUCNAS	Other and unspecified glaucoma	EFO_0000516	glaucoma	0.99
+H7_GLAUCOMA	Glaucoma	EFO_0000516	glaucoma	1
+H7_GLAUCOMAMEDICATION	Use of antiglaucoma preparations and miotics	EFO_0009944	Antiglaucoma preparations and miotics use measurement	0.86
+H7_GLAUCOMA_POAG	Primary open-angle glaucoma, strict	MONDO_0001744	angle-closure glaucoma	0.7424999999999999
+H7_GLAUCOMA_XFG	Glaucoma, exfoliation	EFO_0004235	exfoliation syndrome	0.99
+H7_GLAUCPRIMOPEN	Primary open-angle glaucoma	EFO_0004190	open-angle glaucoma	0.99
+H7_GLAUCSECDISEASE	Glaucoma secondary to other eye disorders	EFO_0003966	eye disease	0.6633
+H7_GLOBE	Disorders of globe	EFO_0003966	eye disease	0.96
+H7_HEREDRETINADYST	Hereditary retinal dystrophy	Orphanet_71862	Retinal dystrophy	0.99
+H7_HYPERMETRO	Hypermetropia	HP_0000540	Hypermetropia	1
+H7_HYPERMETRO	Hypermetropia	MONDO_0004891	hyperopia	0.99
+H7_IRIDOACUTE	Acute and subacute iridocyclitis	EFO_1000830	bacterial endocarditis	0.5642999999999999
+H7_IRIDOCYCLITIS	Iridocyclitis	EFO_1000811	anterior uveitis	0.98
+H7_IRIDOCYCLITIS	Iridocyclitis	HP_0001094	Iridocyclitis	1
+H7_IRIDOCYCLITISINOTH	Iridocyclitis in diseases classified elsewhere	EFO_0000318	cardiomyopathy	0.8415
+H7_KERATITIS	Keratitis	EFO_0009449	keratitis	1
+H7_KERATITISINOTH	Keratitis and keratoconjunctivitis in other diseases classified elsewhere	EFO_0000318	cardiomyopathy	0.6435
+H7_KERATITISOTH	Other keratitis	EFO_0009449	keratitis	1
+H7_KERATOCONUS	Hereditary corneal dystrophies	Orphanet_98973	Posterior polymorphous corneal dystrophy	0.7424999999999999
+H7_LACRIGLAND	Other disorders of lacrimal gland	MONDO_0024625	disorder of lacrimal gland	1
+H7_LACRIGLAND	Other disorders of lacrimal gland	Orphanet_98603	Secretory apparatus of the lacrimal system anomaly	0.96
+H7_LACRIMALORBITINOTH	Disorders of lacrimal system and orbit in diseases classified elsewhere	EFO_0000319	cardiovascular disease	0.7029
+H7_LACRIMALSYSTEM	Disorders of lacrimal system	EFO_0009455	lacrimal apparatus disease	0.99
+H7_LACRIMINFLAMCHRON	Inflammation of lacrimal passages (chronic)	MONDO_0004804	dacryoadenitis	0.5642999999999999
+H7_LENS	Disorders of lens	EFO_0009674	lens disease	0.99
+H7_LIDLACRIMALORBIT	Disorders of eyelid, lacrimal system and orbit	EFO_0009455	lacrimal apparatus disease	0.8019000000000001
+H7_MACULADEGEN	Degeneration of macula and posterior pole	MONDO_0002175	degeneration of macula and posterior pole	1
+H7_MACULOPATHYDIAB	Diabetic maculopathy	EFO_0010133	diabetic maculopathy	1
+H7_MODVISIMPBINOC	Moderate visual impairment, binocular	HP_0000505	Visual impairment	0.67
+H7_MYOPIA	Myopia	HP_0000545	Myopia	1
+H7_MYOPIA	Myopia	MONDO_0001384	myopia (disease)	0.99
+H7_NYSTAGMUS	Nystagmus and other irregular eye movements	Orphanet_98691	Abnormal eye movements	0.57
+H7_OCUPAIN	Ocular pain	HP_0200026	Ocular pain	1
+H7_OPTATROPHY	Optic atrophy	MONDO_0003608	optic atrophy	1
+H7_OPTNERVNAS	Disorders of optic nerve, not elsewhere classified	MONDO_0002135	optic nerve disease	0.5642999999999999
+H7_OPTNEURITIS	Optic neuritis	EFO_0007405	optic neuritis	1
+H7_OTHERCONJ	Other disorders of conjunctiva	EFO_1000203	Conjunctival Disorder	0.99
+H7_OTHIRISCILIARY	Other disorders of iris and ciliary body	MONDO_0002970	ciliary body disease	0.8513999999999999
+H7_OTHRETARTOCC	Other retinal artery occlusion	EFO_1001154	retinal artery occlusion	1
+H7_PARASTRA3	Third [oculomotor] nerve palsy	Orphanet_98685	Oculomotor palsy	0.7424999999999999
+H7_PARASTRA4	Fourth [trochlear] nerve palsy	MONDO_0001146	fourth cranial nerve palsy	0.99
+H7_PARASTRA6	Sixth [abducent] nerve palsy	EFO_1001102	peroneal nerve paralysis	0.7227
+H7_PARASTRAB	Paralytic strabismus	EFO_0009678	paralytic strabismus	1
+H7_PERIPHRETINADEGEN	Peripheral retinal degeneration	MONDO_0004580	retinal degeneration	0.8
+H7_PRESBYOPIA	Presbyopia	MONDO_0001330	presbyopia	1
+H7_PTERYGIUM	Pterygium	EFO_0000678	pterygium	1
+H7_PTOSIS	Ptosis of eyelid	MONDO_0000728	ptosis (disease)	0.99
+H7_RETINAHAEMORR	Retinal haemorrhage	HP_0000573	Retinal hemorrhage	0.99
+H7_RETINALDETACHBREAK	Retinal detachment with retinal break	EFO_0010698	retinal break	0.83
+H7_RETINALDETACHOTH	Other, unspecified and serous retinal detachments	EFO_0005773	retinal detachment	0.67
+H7_RETINANAS	Other specified and unspecified retinal disorders	EFO_0000289	bipolar disorder	0.6830999999999999
+H7_RETINAVASC	Retinal vascular disorders	MONDO_0002311	retinal vascular disease	0.99
+H7_RETINOPATHYDIAB	Diabetic retinopathy	EFO_0003770	diabetic retinopathy	1
+H7_RETINOPATHYDIAB_BKG	Diabetic background retinopathy	EFO_0003770	diabetic retinopathy	0.91
+H7_RETINOPATHYDIAB_BKG_SEVERE	Severe diabetic background retinopathy	EFO_0003770	diabetic retinopathy	0.76
+H7_RETINOPATHYDIAB_NAS	Other diabetic retinopathy	EFO_0003770	diabetic retinopathy	1
+H7_RETINOPATHYDIAB_PROLIF	Proliferative diabetic retinopathy	EFO_0009322	proliferative diabetic retinopathy	1
+H7_RETIVASCOCCLUSION	Retinal vascular occlusion	MONDO_0002089	retinal vascular occlusion	1
+H7_RETVASCNAS	Other and unspecified vascular occlusions	MONDO_0002089	retinal vascular occlusion	0.8513999999999999
+H7_SCLERACORNEA	Disorders of sclera, cornea, iris and ciliary body	MONDO_0002970	ciliary body disease	0.6633
+H7_STRABISMUS	Strabismus	HP_0000486	Strabismus	1
+H7_STRABOTH	Other strabismus	HP_0000486	Strabismus	1
+H7_VASCCILIARY	Hyphaema and other vascular disorders of iris and ciliary body	MONDO_0002970	ciliary body disease	0.6633
+H7_VISFIELDDEF	Visual field defects	HP_0001123	Visual field defect	1
+H7_VITRBODYGLOBE	Disorders of vitreous body	EFO_0008624	vitreous body disease	0.99
+H7_VITREOUS	Disorders of vitreous body and globe	EFO_0008624	vitreous body disease	0.8513999999999999
+H7_VITROPACIT	Other vitreous opacities	HP_0100832	Vitreous floaters	0.99
+H7_VITROTH	Other and unspecified disorders of vitreous body	EFO_0008624	vitreous body disease	0.8513999999999999
+H8_BPV	Benign paroxysmal vertigo	Orphanet_71518	Benign paroxysmal torticollis of infancy	0.57
+H8_CHOLEASTOMA	Cholesteatoma of middle ear	EFO_1000678	cholesteatoma of middle ear	1
+H8_CHRON_SUPOTITIS	Chronic suppurative otitis media	MONDO_0021206	chronic non-suppurative otitis media	0.92
+H8_CONSENHEARINGLOSS	Conductive and sensorineural hearing loss	MONDO_0044001	hearing loss, mixed conductive-sensorineural	0.8811
+H8_EAR	Diseases of the ear and mastoid process	EFO_1001455	auditory system disease	0.5642999999999999
+H8_EUSTNAS	Other disorders of Eustachian tube	EFO_0009667	eustachian tube disease	0.99
+H8_EUSTSALP	Eustachian salpingitis and obstruction	MONDO_0002172	otosalpingitis	0.792
+H8_EXTDISINOTH	Disorder of external ear, unspecified	EFO_0009668	external ear disease	0.8513999999999999
+H8_EXTDISNAS	Other specified disorders of external ear	EFO_0009668	external ear disease	0.99
+H8_EXTERNAL	Diseases of external ear	EFO_0009668	external ear disease	1
+H8_EXTOTITIS	Otitis externa	EFO_0009560	otitis externa	1
+H8_EXT_ABSC	Abscess of external ear	EFO_1000677	cholesteatoma of external ear	0.67
+H8_EXT_INFNAS	Other infective otitis externa	EFO_0009560	otitis externa	0.9108
+H8_EXT_NAS	Otitis externa, unspecified	EFO_0007503	suppurative otitis media	0.693
+H8_EXT_NONINF	Acute otitis externa, noninfective	EFO_0009560	otitis externa	0.67
+H8_EXT_OTH	Other otitis externa (chronic)	MONDO_0021206	chronic non-suppurative otitis media	0.9009
+H8_HL_CON_NAS	Conductive hearing loss, unspecified	HP_0000405	Conductive hearing impairment	0.8513999999999999
+H8_HL_IDIOP	Sudden idiopathic hearing loss	MONDO_0020677	sudden hearing loss disorder	0.75
+H8_HL_MIX_NAS	Mixed conductive and sensorineural hearing loss	MONDO_0044001	hearing loss, mixed conductive-sensorineural	0.99
+H8_HL_NAS	Other specified/unspecified hearing loss	EFO_0004238	hearing loss	0.8
+H8_HL_PRESBY	Presbycusis	MONDO_0043765	presbycusis	1
+H8_HL_SEN_NAS	Sensorineural hearing loss	EFO_1001176	sensorineural hearing loss	1
+H8_HL_SEN_NAS	Sensorineural hearing loss	HP_0000407	Sensorineural hearing impairment	0.99
+H8_HL_SEN_NAS	Sensorineural hearing loss	Orphanet_383	X-linked mixed deafness with perilymphatic gusher	0.97
+H8_INNER	Diseases of inner ear	EFO_0009672	inner ear disease	1
+H8_INNER	Diseases of inner ear	EFO_1001455	auditory system disease	0.99
+H8_INNER	Diseases of inner ear	MONDO_0021205	disease of ear	1
+H8_MED_SUPP	Suppurative and unspecified otitis media	EFO_0007503	suppurative otitis media	0.99
+H8_MENIERE	Meniere disease	EFO_0006862	Meniere disease	1
+H8_MIDDLEADDH	Adhesive middle ear disease	MONDO_0003276	middle ear disease	0.86
+H8_MIDDLEMASTOID	Diseases of middle ear and mastoid	EFO_1001455	auditory system disease	0.8513999999999999
+H8_NONSUPPNAS	Nonsuppurative otitis media	MONDO_0001212	non-suppurative otitis media	1
+H8_OTALGIA	Otalgia	HP_0030766	Ear pain	0.99
+H8_OTHEREAR	Other disorders of ear	EFO_0009672	inner ear disease	0.99
+H8_OTHEREAR	Other disorders of ear	EFO_1001455	auditory system disease	0.99
+H8_OTHEREAR	Other disorders of ear	MONDO_0021205	disease of ear	0.99
+H8_OTHHEARINGLOSS	Other hearing loss	EFO_0004238	hearing loss	1
+H8_OTIMEDNAS	Otitis media, unspecified	EFO_0007503	suppurative otitis media	0.8217
+H8_OTOSCLE	Otosclerosis	EFO_0004213	otosclerosis	1
+H8_PERCHRONDR	Perichondritis of external ear	EFO_1000677	cholesteatoma of external ear	0.67
+H8_PERFORATION	Perforation of tympanic membrane	EFO_0009472	tympanic membrane perforation	1
+H8_PERIPHVERTIGO	Other peripheral vertigo	MONDO_0004900	peripheral vertigo	1
+H8_SUP_ACUTE	Acute suppurative otitis media	EFO_0007503	suppurative otitis media	0.86
+H8_SUP_OTINAS	Suppurative otitis media, unspecified	EFO_0007503	suppurative otitis media	0.99
+H8_TINNITUS	Tinnitus	HP_0000360	Tinnitus	1
+H8_VERTIGO	Disorders of vestibular function (Vertigo)	EFO_0009691	vestibular disease	0.8513999999999999
+H8_VERTIGOCENT	Vertigo of central origin	MONDO_0002317	central nervous system origin vertigo	0.99
+H8_VESTIBNEUR	Vestibular neuronitis	EFO_0007537	vestibular neuronitis	1
+H8_VESTIFUNCNAS	Other/unspecified disorders of vestibular function	EFO_0009672	inner ear disease	0.6566000000000001
+HEPATITIS_ACUTE_OTHER_VIRAL	Other acute viral hepatitis	EFO_0003047	hepatitis C virus infection	0.792
+HEPATITIS_CHRONIC_VIRAL	Chronic viral hepatitis	EFO_0004220	chronic hepatitis C virus infection	0.99
+HERING_BILATERAL	Inguinal hernia, bilateral	HP_0000023	Inguinal hernia	0.8
+HERING_UNILATERAL	Inguinal hernia, unilateralk	HP_0000023	Inguinal hernia	0.8
+HYPOTHYROIDISM	Hypothyroidism (congenital or acquired)	Orphanet_442	Congenital hypothyroidism	0.8
+I9_AF	Atrial fibrillation and flutter	EFO_0000275	atrial fibrillation	0.94
+I9_AF_REIMB	Atrial fibrillation and flutter with reimbursement	EFO_0000275	atrial fibrillation	0.78
+I9_ANEURYSM	Cerebral aneurysm, nonruptured	EFO_0003870	brain aneurysm	0.792
+I9_ANGINA	Angina pectoris	EFO_0003913	angina pectoris	1
+I9_AORTANEUR	Aortic aneurysm	EFO_0001666	aortic aneurysm	1
+I9_ARTEMBTHR	Arterial embolism and thrombosis	EFO_0010671	arterial embolism	0.94
+I9_ARTEMBTHRLOW	Arterial embolism and thrombosis of lower extremity artery	HP_0004420	Arterial thrombosis	0.65
+I9_ARTOTH	Other diseases of arteries and capillaries	MONDO_0000473	arterial disorder	0.792
+I9_ATHSCLE	Atherosclerosis, excluding cerebral, coronary and PAD	EFO_1000860	cerebral atherosclerosis	0.57
+I9_CABG	Coronary artery bypass grafting	EFO_0004225	Coronary Vasospasm	0.7623
+I9_CARDARR	Cardiac arrest	EFO_0009492	cardiac arrest	1
+I9_CARDMYO	Cardiomyopathy	EFO_0000318	cardiomyopathy	1
+I9_CARDMYOHYP	Cardiomyopathy, Hypertrophic obstructive	EFO_0000538	hypertrophic cardiomyopathy	0.99
+I9_CEREBDOTH	Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere	EFO_0000318	cardiomyopathy	0.7524
+I9_CEREBVASC	Cerebrovascular diseases	EFO_0003763	cerebrovascular disorder	0.99
+I9_CHD	Major coronary heart disease event	EFO_0001645	coronary artery disease	0.7424999999999999
+I9_CHD_NOREV	Major coronary heart disease event excluding revascularizations	EFO_0001645	coronary artery disease	0.594
+I9_CONDUCTIO	Conduction disorders	EFO_0004216	conduct disorder	1
+I9_CONDUCTIO	Conduction disorders	EFO_0004278	sudden cardiac arrest	0.99
+I9_CORATHER	Coronary atherosclerosis	EFO_0001645	coronary artery disease	0.99
+I9_CORATHER	Coronary atherosclerosis	MONDO_0021661	coronary atherosclerosis	1
+I9_CVD	Cardiovascular diseases	EFO_0000319	cardiovascular disease	1
+I9_CVD	Cardiovascular diseases	HP_0001626	Abnormality of the cardiovascular system	0.96
+I9_CVD_HARD	Hard cardiovascular diseases	EFO_0000319	cardiovascular disease	0.8
+I9_DISVEINLYMPH	Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified	MONDO_0004928	lymph node disease	0.594
+I9_DOAAC	Diseases of arteries, arterioles and capillaries	MONDO_0000473	arterial disorder	0.6633
+I9_DVTANDPULM	DVT of lower extremities and pulmonary embolism	EFO_0003827	pulmonary embolism	0.5642999999999999
+I9_ENDOCARD	Endocarditis	EFO_0000465	endocarditis	1
+I9_HEARTFAIL_NS	Heart failure, not strict	EFO_0000373	congestive heart failure	0.6633
+I9_HYPERTENSION	Hypertensive diseases	EFO_0000537	hypertension	0.99
+I9_HYPERTROCARDMYOP	Hypertrophic cardiomyopathy	EFO_0000538	hypertrophic cardiomyopathy	1
+I9_HYPOTE	Hypotension	EFO_0005251	hypotension	1
+I9_HYPTENS	Hypertension	EFO_0000537	hypertension	1
+I9_HYPTENSEC	Secondary hypertension	EFO_1002034	secondary hypertension	1
+I9_HYPTENSESS	Hypertension, essential	EFO_1002032	primary hypertension	0.99
+I9_HYPTENSHD	Hypertensive Heart Disease	MONDO_0001302	hypertensive heart disease	1
+I9_HYPTENSHR	Hypertensive heart and/or renal disease	MONDO_0001302	hypertensive heart disease	0.75
+I9_HYPTENSPREG	Hypertension complicating pregnancy, childbirth, and the puerperium	MONDO_0024664	hypertension, pregnancy-induced	0.72
+I9_HYPTENSRD	Hypertensive Renal Disease	MONDO_0024633	hypertensive renal disease	1
+I9_IHD	Ischaemic heart disease, wide definition	EFO_0003777	heart disease	0.57
+I9_ISCHHEART	Ischemic heart diseases	EFO_1001375	Myocardial Ischemia	0.99
+I9_K_CARDIAC	Death due to cardiac causes	EFO_0004278	sudden cardiac arrest	0.6633
+I9_LBBB	Left bundle-branch block	EFO_0004138	bundle branch block	0.792
+I9_LYMPHOTH	Other noninfective disordersof lymphatic vessels and lymph nodes	EFO_0007352	lymphatic system disease	0.7029
+I9_MI	Myocardial infarction	EFO_0000612	myocardial infarction	1
+I9_MI_STRICT	Myocardial infarction, strict	EFO_1000812	anterolateral myocardial infarction	0.8
+I9_MYOCARD	Myocarditis	EFO_0009609	myocarditis	1
+I9_NONISCHCARDMYOP	Non-ischemic cardiomyopathy	EFO_0009881	nonischemic cardiomyopathy	1
+I9_NONISCHCARDMYOP_STRICT	Nonischemic cardiomyopathy	EFO_0009881	nonischemic cardiomyopathy	1
+I9_NONRHEVALV	Non-rheumatic valve diseases	EFO_0009551	heart valve disease	0.9405
+I9_OTH	Other CVD	EFO_0000319	cardiovascular disease	0.99
+I9_OTHANEUR	Other aneurysm	EFO_0009659	aneurysm	1
+I9_OTHANEUR	Other aneurysm	HP_0002617	Vascular dilatation	0.98
+I9_OTHHEART	Other heart diseases	EFO_0000319	cardiovascular disease	0.99
+I9_OTHHEART	Other heart diseases	EFO_0003777	heart disease	1
+I9_OTHILLHEART	Other or ill-defined heart diseases	EFO_0000319	cardiovascular disease	0.99
+I9_OTHINTRACRA	Other intracranial haemorrhages	EFO_0000551	intracranial hemorrhage	0.99
+I9_OTHOTH	Other other unspecified disorders of the circulatory system	EFO_0000319	cardiovascular disease	0.99
+I9_OTHPER	Other peripheral vascular diseases	EFO_0003875	peripheral vascular disease	1
+I9_PAD	Peripheral artery disease	EFO_0004265	peripheral arterial disease	1
+I9_PAROXTAC	Paroxysmal tachycardia	EFO_0009493	paroxysmal tachycardia	1
+I9_PERICAOTH	Other diseases of pericardium	EFO_0000319	cardiovascular disease	0.99
+I9_PERICAOTH	Other diseases of pericardium	MONDO_0000474	pericardium disease	1
+I9_PERICARD	Pericarditis	EFO_0007427	pericarditis	1
+I9_PERIPH	Peripheral artery operations in Hilmo	EFO_0004265	peripheral arterial disease	0.5642999999999999
+I9_PHLETHROMBDVTLOW	DVT of lower extremities	HP_0007340	Lower limb muscle weakness	0.7424999999999999
+I9_PROGVASC	Progressive vascular leukoencephalopathy	Orphanet_139447	Progressive cavitating leukoencephalopathy	0.67
+I9_PULMEMB	Pulmonary embolism	EFO_0003827	pulmonary embolism	1
+I9_PULMHEART	Pulmonary heart disease, diseases of pulmonary circulation	MONDO_0004596	cor pulmonale	0.8811
+I9_PULMOTHHD	Other pulmonary heart/vessel disease	EFO_0007278	fungal lung infectious disease	0.8448
+I9_PVT	Portal vein thrombosis	HP_0030242	Portal vein thrombosis	1
+I9_RBBB	Right bundle-branch block	EFO_0004138	bundle branch block	0.99
+I9_RBBB	Right bundle-branch block	HP_0011712	Right bundle branch block	0.99
+I9_RHEUFEV	Rheumatic fever incl heart disease	EFO_1001161	rheumatic heart disease	0.75
+I9_RHEUVALV	Rheumatic valve diseases	EFO_0009557	mitral valve disease	0.9309999999999999
+I9_SECONDRIGHT	Secondary right heart disease	EFO_0003777	heart disease	0.8
+I9_SEQULAE	Sequelae of cerebrovascular disease	EFO_0003763	cerebrovascular disorder	0.792
+I9_STENOSIS	Occlusion and stenosis of arteries, not leading to stroke	EFO_0009677	occlusion precerebral artery	0.72
+I9_STR_EXH	Ischaemic Stroke, excluding all haemorrhages	HP_0002140	Ischemic stroke	0.7524
+I9_THROMBOTH	Other embolism and thrombosis	HP_0001907	Thromboembolism	0.96
+I9_TIA	Transient ischemic attack	EFO_0003764	transient ischemic attack	1
+I9_UAP	Unstable angina pectoris	EFO_1000985	intermediate coronary syndrome	0.792
+I9_VARICVE	Varicose veins	HP_0002619	Varicose veins	1
+I9_VARICVE	Varicose veins	MONDO_0008638	varicose disease	0.99
+I9_VARICVESOTH	Varicose veins of other sites	HP_0002619	Varicose veins	0.8
+I9_VASCDEM	Vascular dementia	EFO_0004718	vascular dementia	1
+I9_VASCINT	Vascular diseases of the intestine	EFO_0004264	vascular disease	0.8
+I9_VEINSOTH	Other disorders of veins	MONDO_0004634	vein disease	0.99
+I9_VHD	Valvular heart disease including rheumatic fever	EFO_1001161	rheumatic heart disease	0.67
+I9_VTE	Venous thromboembolism	EFO_0004286	venous thromboembolism	1
+IBD_VIRAL_HEPATITIS	Viral hepatitis, IBD co-morbidity	EFO_0003047	hepatitis C virus infection	0.6633
+ILD	Interstitial lung disease	EFO_0004244	interstitial lung disease	1
+ILD	Interstitial lung disease	HP_0006530	Abnormal pulmonary Interstitial morphology	0.99
+ILD_CVDMETABOCOMORB	ILD Co-morbidites, CVD and metabolic diseases	EFO_0000589	metabolic disease	0.5642999999999999
+ILD_ENDPOINTS	Interstitial lung disease endpoints	EFO_0004244	interstitial lung disease	0.86
+ILD_INSUFFICIENCY	ILD-related respiratory insufficiency	HP_0002091	Restrictive ventilatory defect	0.6633
+ILD_SYST_AUTO	ILD related to systemic autoimmune disease	MONDO_0015939	systemic autoimmune disease	0.75
+ILD_SYST_AUTO_DISEASES	Autoimmune diseases related-to ILD	MONDO_0017287	IgG4-related disease	0.7008
+IPF	Idiopathic pulmonary fibrosis (attempt to specificity)	EFO_0000768	idiopathic pulmonary fibrosis	0.75
+J10_ABSCLUNGPNEUMO	Abscess of lung	EFO_1001362	Lung Abscess	1
+J10_ACUTELOWERNAS	Unspecified acute lower respiratory infection	HP_0002788	Recurrent upper respiratory tract infections	0.7029
+J10_ACUTEUPPERINFEC	Acute upper respiratory infections of multiple and unspecified sites	HP_0002205	Recurrent respiratory infections	0.594
+J10_ARDS	Adult respiratory distress syndrome	MONDO_0100130	adult acute respiratory distress syndrome	0.99
+J10_ASBESTPNEUMOC	Pneumoconiosis due to asbestos and other mineral fibres	EFO_0007153	asbestosis	0.5642999999999999
+J10_ASTHMA	Asthma	EFO_0000270	asthma	1
+J10_BRONCH	Bronchitis, not specified as acute or chronic	EFO_0006505	chronic bronchitis	0.5049
+J10_BRONCHIECTASIS	Bronchiectasis	HP_0002110	Bronchiectasis	1
+J10_BRONCHIECTASIS	Bronchiectasis	MONDO_0004822	bronchiectasis	1
+J10_BRONCHITIS	Acute bronchitis	EFO_0009661	bronchitis	0.98
+J10_BRONCHITIS	Acute bronchitis	HP_0012388	Acute bronchitis	1
+J10_BRONCHNAS	Unspecified chronic bronchitis	EFO_0006505	chronic bronchitis	0.8
+J10_CHRONLARYNGITIS	Chronic laryngitis and laryngotracheitis	MONDO_0001369	chronic laryngitis	0.8
+J10_CHRONRHINITIS	Chronic rhinitsi, nasopharyngitis and pharyngitis	MONDO_0002258	pharyngitis	0.8428
+J10_CHRONSINUSITIS	Chronic sinusitis	EFO_1000024	chronic rhinosinusitis	0.99
+J10_CHRONTONSADEN	Chronic diseases of tonsils and adenoids	MONDO_0021250	tonsil neoplasm	0.6435
+J10_COPD	COPD	EFO_0000341	chronic obstructive pulmonary disease	0.99
+J10_COPDNAS	Other chronic obstructive pulmonary disease	EFO_0000341	chronic obstructive pulmonary disease	1
+J10_EMPHYSEMA	Emphysema	EFO_0000464	emphysema	1
+J10_EPIGLOTTITIS	Acute epiglottitis	EFO_0007261	epiglottitis	0.99
+J10_EXTERLUNG	Lung diseases due to external agents	EFO_0000684	respiratory system disease	0.7227
+J10_HYPERSPNEUMONI	Hypersensitivity pneumonitis due to organic dust	MONDO_0017853	hypersensitivity pneumonitis	0.57
+J10_INFLUENZA	All influenza	EFO_0007328	influenza	1
+J10_INTERSTITIUM	Other respiratory diseases principally affecting the interstitium	EFO_0000684	respiratory system disease	0.5642999999999999
+J10_LARYNGITIS	Acute laryngitis and tracheitis	MONDO_0004777	acute laryngitis	0.8
+J10_LOWCHRON	Chronic lower respiratory diseases	EFO_0009433	lower respiratory tract disease	0.5049
+J10_LOWERINF	Other acute lower respiratory infections	HP_0002788	Recurrent upper respiratory tract infections	0.7722
+J10_NASALPOLYP	Nasal polyp	EFO_1000391	Nasal Cavity Polyp	0.99
+J10_NASALPOLYP	Nasal polyp	HP_0100582	Nasal polyposis	0.99
+J10_NECROTIC	Suppurative and necrotic conditions of lower respiratory tract	EFO_0009433	lower respiratory tract disease	0.6
+J10_OTHERINSTPULM	Other insterstitial pulmonary diseases	EFO_0007278	fungal lung infectious disease	0.8256
+J10_PERITONSABSC	Peritonsillar abscess	EFO_0007429	peritonsillar abscess	1
+J10_PHARYNGITIS	Acute pharyngitis	EFO_0009657	acute pharyngitis	1
+J10_PHARYNGITIS	Acute pharyngitis	MONDO_0002258	pharyngitis	0.98
+J10_PLEURA	Other diseases of pleura	MONDO_0002037	pleural disease	0.99
+J10_PLEUREFFUSION	Pleural effusion	EFO_0009637	pleural effusion	1
+J10_PNEUMOBACT	Bacterial pneumoniae	EFO_1001272	bacterial pneumonia	1
+J10_PNEUMOBACTEROTH	Bacterial pneumonia, not elsewhere classified	EFO_1001272	bacterial pneumonia	0.8
+J10_PNEUMONAS	Pneumonia, organism unsepcified	EFO_1001300	Cryptogenic Organizing Pneumonia	0.67
+J10_PNEUMONIA	All pneumoniae	EFO_0003106	pneumonia	1
+J10_PNEUMONONBACT	Pneumonia due to other infectious organisms, not elsewhere classified	EFO_0003106	pneumonia	0.7424999999999999
+J10_PNEUMOPNEUMO	Pneumonia due to Streptococcus pneumoniae	EFO_0007499	streptococcal pneumonia	0.99
+J10_PNEUMOPROBBAC	Pneumonia (excl. viral and due to other infectious organisms not elsewhere classified)	EFO_0003106	pneumonia	0.594
+J10_PNEUMOTHORAX	Pneumothorax	HP_0002107	Pneumothorax	1
+J10_PNEUMOTHORAX	Pneumothorax	MONDO_0002076	pneumothorax (disease)	0.99
+J10_PULMEOS	Pulmonary eosinophilia, not elsewhere classified	EFO_0007257	eosinophilic pneumonia	0.792
+J10_PULMOEDEMA	Pulmonary oedema	EFO_1001134	pulmonary edema	0.99
+J10_PYOTHORAX	Pyothorax	EFO_0009680	pleural empyema	0.99
+J10_RESPCONDEXT	Respiratory conditions due to other external agents	EFO_0000684	respiratory system disease	0.99
+J10_RESPDISOTH	Other respiratory disorders and diseases	EFO_0000684	respiratory system disease	0.8513999999999999
+J10_RESPIRATORY	Diseases of the respiratory system	EFO_0000684	respiratory system disease	1
+J10_RESPOTHER	Other diseases of the respiratory system	EFO_0000684	respiratory system disease	1
+J10_SEPTDEV	Deviated nasal septum	EFO_1001813	Nasal Septal Perforation	0.6633
+J10_SIMPLBRONCH	Simple and mucoplurulent chronic bronchitis	EFO_0006505	chronic bronchitis	0.7623
+J10_UPPERDIS	Other diseases of upper respiratory tract	MONDO_0004867	upper respiratory tract disease	1
+J10_UPPERINFEC	Acute upper respiratory infections	MONDO_0024355	respiratory tract infectious disease	0.8428
+J10_VASOALLERRHIN	Vasomotor and allergic rhinitis	EFO_0007533	vasomotor rhinitis	0.9
+J10_VIRALPNEUMO	Viral pneumonia	EFO_0007541	viral pneumonia	1
+J10_VOCALLARYNX	Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified	MONDO_0004867	upper respiratory tract disease	0.62
+JOINTPAIN	Pain in joint	HP_0002829	Arthralgia	0.99
+JUVEN_ARTHR	Juvenile arthritis (FINNGEN)	EFO_0002609	juvenile idiopathic arthritis	0.792
+K11_ABSCANAL	Abscess of anal and rectal regions	EFO_0009660	anus disease	0.5642999999999999
+K11_ACUTGASTR	Acute gastritis	EFO_0000217	gastritis	0.99
+K11_ACUTPANC	Acute pancreatitis	EFO_1000652	acute pancreatitis	1
+K11_ADHE	Intestinal adhesions without obstruction	MONDO_0004565	intestinal obstruction	0.8
+K11_ALCGASTR	Alcoholic gastritis	MONDO_0004640	alcoholic gastritis	1
+K11_ALCOLIV	Alcoholic liver disease	EFO_0008573	alcoholic liver disease	1
+K11_APPENDACUT	Acute appendicitis	EFO_0007149	appendicitis	0.99
+K11_APPENDIX	Diseases of appendix	EFO_0009542	disorder of appendix	0.99
+K11_APPENDOTH	Other appendicitis	EFO_0007149	appendicitis	1
+K11_BILIAOTH	Other diseases of biliary tract	EFO_0009534	biliary tract disease	1
+K11_CHOLANGI	Cholangitis (primary sclerosing, PSC)	EFO_0004268	sclerosing cholangitis	0.99
+K11_CHOLANGI_STRICT	Cholangitis (primary sclerosing, PSC), with reimbursement 202	EFO_0004268	sclerosing cholangitis	0.792
+K11_CHOLELITH	Cholelithiasis	EFO_0004799	cholelithiasis	1
+K11_CHRONGASTR	Chronic gastritis	EFO_0000337	chronic gastritis	1
+K11_CHRONHEP	Chronic hepatitis, not elsewhere classified	EFO_0008496	chronic hepatitis	0.8
+K11_CHRONPANC	Chronic pancreatitis	EFO_0000342	chronic pancreatitis	1
+K11_CHRONPANC	Chronic pancreatitis	Orphanet_676	Hereditary chronic pancreatitis	0.96
+K11_COELIAC	Coeliac disease	EFO_0001060	celiac disease	0.99
+K11_CROHN	Crohn disease	EFO_0000384	Crohn's disease	1
+K11_DIAHER	Diaphragmatic hernia	EFO_0007216	congenital diaphragmatic hernia	0.99
+K11_DIAHER	Diaphragmatic hernia	EFO_0008561	diaphragmatic hernia	1
+K11_DISLIVOTH	Other diseases of liver	EFO_0001421	liver disease	1
+K11_DISLIVOTH	Other diseases of liver	HP_0001392	Abnormality of the liver	0.96
+K11_DISOESINOTH	Disorders of oesophagus in diseases classified elsewhere	EFO_0000318	cardiomyopathy	0.8118
+K11_DIVERTIC	Diverticular disease of intestine	EFO_0009959	diverticular disease	0.8
+K11_DULC	Duodenal ulcer	EFO_0004607	duodenal ulcer	1
+K11_ENERCOLNONINF	Noninfective enteritis and colitis	EFO_1001463	gastroenteritis	0.5586
+K11_FEMHER	Femoral hernia	EFO_1001791	femoral hernia	1
+K11_FIBROCHIRLIV	Fibrosis and chirrhosis of liver	EFO_0001422	cirrhosis of liver	0.792
+K11_GALLBILPANC	Disorders of gallbladder, biliary tract and pancreas	MONDO_0018536	adenocarcinoma of gallbladder and extrahepatic biliary tract	0.58
+K11_GALLBLAOTH	Other diseases of gallbladder	EFO_0003832	gallbladder disease	1
+K11_GIDISEASES	Gastrointestinal diseases	EFO_0010282	gastrointestinal disease	1
+K11_GIDISEASES	Gastrointestinal diseases	HP_0011024	Abnormality of the gastrointestinal tract	0.96
+K11_GULC	Gastric ulcer	EFO_0009454	gastric ulcer	1
+K11_HAEMORR	Haemmorrhoids and perianal venous thrombosis	HP_0004936	Venous thrombosis	0.67
+K11_HEPFAIL	Hepatic failure, not elsewhere classified	HP_0001399	Hepatic failure	0.8
+K11_HERING	Inguinal hernia	HP_0000023	Inguinal hernia	1
+K11_HERNIA	Hernia	HP_0100790	Hernia	1
+K11_IBD	Inflammatory bowel disease	EFO_0003767	inflammatory bowel disease	1
+K11_IBD	Inflammatory bowel disease	HP_0002037	Inflammation of the large intestine	0.96
+K11_IBD_STRICT	Inflammatory bowel disease, strict (require KELA)	EFO_0003767	inflammatory bowel disease	0.67
+K11_IBS	Irritable bowel syndrome	EFO_0000555	irritable bowel syndrome	1
+K11_ILEUS	Paralytic ileus and intestinal obstruction	HP_0002590	Paralytic ileus	0.67
+K11_INTESTOTH	Other diseases of intestines	EFO_0009431	intestinal disease	1
+K11_INTUSS	Intussusception	HP_0002576	Intussusception	1
+K11_LIVER	Diseases of liver	EFO_0001421	liver disease	1
+K11_LIVER	Diseases of liver	HP_0001392	Abnormality of the liver	0.96
+K11_OESITIS	Oesophagitis	HP_0100633	Esophagitis	0.99
+K11_OESSTODUO	Diseases of oesophagus, stomach and duodenum	EFO_0009608	stomach disease	0.67
+K11_OTHABDHER	Other and unspecified abdominal hernia	HP_0004872	Incisional hernia	0.6633
+K11_OTHANRECT	Other diseases of anus and rectum	EFO_0009660	anus disease	0.8
+K11_OTHAPPEND	Other diseases of appendix	EFO_0009542	disorder of appendix	0.99
+K11_OTHDIG	Other diseases of the digestive system	HP_0011024	Abnormality of the gastrointestinal tract	0.96
+K11_OTHDISDIG	Other diseases of the digestive system	HP_0011024	Abnormality of the gastrointestinal tract	0.96
+K11_OTHDISSTOMDUOD	Other diseases of stomach and duodenum	EFO_0009608	stomach disease	0.8
+K11_OTHENTERCOL	Other noninfective gastroenteritis and colitis	EFO_1001463	gastroenteritis	0.5586
+K11_OTHINFLIV	Other inflammatory liver diseases	EFO_0001421	liver disease	0.792
+K11_OTHINT	Other diseases of intestine	EFO_0009431	intestinal disease	1
+K11_OTHPERITON	Other diseases of peritoneum	EFO_0009541	disease of peritoneum	1
+K11_PANCOTH	Other diseases of pancreas	EFO_0009605	pancreas disease	1
+K11_PARALIL	Paralytic ileus	HP_0002590	Paralytic ileus	1
+K11_PERITON	Diseases of peritoneum	EFO_0009541	disease of peritoneum	1
+K11_PSC_COLITIS	Colitis, primary sclerosing	EFO_0004268	sclerosing cholangitis	0.6633
+K11_PULC	Peptic ulcer	HP_0004398	Peptic ulcer	1
+K11_PULC	Peptic ulcer	MONDO_0004247	peptic ulcer disease	0.99
+K11_REFLUX	Gastro-oesophageal reflux disease	EFO_0003948	gastroesophageal reflux disease	0.85
+K11_TOXLIV	Toxic liver disease	EFO_0001421	liver disease	0.792
+K11_ULCER	Ulcerative colitis	EFO_0000729	ulcerative colitis	1
+K11_UMBHER	Umbilical hernia	HP_0001537	Umbilical hernia	1
+K11_VASCINT	Vascular disorders of the intestines	EFO_0009431	intestinal disease	0.792
+K11_VENTHER	Ventral hernia	EFO_1001866	ventral hernia	1
+K11_VOLVU	Volvulus	EFO_1000989	intestinal volvulus	0.99
+KRA_PSY_ALCOH	Alcohol abuse, main dg	MONDO_0002046	alcohol abuse	0.67
+KRA_PSY_ANXIETY	Anxiety disorders	EFO_0006788	anxiety disorder	1
+KRA_PSY_ANXIETY_EXMORE	Anxiety disorders (more controls excluded)	EFO_0006788	anxiety disorder	0.67
+KRA_PSY_ANYMENTAL	Any mental disorder	EFO_0000677	mental or behavioural disorder	0.99
+KRA_PSY_ANYMENTAL	Any mental disorder	MONDO_0002025	psychiatric disorder	0.99
+KRA_PSY_BEHAV_EXMORE	Behavioural disorders (more controls excluded)	MONDO_0001162	impulse control disorder	0.66
+KRA_PSY_DEMENTIA	Any dementia	HP_0000726	Dementia	1
+KRA_PSY_DEMENTIA	Any dementia	MONDO_0001627	dementia (disease)	0.99
+KRA_PSY_DEVWIDE	Wide developmental disorders	EFO_0005548	developmental disorder of mental health	0.72
+KRA_PSY_HYPERKIN	Hyperkinetic disorders	EFO_0003888	attention deficit hyperactivity disorder	0.99
+KRA_PSY_HYPERKIN_EXMORE	Hyperkinetic disorders (more controls excluded)	EFO_0003888	attention deficit hyperactivity disorder	0.6633
+KRA_PSY_MENTALRET	Mental retardation	EFO_0003847	mental retardation	1
+KRA_PSY_MENTALRET	Mental retardation	HP_0001249	Intellectual disability	0.99
+KRA_PSY_MENTALRET_EXMORE	Mental retardation (more controls excluded)	EFO_0003847	mental retardation	0.67
+KRA_PSY_MOOD	Mood disorders	EFO_0004247	mood disorder	1
+KRA_PSY_MOOD_EXMORE	Mood disorders (more controls excluded)	MONDO_0001162	impulse control disorder	0.66
+KRA_PSY_MOTOR_EXMORE	Motor disorders (more controls excluded)	EFO_0003889	functional laterality	0.6534
+KRA_PSY_PERSON	Personality disorders	HP_0012075	Personality disorder	1
+KRA_PSY_PERSON	Personality disorders	MONDO_0002028	personality disorder (disease)	0.99
+KRA_PSY_PERSON_EXMORE	Personality disorders (more controls excluded)	HP_0012075	Personality disorder	0.67
+KRA_PSY_PUERPER	Mental and behabioural disorders of puerperum, not classified elsewhere	EFO_0000677	mental or behavioural disorder	0.5642999999999999
+KRA_PSY_SLEEP_NONORG	Nonorganic sleeping disorders	MONDO_0003406	sleep-wake disorder	0.96
+KRA_PSY_SLEEP_NONORG_EXMORE	Nonorganic sleeping disorders (more controls excluded)	MONDO_0003406	sleep-wake disorder	0.72
+KRA_PSY_SUBSTANCE	Substance abuse	MONDO_0002491	substance abuse	1
+KRA_PSY_SUBSTANCE_EXMORE	Substance abuse (more controls excluded)	MONDO_0002491	substance abuse	0.67
+KRA_PSY_TIC	Tic disorders	HP_0100033	Tics	0.99
+KRA_PSY_TIC	Tic disorders	MONDO_0002420	tic disorder	1
+KRA_PSY_TIC_EXMORE	Tic disorders (more controls excluded)	MONDO_0002420	tic disorder	0.67
+L12_ABSCESS_CUT	Cutaneous abscess, furuncle and carbuncle	HP_0031292	Cutaneous abscess	0.67
+L12_ACNE	Acne	EFO_0003894	acne	1
+L12_ACNE_VULGARIS	Acne vulgaris	EFO_0003894	acne	0.99
+L12_ACTINKERA	Actinic keratosis	EFO_0002496	actinic keratosis	1
+L12_ALLERGICCONTACT	Alergic contact dermatitis	MONDO_0006596	photoallergic dermatitis	0.8513999999999999
+L12_ALOPECAREATA	Alopecia areata	EFO_0004192	alopecia areata	1
+L12_ALOPECAREATA	Alopecia areata	Orphanet_79364	Alopecia	0.99
+L12_ATOPIC	Atopic dermatitis	EFO_0000274	atopic eczema	0.99
+L12_ATROPHICSKIN	Atrophic disorders of skin	EFO_1000766	skin atrophy	0.792
+L12_CELLULITIS	Cellulitis	EFO_0003035	cellulitis	1
+L12_CHRONICULCEROFSKIN	Chronic ulcer of skin, not elsewhere classified	EFO_0007066	chronic ulcer of skin	0.86
+L12_DERMATHERP	Dermatitis herpetiformis	EFO_1000684	dermatitis herpetiformis	1
+L12_DISORDSKINAPPENDIX	Disorders of skin appendages	MONDO_0024481	skin appendage disease	0.99
+L12_EPIDERMALTHICKOTH	Other epidermal thickening	HP_0011368	Epidermal thickening	1
+L12_EPIDERMTHICKNAS	Other and unspecified epidermal thickening	HP_0011368	Epidermal thickening	0.8
+L12_ERYTHEMAMULTIF	Erythema multiforme	EFO_1000694	erythema multiforme	1
+L12_ERYTHEMANODOSUM	Erythema nodosum	HP_0012219	Erythema nodosum	1
+L12_ERYT_INTERTRIG	Erythema intertrigo	MONDO_0021340	intertrigo	0.96
+L12_EXFOLIATIVE	Exfoliative dermatitis	EFO_0009456	exfoliative dermatitis	1
+L12_FOLLICULARCYST	Follicular cysts of skin and subcutaneous tissue	EFO_0000701	skin disease	0.6633
+L12_FOLLICULARNAS	Other and unspecified follicular disorders	EFO_0000289	bipolar disorder	0.6830999999999999
+L12_GRANUANNU	Granuloma annulare	EFO_1000704	granuloma annulare	1
+L12_GRANULOMATOUSSKIN	Granulomatous disorders of skin and subcutaneous tissue	EFO_0000701	skin disease	0.8811
+L12_HIDRADENITISSUP	Hidradenitis suppurativa	EFO_1000710	hidradenitis suppurativa	1
+L12_HIRSUTISM	Hirsutism	HP_0001007	Hirsutism	1
+L12_HYPERTRICHOSIS	Hypertrichosis	Orphanet_79365	Hypertrichosis	1
+L12_HYPERTROPHICSKIN	Hypertrophic disorders of skin	EFO_0000701	skin disease	0.792
+L12_IMPETIGO	Impetigo	EFO_1000714	impetigo	1
+L12_INFECT_SKIN	Infections of the skin and subcutaneous tissue	EFO_0010692	subcutaneous tissue infection	0.86
+L12_INFECT_SKIN_NAS	Other and unspecified local infections of skin and subcutaneous tissue	EFO_0010692	subcutaneous tissue infection	0.67
+L12_INFECT_SKIN_OTHER	Other local infections of skin and subcutaneous tissue	EFO_0010692	subcutaneous tissue infection	0.75
+L12_LICHENPLANUS	Lichen planus	EFO_1000726	lichen planus	1
+L12_LICHENSCLERATROPH	Lichen sclerosus et atrophicus	MONDO_0007899	lichen sclerosus et atrophicus	1
+L12_LICHENSIMPLEX	Lichen simplex chronicus	EFO_1000740	neurodermatitis	0.99
+L12_LICHSIMPANDPRURIGO	Lichen simplex chronicus and prurigo	EFO_1000740	neurodermatitis	0.8513999999999999
+L12_LOCALDCONNECTISSUEOTH	Other localized connective tissue disorders	EFO_1001986	connective tissue disease	0.8513999999999999
+L12_LOCALSCLERODERMA	Localized scleroderma [morphea]	EFO_1001361	localised scleroderma	0.792
+L12_LUPUS	Lupus erythematosus	MONDO_0004670	lupus erythematosus	1
+L12_LYMPHADENITIS	Acute lymphadenitis	MONDO_0002052	lymphadenitis (disease)	0.99
+L12_NAILDIS	Nail disorders	MONDO_0002884	nail disease	0.99
+L12_NAILNAS	Other and unspecified nail disorders	MONDO_0002884	nail disease	0.792
+L12_OTHERCONTACT	Other contact dermatitis	EFO_0005319	contact dermatitis	1
+L12_OTHERDISSKINANDSUBCUTIS	Other disorders of skin and subcutaneous tissue, not elsewhere classified	EFO_0000701	skin disease	0.8811
+L12_OTHERSKINSUBCUTIS	Other disorders of skin and subcutaneous tissue	EFO_0000701	skin disease	0.99
+L12_PARAPSORI	Parapsoriasis	EFO_1000747	parapsoriasis	1
+L12_PEMPHIGOID	Pemphigoid	EFO_0007187	bullous pemphigoid	0.96
+L12_PEMPHIGOID_BULL	Bullous pemphigoid	EFO_0007187	bullous pemphigoid	1
+L12_PERIORALDERM	Perioral dermatitis	EFO_1001305	Dermatitis, Perioral	1
+L12_PILONIDALCYST	Pilonidal cyst	HP_0010769	Pilonidal sinus	0.99
+L12_PRURIGONAS	Other  prurigo	MONDO_0021739	prurigo	1
+L12_PRURIGONOD	Prurigo nodularis	MONDO_0026045	prurigo nodularis	1
+L12_PRURITUS	Pruritus	HP_0000989	Pruritus	1
+L12_PSORIASIS	Psoriasis	EFO_0000676	psoriasis	1
+L12_PSORI_ARTHRO	Arthropathic psoriasis	EFO_0003778	psoriatic arthritis	0.99
+L12_PSORI_GUTTATE	Guttate psoriasis	MONDO_0023297	guttate psoriasis	1
+L12_PSORI_PUSTUPALM	Pustulosis palmaris et plantaris	EFO_0000676	psoriasis	0.99
+L12_PSORI_PUSTUPALM	Pustulosis palmaris et plantaris	Orphanet_163927	Pustulosis palmaris et plantaris	1
+L12_PSORI_VULG	Psoriasis vulgaris	EFO_1001494	psoriasis vulgaris	1
+L12_PYODERMA	Pyoderma	HP_0000999	Pyoderma	1
+L12_PYOGENGRANUL	Pyogenic granuloma	EFO_0010830	lobular capilliary hemangioma	0.99
+L12_PYOGENGRANUL	Pyogenic granuloma	MONDO_0022096	pyogenic granuloma	1
+L12_RADIATIONRELATEDSKIN	Radiation-related disorders of the skin and subcutaneous tissue	EFO_0000701	skin disease	0.8811
+L12_ROSACEA	Rosacea	EFO_1000760	rosacea	1
+L12_SCARCONDITIONS	Scar conditions and fibrosis of skin	EFO_1000766	skin atrophy	0.5642999999999999
+L12_SEBORRHOEIC	Seborrhoeic dermatitis	EFO_1000764	seborrheic dermatitis	0.99
+L12_SKIN	Diseases of the skin and subcutaneous tissue	EFO_0000701	skin disease	0.99
+L12_SKINSUBCUTISNAS	Other and unspecified disorders of skin and subcutaneous tissue	EFO_0000701	skin disease	0.8811
+L12_ULCERLOWLIMB	Ulcer of lower limb, not elsewhere classified	EFO_0007068	ulcer of lower limb	0.86
+L12_URTICARIA	Urticaria	EFO_0005531	urticaria	1
+L12_URTICA_ALLERG	Allergic urticaria	EFO_1000669	allergic urticaria	1
+L12_URTICA_DERTMATOG	Dermatographic urticaria	EFO_1000685	dermatographia	0.99
+L12_VITILIGO	Vitiligo	EFO_0004208	Vitiligo	1
+M13_ADHCAPSULITIS	Adhesive capsulitis of shoulder	EFO_1000941	frozen shoulder	0.99
+M13_ADHCAPSULITIS	Adhesive capsulitis of shoulder	MONDO_0002471	bursitis	0.96
+M13_ANKYLOSPON	Ankylosing spondylitis	EFO_0003898	ankylosing spondylitis	1
+M13_ANKYLOSPON_STRICT	Ankylosing spondylitis, strict definition	EFO_0003898	ankylosing spondylitis	0.67
+M13_ARTHINOTH	Arthropathies in other diseases classified elsewhere	EFO_0000318	cardiomyopathy	0.7524
+M13_ARTHROPATHIES	Arthropathies	EFO_1000999	joint disease	0.99
+M13_ARTHROPATHIES	Arthropathies	HP_0003040	Arthropathy	1
+M13_ARTHROSIS	Arthrosis	EFO_0002506	osteoarthritis	0.99
+M13_ARTHROSIS	Arthrosis	EFO_1000999	joint disease	0.96
+M13_ARTHROSIS_OTH	Other arthrosis	EFO_0002506	osteoarthritis	0.99
+M13_ARTHROSIS_OTH	Other arthrosis	EFO_1000999	joint disease	0.96
+M13_ARTHTROSIS_COX	Coxarthrosis,	EFO_1000786	osteoarthritis, hip	0.99
+M13_BAKERCYST	Synovial cyst of popliteal space [Baker]	HP_0032072	Popliteal synovial cyst	0.5642999999999999
+M13_BONECONTINUITY	Disorders of continuity of bone	Orphanet_364817	Aggrecan-related bone disorder	0.67
+M13_BONEDENSOTH	Other disorders of bone density and structure	EFO_0003923	bone density	0.67
+M13_CALCIFICTEND	Calcific tendinitis of shoulder	MONDO_0001903	calcific tendinitis	0.8
+M13_CARTILAGE	Other articular cartilage disorders	MONDO_0003816	articular cartilage disease	0.99
+M13_CERVICDISC	Cervical disc disorders	EFO_0009537	cervical disc degenerative disorder	0.86
+M13_CERVICOCRANSDR	Cervicocranial syndrome	EFO_0007165	Barre-Lieou syndrome	0.99
+M13_CHONDROMALACIA	Chondromalacia	MONDO_0002342	chondromalacia	1
+M13_CONNECTNAS	Other specified/unspecified systemic involvement of connective tissue	Orphanet_98702	Connective tissue disease with eye involvement	0.6
+M13_CONTRACTUREJOINT	Contracture of joint	HP_0001371	Flexion contracture	0.99
+M13_DEQUERVAIN	Radial styloid tenosynovitis [de Quervain]	EFO_1000891	De Quervain disease	0.7424999999999999
+M13_DERMATOPOLY	Dermatopolymyositis	EFO_0000398	dermatomyositis	0.99
+M13_DUPUTRYEN	Palmar fascial fibromatosis [Dupuytren]	EFO_1000481	Plantar Fibromatosis	0.6911999999999999
+M13_ENTESOPATHYOTH	Other enthesopathies	EFO_0005755	rheumatic disease	0.96
+M13_ENTESOPATHYOTH	Other enthesopathies	EFO_0009666	enthesopathy	1
+M13_FIBROBLASTIC	Fibroblastic disorders	EFO_0009432	fibroblastic disorder	1
+M13_FIBROMYALGIA	Fibromyalgia	EFO_0005687	fibromyalgia	1
+M13_FLATFOOT	Flat foot [pes planus] (acquired)	EFO_0003874	flatfoot	0.5642999999999999
+M13_FORESTIER	Ankylosing hyperostosis [Forestier]	EFO_0007236	diffuse idiopathic skeletal hyperostosis	0.6633
+M13_GIANTCELL	Giant cell arteritis	EFO_1001209	temporal arteritis	0.99
+M13_GOUT	Gout	EFO_0004274	gout	1
+M13_HALLUXVALGUS	Hallux valgus (acquired)	HP_0001822	Hallux valgus	0.8
+M13_HAMMERTOE	Other hammer toe(s) (acquired)	EFO_1001336	Hammer Toe Syndrome	0.67
+M13_HYPERMOBILITY	Hypermobility syndrome	MONDO_0001798	hypermobility syndrome	1
+M13_ILIOTIBBAND	Iliotibial band syndrome	Orphanet_1034	Amniotic bands	0.6633
+M13_IMPINGEMENT	Impingement syndrome of shoulder	EFO_1001178	shoulder impingement syndrome	1
+M13_INTERVERTEB	Other intervertebral disc disorders	EFO_0004994	lumbar disc degeneration	0.9207000000000001
+M13_JOINTOTH	Other specific joint derangements/joint disorders	EFO_1000999	joint disease	0.6633
+M13_JUVEARTH	Other juvenile arthritis	EFO_0002609	juvenile idiopathic arthritis	0.99
+M13_JUVOSTEOCHONRHIP	Juvenile osteochondrosis	EFO_0008577	Juvenile Osteochondrosis	1
+M13_KYPHOSIS	Kyphosis	HP_0002808	Kyphosis	1
+M13_LATERALEPICOND	Lateral epicondylitis	EFO_1001887	epicondylitis	0.99
+M13_LATERALEPICOND	Lateral epicondylitis	EFO_1001896	lateral epicondylitis	1
+M13_LIMBPAIN	Pain in limb	HP_0009763	Limb pain	1
+M13_LOWBACKPAIN	Low back pain	HP_0003419	Low back pain	1
+M13_LOWBACKPAINORANDSCIATICA	Lower back pain or/and sciatica	HP_0003419	Low back pain	0.7424999999999999
+M13_MEDIALEPICOND	Medial epicondylitis	EFO_1001887	epicondylitis	0.99
+M13_METATARSALGIA	Metatarsalgia	EFO_1001370	Metatarsalgia	1
+M13_MUSCLE	Disorders of muscles	EFO_0002970	muscular disease	0.99
+M13_MUSCLEDISNAS	Other specified disorders of muscle	EFO_0002970	muscular disease	0.99
+M13_MUSCLESTRAIN	Muscle strain	EFO_0010686	muscle strain	1
+M13_MUSCULOSKELEOTH	Other disorders of the musculoskeletal system and connective tissue	OTAR_0000006	musculoskeletal or connective tissue disease	0.8
+M13_MUSCULOSKELETAL	Diseases of the musculoskeletal system and connective tissue	OTAR_0000006	musculoskeletal or connective tissue disease	0.89
+M13_MYALGIA	Myalgia	HP_0003326	Myalgia	1
+M13_MYOSITIS	Myositis	EFO_0000557	juvenile dermatomyositis	0.96
+M13_MYOSITIS	Myositis	EFO_0000783	myositis	1
+M13_OLECRANONBURSITIS	Olecranon bursitis	MONDO_0001557	olecranon bursitis	1
+M13_OSTEOMYELITIS	Osteomyelitis	EFO_0003102	osteomyelitis	1
+M13_OSTEONECROSIS	Osteonecrosis	EFO_0004259	osteonecrosis	1
+M13_OSTEOPOROSIS	Osteoporosis	EFO_0003882	osteoporosis	1
+M13_OTHCONN	Other systemic involvement of connective tissue	Orphanet_98702	Connective tissue disease with eye involvement	0.67
+M13_OTHERJOINT	Other joint disorders	EFO_1000999	joint disease	0.99
+M13_PATELLADISLOCATIO	Recurrent dislocation of patella	HP_0002999	Patellar dislocation	0.792
+M13_PATELLAOTH	Other disorders of patella	EFO_0009665	disorder of patella	1
+M13_PLANTARFASC	Plantar fascial fibromatosis	EFO_1000481	Plantar Fibromatosis	0.96
+M13_POLYARTERETAL	Polyarteritis nodosa and related conditions	EFO_0009012	Polyarteritis Nodosa	0.67
+M13_POLYMYALGIA	Polymyalgia rheumatica	EFO_0008518	polymyalgia rheumatica	1
+M13_POLYMYALGIA	Polymyalgia rheumatica	EFO_1001209	temporal arteritis	0.96
+M13_POSTOPMUSCULOSKE	Postprocedural musculoskeletal disorders, not elsewhere classified	EFO_0009676	musculoskeletal system disease	0.7296
+M13_PSORIARTH	Psoriatic arthropathies	EFO_0003778	psoriatic arthritis	0.96
+M13_PSORIARTH_ICD10	Psoriatic arthropathies, ICD10	EFO_0003778	psoriatic arthritis	0.768
+M13_PYOGARTH	Pyogenic arthritis	EFO_1001351	infectious arthritis	0.99
+M13_RADICULOPATHY	Radiculopathy	MONDO_0002959	radiculopathy	1
+M13_RECUDISLOCATIO	Recurrent dislocation and subluxation of joint	HP_0001373	Joint dislocation	0.7424999999999999
+M13_RHEUMA	Rheumatoid arthritis	EFO_0000685	rheumatoid arthritis	1
+M13_ROTATORCUFF	Rotator cuff syndrome	EFO_1001250	rotator cuff tear	0.99
+M13_SACROCOGG	Sacrococcygeal disorders, not elsewhere classified	EFO_0000318	cardiomyopathy	0.8118
+M13_SCOLIOSIS	Scoliosis	EFO_0004273	scoliosis	1
+M13_SHORTACHILLES	Short Achilles tendon (acquired)	Orphanet_251515	Distal arthrogryposis type 10	0.8513999999999999
+M13_SJOGREN	Sicca syndrome [Sjogren]	EFO_0000699	Sjogren syndrome	0.99
+M13_SLE	Systemic lupus erythematosus	EFO_0002690	systemic lupus erythematosus	1
+M13_SOFTTISSUE	Soft tissue disorders	EFO_1001986	connective tissue disease	0.8613
+M13_SOFTTISSUENAS	Other specified/unspecified soft tissue disorders	EFO_1001986	connective tissue disease	0.7424999999999999
+M13_SOFTTISSUEOTH	Other soft tissue disorders, not elsewhere classified	EFO_1001986	connective tissue disease	0.7424999999999999
+M13_SPINALOSTEOCHON	Spinal osteochondrosis	EFO_0008576	Spinal Osteochondrosis	1
+M13_SPINALOSTEOCHON	Spinal osteochondrosis	Orphanet_3135	Familial Scheuermann disease	0.96
+M13_SPININSTAB	Spinal instabilities	HP_0005881	Spinal instability	1
+M13_SPINSTENOSIS	Spinal stenosis	EFO_0007490	spinal stenosis	1
+M13_SPONDYLINFLAMNAS	Other specified/unspecified inflammatory spondylopathies	MONDO_0001434	inflammatory spondylopathy	0.8
+M13_SPONDYLOSIS	Spondylosis	EFO_0000706	spondyloarthropathy	0.99
+M13_SPONTRUPTSYNOTEND	Spontaneous rupture of synovium and tendon	HP_0100550	Tendon rupture	0.6633
+M13_SYNOHYPERTROPH	Synovial hypertrophy, not elsewhere classified	EFO_0008997	synovitis	0.792
+M13_SYNOTEND	Disorders of synovium and tendon	MONDO_0056799	synovium disease	0.792
+M13_SYNOTENDINOTH	Disorders of synovium and tendon in diseases classified elsewhere	EFO_1001434	Tendinopathy	0.7424999999999999
+M13_SYSTCONNECT	Systemic connective tissue disorders	EFO_1001986	connective tissue disease	0.8513999999999999
+M13_SYSTSLCE	Systemic sclerosis	EFO_0000717	systemic scleroderma	0.99
+M13_TEMPARTERIT	Temporal arteritis	EFO_1001209	temporal arteritis	1
+M13_THORACISPINEPAIN	Pain in thoracic spine	HP_0100749	Chest pain	0.792
+M13_TIETZE	Chondrocostal junction syndrome [Tietze]	MONDO_0001858	Tietze syndrome	0.67
+M13_TORTICOLLIS	Torticollis	HP_0000473	Torticollis	1
+M13_TRIGGERFINGER	Trigger finger	EFO_0010822	stenosing tenosynovitis	0.99
+M13_TRIGGERFINGER	Trigger finger	HP_0012276	Digital flexor tenosynovitis	0.99
+M13_WEGENER	Wegener granulomatosis	EFO_0005297	Granulomatosis with Polyangiitis	0.99
+MACULAR_HOLE	Macular hole	EFO_1001028	macular holes	1
+MACULAR_PUCKER	Macular pucker	HP_0100014	Epiretinal membrane	0.99
+MACULA_NAS	Degenerative macular diseases	EFO_0005772	neurodegenerative disease	0.776
+MENINGITIS	Meningitis	EFO_0000584	infectious meningitis	0.99
+MENINGITIS	Meningitis	MONDO_0021108	meningitis (disease)	0.99
+MND	Motor neuron disease (with DMD)	EFO_0003782	motor neuron disease	0.86
+MYCOBLUNGATYPICA	Atypical mycobacterium lung infection	EFO_0007386	Mycobacterium avium complex disease	0.6732
+MYELOPROF_NONCML	Myeloproliferative diseases (CML excluded)	EFO_0002428	chronic myeloproliferative disorder	0.5642999999999999
+N14_ABNORMALBLEED	Other abnormal uterine and caginal bleeding	HP_0001892	Abnormal bleeding	0.67
+N14_ACUTENEPHRITIC	Acute nephritic syndrome	EFO_0007129	acute chest syndrome	0.67
+N14_ACUTERENFAIL	Acute renal failure	HP_0001919	Acute kidney injury	0.99
+N14_ACUTERENFAIL	Acute renal failure	MONDO_0002492	acute kidney failure	0.99
+N14_BARTHOABSCESS	Abscess of Bartholin gland	EFO_1000103	Bartholin Gland Carcinoma	0.6633
+N14_BARTHOCYS	Cyst of Bartholin Gland	MONDO_0004593	Bartholin duct cyst	0.99
+N14_BARTHOOTHNAS	Other and unspecified disease of Bartholin gland	EFO_0009469	Bartholin gland disease	0.57
+N14_BREAST	Disorders of breast	EFO_0009483	breast disease	0.99
+N14_BREASTDISOTH	Other disorders of breast	EFO_0009483	breast disease	0.99
+N14_CALCUKIDUR	Calculus of kidney and ureter	EFO_0004253	nephrolithiasis	0.99
+N14_CALCULOWER	Calculus of lower urinary tract	MONDO_0004828	lower urinary tract calculus	1
+N14_CHRONEPHROPATH	Chronic nephritic syndrome	EFO_0004540	chronic fatigue syndrome	0.67
+N14_CHRONKIDNEYDIS	Chronic kidney disease	EFO_0003884	chronic kidney disease	1
+N14_CHRONTUBULOINTNEPHRITIS	Chronic tubulo-interstitial nephritis	HP_0004743	Chronic tubulointerstitial nephritis	1
+N14_CYSTITIS	Cystitis	EFO_1000025	cystitis	1
+N14_CYSTKID	Cyst of kidney	EFO_0008615	Cystic Kidney Disease	0.99
+N14_CYSTKID	Cyst of kidney	EFO_1000313	Kidney Cyst	1
+N14_CYSTKID	Cyst of kidney	HP_0000107	Renal cyst	0.99
+N14_DYSPLACERVUT	Dysplasia of cervi uteri	EFO_1000910	dysplasia of cervix	0.792
+N14_ENDOMETRIOSIS	Endometriosis	EFO_0001065	endometriosis	1
+N14_ENDOMETRIOSIS_OVARY	Endometriosis of ovary	EFO_1000418	Ovarian Endometriosis	0.99
+N14_ENDOMETRIOSIS_PELVICPERITONEUM	Endometriosis of pelvic peritoneum	MONDO_0001285	endometriosis of pelvic peritoneum	1
+N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA	Endometriosis of rectovaginal septum and vagina	MONDO_0001288	endometriosis of rectovaginal septum and vagina	1
+N14_ENDOMETRIOSIS_UTERUS	Endometriosis of uterus	MONDO_0010888	endometriosis of uterus	1
+N14_EROSECTROPUT	Erosion and ectropion of cervix uteri	EFO_1000862	cervix erosion	0.8
+N14_FEMALEGENINF	Inflammatory diseases of female pelvic organs	EFO_1001388	Pelvic Inflammatory Disease	0.6432
+N14_FEMALEGENNONINF	Noninflammatory disorders of female genital tract	EFO_0009549	female reproductive system disease	0.6432
+N14_FEMALEINFERT	Female infertility	EFO_0008560	female infertility	1
+N14_FEMGENPROL	Female genital prolapse	EFO_1000935	female genital tuberculosis	0.67
+N14_FIANOV	Female infertility, associated with anovulation	EFO_0008560	female infertility	0.94
+N14_FITUB	Female infertility, tubal origin	EFO_0008560	female infertility	0.88
+N14_GENITOUROTH	Other disorders of the genitourinary system	EFO_0009663	disease of genitourinary system	0.99
+N14_GLOMEINOTH	Glomerular disorders in diseases classified elsewhere	EFO_0000318	cardiomyopathy	0.8118
+N14_GLOMERULAR	Glomerular diseases	EFO_1002049	glomerular disease	1
+N14_HABITABORT	Habitual aborter	EFO_1000954	habitual abortion	1
+N14_HYDRONEPHR	Hydronephrosis	EFO_0005562	hydronephrosis	1
+N14_HYPERTROPHYBREAST	Hypertrophy of breast	HP_0010313	Breast hypertrophy	1
+N14_IMPOTENCE	Impotence	EFO_0004234	erectile dysfunction	0.99
+N14_IMPOTENCE	Impotence	HP_0000802	Impotence	1
+N14_INFCERVIX	Inflammatory disease of cervix uteri	MONDO_0002256	cervix disease	0.8019000000000001
+N14_INFLAMALEGEN	Inflammatory disorders of male genital organs, not elsewhere classified	EFO_0007355	male reproductive organ cancer	0.6633
+N14_INFLAMMBREAST	Inflammatory disorders of breast	EFO_1001034	mastitis	0.99
+N14_INFLUTH	Inflammatory disease of uterus	EFO_0009572	uterine inflammatory disease	0.99
+N14_KIDUROTH	Other disorders of kidney and ureter	EFO_0003086	kidney disease	0.792
+N14_LUMPNASBREAST	Unspecified lump in breast	HP_0032408	Breast mass	0.792
+N14_MALEGEN	Diseases of male genital organs	EFO_0007355	male reproductive organ cancer	0.7424999999999999
+N14_MALEINFERT	Male infertility	EFO_0004248	male infertility	1
+N14_NEPHROTICSYND	Nephrotic syndrome	EFO_0004255	nephrotic syndrome	1
+N14_OBSTRUREFLUROPATH	Other obstructive and reflux uropathy	EFO_0009571	urinary tract obstruction	0.792
+N14_OTHBLADD	Other disorders of  bladder	EFO_1000018	bladder disease	0.99
+N14_OTHDISMALEGEN	Other disorders of male genital organs	EFO_0007355	male reproductive organ cancer	0.594
+N14_OTHFEMPELINF	Other female pelvic inflammatory diseases	EFO_1001388	Pelvic Inflammatory Disease	0.72
+N14_OTHNONINFCERVIX	Other noninflammatory disorders of cervix uteri	EFO_1000910	dysplasia of cervix	0.594
+N14_OTHNONINFUTER	Other noninflammatory disorders of uterus, except cervix	MONDO_0002654	uterine disease	0.6435
+N14_OTHNONINFVAG	Other noninflammatory disorders of vagina	MONDO_0001433	vaginal disease	0.7524
+N14_OTHNONINFVULV	Other noninflammatory disorders of vulva and perineum	EFO_0010689	perineum disease	0.6633
+N14_OTHPENIS	Other disorders of penis	MONDO_0002036	penile disease	0.99
+N14_OVARYCYST	Ovarian cyst	EFO_0002511	simple cystadenoma	0.99
+N14_OVARYCYST	Ovarian cyst	HP_0000138	Ovarian cyst	1
+N14_POLYPFEMGEN	Polyp of the female genital tract	EFO_0008622	female genital tract polyp	1
+N14_POSTMENATRVAG	Postmenopausal atrophic vaginitsi	MONDO_0001410	postmenopausal atrophic vaginitis	0.67
+N14_PROHERNOV	Prolapse and hernia of ovary and fallopian tube	MONDO_0001578	hernia of ovary and fallopian tube	0.67
+N14_PROSTAOTH	Other disorders of prostate	EFO_0009602	prostate disease	0.99
+N14_PROSTATITIS	Inflammatory diseases of prostate (prostatitis)	EFO_0003830	prostatitis	0.6633
+N14_PROSTHYPERPLA	Hyperplasia of prostate	EFO_0000284	benign prostatic hyperplasia	0.99
+N14_PYELONEPHR	Acute tubulo-interstitial nephritis	MONDO_0001085	interstitial nephritis	0.792
+N14_RENALTUB	Renal tubulo-intestitial diseases	EFO_0003086	kidney disease	0.792
+N14_RENALTUBULOOTH	Other renal tubulo-interstitial diseases	MONDO_0001085	interstitial nephritis	0.99
+N14_RENFAIL	Renal failure	EFO_1002048	kidney failure	0.99
+N14_RENFAIL	Renal failure	HP_0000083	Renal insufficiency	0.99
+N14_RENFAILNAS	Unspesified kidney failure	EFO_1002048	kidney failure	0.8
+N14_SPERMATOCELE	Spermatocele	EFO_1001189	spermatocele	1
+N14_TUBULOINTNEPHRNAS	Tubulo-interstitial nephritis, not spesified as acute or chronic	MONDO_0001085	interstitial nephritis	0.5642999999999999
+N14_URETHRALSTRICT	Urethral stricture	HP_0012227	Urethral stricture	1
+N14_URETHRAOTH	Other disorders of urethra and urinary system	EFO_0009690	urinary system disease	0.8256
+N14_URETHRITISANDURSYNDR	Urehtritis and urethral syndrome	MONDO_0001730	urethral syndrome	0.8
+N14_URINOTH	Other diseases of urinary system	EFO_0009690	urinary system disease	1
+N14_UROLITHIASIS	Urolithiasis	MONDO_0024647	urolithiasis	1
+NAFLD	Nonalcoholic fatty liver disease	EFO_0003095	non-alcoholic fatty liver disease	1
+O15_ABORT_SPONTAN	Spontaneous abortion	EFO_1001255	spontaneous abortion	1
+O15_AMNIOT_OTHER	Other disorders of amniotic fluid and membranes	HP_0001560	Abnormality of the amniotic fluid	0.57
+O15_ANTEPART_HAEM_NAS	Antepartum haemorrhage, not elsewhere classified	HP_0025328	Antepartum hemorrhage	0.792
+O15_BREAST_LACT_OTHER_DIS	Other disorders of breast and lactation associated with childbirth	EFO_0009483	breast disease	0.6633
+O15_COMPLIC_ABORT_ECTOP_MOLAR	Complications following abortion and ectopic and molar pregnancy	EFO_1000298	Hydatidiform Mole	0.5642999999999999
+O15_COMPLIC_LAB_DELIV	Complications of labour and delivery	HP_0001787	Abnormal delivery	0.792
+O15_DELIV_PERIN_LACER	Perineal laceration during delivery	EFO_0009816	perineal laceration during delivery	1
+O15_EXCESS_VOMIT_PREG	Excessive vomiting in pregnancy	EFO_1000971	hyperemesis gravidarum	0.6432
+O15_EXIST_HYPERT_COMPLIC	Pre-existing hypertension complicating pregnancy, childbirth and the puerperium	MONDO_0024664	hypertension, pregnancy-induced	0.7008
+O15_FALSE_LAB	False labour	EFO_0009639	Braxton-Hicks contractions	0.99
+O15_GESTAT_HYPERT	Gestational [pregnancy-induced] hypertension	MONDO_0024664	hypertension, pregnancy-induced	0.8
+O15_GESTAT_OEDEM_PREINUR	Gestational [pregnancy-induced] oedema and proteinuria without hypertension	MONDO_0024664	hypertension, pregnancy-induced	0.57
+O15_HYPTENSPREG	Pregnancy hypertension	EFO_0000668	preeclampsia	0.99
+O15_ICP	Intrahepatic Cholestasis of Pregnancy (ICP)	EFO_0009048	Intrahepatic cholestasis of pregnancy	0.94
+O15_LABOUR_OTHER	Other complications of labour and delivery, not elsewhere classified	HP_0001787	Abnormal delivery	0.6633
+O15_MEMBR_PREMAT_RUPT	Premature rupture of membranes	HP_0001788	Premature rupture of membranes	1
+O15_MULTIP_GEST	Multiple gestation	EFO_0009576	multiple gestation	1
+O15_OBSTET_NAS	Other obstetric conditions, not elsewhere classified	EFO_0000684	respiratory system disease	0.5642999999999999
+O15_OEDEM_PROTUR_HYPERT	Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium	EFO_0009682	pregnancy disorder	0.5445
+O15_PLAC_PRAEVIA	Placenta praevia	EFO_0007442	placenta praevia	1
+O15_PLAC_PREMAT_SEPAR	Premature separation of placenta [abruptio placentae]	EFO_1001754	Abruptio Placentae	0.99
+O15_POLYHYDR	Polyhydramnios	HP_0001561	Polyhydramnios	1
+O15_POSTPART_HEAMORRH	Postpartum haemorrhage	EFO_0009579	postpartum hemorrhage	0.99
+O15_PREECLAMPS	Pre-eclampsia	EFO_0000668	preeclampsia	1
+O15_PREG_BIRTH_PUERP	Pregnancy, childbirth and the puerperium	EFO_0009682	pregnancy disorder	0.8513999999999999
+O15_PREG_DM	Diabetes mellitus in pregnancy	EFO_0000400	diabetes mellitus	0.8
+O15_PREG_ECTOP	Ectopic pregnancy	HP_0031456	Ectopic pregnancy	1
+O15_PREG_GU_INFECT	Infections of genitourinary tract in pregnancy	EFO_0003103	urinary tract infection	0.57
+O15_PREG_HYDAT	Hydatidiform mole	EFO_1000298	Hydatidiform Mole	1
+O15_PREG_HYDAT	Hydatidiform mole	MONDO_0009273	hydatidiform mole, recurrent, 1	0.96
+O15_PREG_HYDAT	Hydatidiform mole	Orphanet_59305	Gestational trophoblastic neoplasm	0.96
+O15_PREG_OTHER_MAT_DISORD	Other maternal disorders predominantly related to pregnancy	EFO_0009682	pregnancy disorder	0.57
+O15_PREG_PROLONGED	Prolonged pregnancy	EFO_0009681	post term pregnancy	0.99
+O15_PREG_VENOUS_HAEMORRH	Venous complications and haemorrhoids in pregnancy	EFO_0009682	pregnancy disorder	0.6432
+O15_PUERP_INFECT_OTHER	Other puerperal infections	EFO_1001407	Puerperal Infection	1
+OSTEOPOROSIS_FRACTURE_FG	Osteoporosis with pathological fracture (FG)	HP_0002756	Pathologic fracture	0.67
+OSTPOPATFRACTURE	Drug-induced osteoporosis with pathological fracture	HP_0002756	Pathologic fracture	0.67
+OSTPOPATFRCTURE_POSTEMENO	Postmenopausal osteoporosis with pathological fracture	HP_0002756	Pathologic fracture	0.76
+OTHER_SYSTCON_FG	Other systemic involvement of connective tissue (FG)	Orphanet_98702	Connective tissue disease with eye involvement	0.6
+P16_DISORD_RELATED_LENGTH_GESTATION_FETAL_GROWTH	Disorders related to length of gestation and fetal growth	EFO_0000495	fetal growth restriction	0.594
+P16_RESPI_DISTR_NEWBO	Respiratory distress of newborn	EFO_1000644	newborn respiratory distress syndrome	0.8513999999999999
+PD2ND	Secondary parkinsonism	EFO_1001175	secondary Parkinson disease	0.99
+PD2ND_EXMORE	Secondary parkinsonism (more controls excluded)	EFO_1001175	secondary Parkinson disease	0.6633
+PDSTRICT	Parkinson's disease, strict definition	EFO_0002508	Parkinson's disease	0.67
+PD_DEMENTIA	Dementia due to Parkinsons disease	MONDO_0001627	dementia (disease)	0.67
+PNEUMOBACTKNOWN	Bacterial pneumonia (organism specified)	EFO_1001272	bacterial pneumonia	0.8
+POLLENALLERG	Pollen allergy	EFO_0003956	seasonal allergic rhinitis	0.99
+PSORI_STRICT	Psoriasis (vulgaris), strict definition	EFO_1001494	psoriasis vulgaris	0.67
+PSOR_ARTHR_OTH	Other psoriatic arthropathies	EFO_0003778	psoriatic arthritis	0.96
+PSOR_ENTE_ARTHR	Psoriatic and enteropathic arthropathies	EFO_0003778	psoriatic arthritis	0.768
+PULM_IMMUNECOMORB	Immune disease comorbidities	Orphanet_169361	Immune dysregulation disease with immunodeficiency	0.57
+Q17_CLEFT_LIP_CLEFT_PALATE	Cleft lip and cleft palate	HP_0000202	Oral cleft	0.98
+Q17_CONGEN_DEFORMITI_FEET	Congenital deformities of feet	MONDO_0000839	congenital abnormality	0.9207000000000001
+Q17_CONGEN_DEFORMITI_HIP	Congenital deformities of hip	EFO_1000648	developmental dysplasia of the hip	0.8513999999999999
+Q17_CONGEN_MALFO_AORTIC_MITRAL_VALVES	Congenital malformations of aortic and mitral valves	MONDO_0042966	inherited mitral valve disease	0.9216
+Q17_CONGEN_MALFO_BREAST	Congenital malformations of breast	MONDO_0000839	congenital abnormality	0.792
+Q17_CONGEN_MALFO_CARDIAC_SEPTA	Congenital malformations of cardiac septa	Orphanet_1342	Heart-hand syndrome type 3	0.576
+Q17_CONGEN_MALFO_CIRCULATO_SYSTEM	Congenital malformations of the circulatory system	MONDO_0024239	congenital anomaly of cardiovascular system	0.7424999999999999
+Q17_CONGEN_MALFO_DEFORMAT_MUSCULOS_SYSTEM	Congenital malformations and deformations of the musculoskeletal system	MONDO_0000839	congenital abnormality	0.5642999999999999
+Q17_CONGEN_MALFO_GENITAL_ORGANS	Congenital malformations of genital organs	MONDO_0000839	congenital abnormality	0.6633
+Q17_CONGEN_MALFO_GREAT_ARTERIES	Congenital malformations of great arteries	Orphanet_216729	Congenitally uncorrected transposition of the great arteries with cardiac malformation	0.55
+Q17_CONGEN_MALFO_MUSCULOS_SYSTEM_NOT_ELSEW_CLASSIFIED	Congenital malformations of the musculoskeletal system, not elsewhere classified	MONDO_0000839	congenital abnormality	0.5642999999999999
+Q17_CONGEN_MALFO_NERVOUS_SYSTEM	Congenital malformations of the nervous system	MONDO_0020022	central nervous system malformation	0.83
+Q17_CONGEN_MALFO_RESPI_SYSTEM	Congenital malformations of the respiratory system	MONDO_0000839	congenital abnormality	0.6633
+Q17_CONGEN_MALFO_URINARY_SYSTEM	Congenital malformations of the urinary system	MONDO_0000839	congenital abnormality	0.6633
+Q17_CONGEN_MALFO_UTERUS_CERVIX	Congenital malformations of uterus and cervix	MONDO_0000839	congenital abnormality	0.6633
+Q17_CYSTIC_KIDNEY_DISEA	Cystic kidney disease	EFO_0008615	Cystic Kidney Disease	1
+Q17_CYSTIC_KIDNEY_DISEA	Cystic kidney disease	HP_0000107	Renal cyst	0.96
+Q17_OTHER_CONGEN_MALFO	Other congenital malformations	MONDO_0000839	congenital abnormality	0.99
+Q17_OTHER_CONGEN_MALFO_DIGES_SYSTEM1	Other congenital malformations of the digestive system	MONDO_0000839	congenital abnormality	0.6633
+Q17_OTHER_CONGEN_MALFO_EAR	Other congenital malformations of ear	MONDO_0000839	congenital abnormality	0.792
+Q17_OTHER_CONGEN_MALFO_FACE_NECK	Other congenital malformations of face and neck	MONDO_0019054	congenital limb malformation	0.72
+Q17_OTHER_CONGEN_MALFO_PERIP_VASCULAR_SYSTEM	Other congenital malformations of peripheral vascular system	EFO_0006888	vascular malformation	0.57
+Q17_OTHER_CONGEN_MALFO_SKIN	Other congenital malformations of skin	MONDO_0000839	congenital abnormality	0.792
+Q17_OTHER_CONGEN_MALFO_TONGUE_MOUTH_PHARYNX	Other congenital malformations of tongue, mouth and pharynx	MONDO_0000839	congenital abnormality	0.5642999999999999
+Q17_OTHER_SPECIFE_CONGEN_MALFO_SYNDR_AFFECTING_MULTIPLE_SYSTEMS	Other specified congenital malformation syndromes affecting multiple systems	Orphanet_896	Waardenburg syndrome type 3	0.5952
+Q17_UNDES_TESTICLE	Undescended testicle	EFO_0004562	cryptorchidism	0.99
+R18_ABDOMI_PELVIC_PAIN	Abdominal and pelvic pain	HP_0002027	Abdominal pain	0.8
+R18_ABNORMALITI_BREAT	Abnormalities of breathing	HP_0002094	Dyspnea	0.99
+R18_ABNORMALITI_GAIT_MOBIL	Abnormalities of gait and mobility	HP_0001288	Gait disturbance	0.792
+R18_ABNORMALITI_HEART_BEAT	Abnormalities of heart beat	HP_0001627	Abnormal heart morphology	0.792
+R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_BREAST	Abnormal findings on diagnostic imaging of breast	EFO_0003765	sign or symptom	0.5642999999999999
+R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_CENTRAL_NERVOUS_SYSTEM	Abnormal findings on diagnostic imaging of central nervous system	HP_0002011	Morphological central nervous system abnormality	0.59
+R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_LUNG	Abnormal findings on diagnostic imaging of lung	EFO_0003765	sign or symptom	0.5642999999999999
+R18_ABNORMAL_INVOLU_MOVEM	Abnormal involuntary movements	HP_0000549	Abnormal conjugate eye movement	0.73
+R18_ABNORMAL_RESULTS_FUNCTION_STUDI	Abnormal results of function studies	HP_0007686	Abnormal pupillary function	0.57
+R18_ABNORMAL_SERUM_ENZYME_LEVELS	Abnormal serum enzyme levels	EFO_0009826	abnormality of serum enzyme levels	1
+R18_ASCITES	Ascites	HP_0001541	Ascites	1
+R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS	Cardiac murmurs and other cardiac sounds	HP_0030148	Heart murmur	0.6633
+R18_COUGH	Cough	HP_0012735	Cough	1
+R18_DISTU_SKIN_SENSA	Disturbances of skin sensation	EFO_0009522	disturbance of skin sensation	1
+R18_DISTU_SMELL_TASTE	Disturbances of smell and taste	EFO_0009543	disturbances of sensation of smell and taste	0.99
+R18_DYSPHAGIA	Dysphagia	HP_0002015	Dysphagia	1
+R18_DYSPNOEA	Dyspnoea	HP_0002094	Dyspnea	0.99
+R18_ELEVATED_BLOOD_GLUCOSE_LEVEL	Elevated blood glucose level	EFO_0004465	fasting blood glucose measurement	0.5544
+R18_ELEVATED_ERYTHROCYTE_SEDIM_RATE_ABNORMALITY_PLASMA_VISCO	Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity	HP_0003565	Elevated erythrocyte sedimentation rate	0.78
+R18_ENLARGED_LYMPH_NODES	Enlarged lymph nodes	EFO_0004906	lymph node metastatic carcinoma	0.7424999999999999
+R18_FAECAL_INCONTINENCE	Faecal incontinence	EFO_0009523	fecal incontinence	0.99
+R18_FEVER_OTHER_UNKNO_ORIGIN	Fever of other and unknown origin	EFO_0003952	fever of unknown origin	1
+R18_GENERAL_SYMPTOMS_SIGNS	General symptoms and signs	EFO_0005323	post-operative sign or symptom	0.67
+R18_HEADACHE1	Headache	HP_0002315	Headache	1
+R18_HYPERHIDROSIS	Hyperhidrosis	HP_0000975	Hyperhidrosis	1
+R18_LOCALIZED_SWELL_MASS_LUMP_SKIN_SUBCU_TISSUE	Localized swelling, mass and lump of skin and subcutaneous tissue	EFO_0010683	localized superficial swelling, mass, or lump	0.67
+R18_NAUSEA_VOMITI	Nausea and vomiting	HP_0002017	Nausea and vomiting	1
+R18_OTHER_ABNORMALITI_PLASMA_PROTEINS	Other abnormalities of plasma proteins	MONDO_0002273	plasma protein metabolism disease	0.57
+R18_OTHER_ABNORMAL_FINDI_BLOOD_CHEMIS	Other abnormal findings of blood chemistry	HP_0001977	Abnormal thrombosis	0.5642999999999999
+R18_OTHER_ABNORMAL_FINDI_URINE	Other abnormal findings in urine	HP_0012603	Abnormal urine sodium concentration	0.7326
+R18_OTHER_ABNORMAL_IMMUNOL_FINDI_SERUM	Other abnormal immunological findings in serum	HP_0002921	Abnormality of the cerebrospinal fluid	0.7524
+R18_OTHER_SKIN_CHANG	Other skin changes	EFO_0004198	skin neoplasm	0.96
+R18_OTHER_SYMPTOMS_SIGNS_INVOLVI_URINARY_SYSTEM	Other symptoms and signs involving the urinary system	EFO_0003765	sign or symptom	0.5642999999999999
+R18_POLYURIA	Polyuria	HP_0000103	Polyuria	1
+R18_RASH_OTHER_NONSPECIFIC_SKIN_ERUPT	Rash and other nonspecific skin eruption	EFO_1000697	exanthem	0.6633
+R18_SYMPTOMS_SIGNS_CONCERNI_FOOD_FLUID_INTAKE	Symptoms and signs concerning food and fluid intake	EFO_0009825	sign or symptom concerning food and fluid intake	1
+R18_SYMPTOMS_SIGNS_INVOLVI_EMOTIONAL_STATE	Symptoms and signs involving emotional state	EFO_0003765	sign or symptom	0.6435
+R18_SYMPTOMS_SIGNS_INVOLVI_SKIN_SUBCU_TISSUE	Symptoms and signs involving the skin and subcutaneous tissue	EFO_0000701	skin disease	0.594
+R18_SYMPTOMS_SIGNS_INVOLVI_SPEECH_VOICE	Symptoms and signs involving speech and voice	EFO_0003765	sign or symptom	0.5642999999999999
+R18_UNSPE_URINARY_INCONTINENCE	Unspecified urinary incontinence	HP_0000020	Urinary incontinence	0.8
+REAC_ARTHRO_NOS	Other/unspecified reactive arthropathies	EFO_0007460	reactive arthritis	0.7392
+RESPIRATORYINSUFF	Respiratory insufficiency	HP_0002093	Respiratory insufficiency	1
+RESP_ILL_DIS_CLASS_ELSEWHERE	Respiratory disorders in diseases classified elsewhere	EFO_0000318	cardiomyopathy	0.8118
+RHEUMA_ARHTROPAT_REACTIVE	Reactive arthropathies, FINNGEN	EFO_0007460	reactive arthritis	0.7392
+RHEUMA_NOS	Other/unspecified rheumatoid arthritis	EFO_0000685	rheumatoid arthritis	0.792
+RHEUMA_OTHER_WIDE	Other (seronegative) rheumatoid arthritis, wide	EFO_0009460	ACPA-negative rheumatoid arthritis	0.8
+RHEUMA_SERONEG	Seronegative rheumatoid arthritis	EFO_0009460	ACPA-negative rheumatoid arthritis	0.94
+RHEUMA_SEROPOS	Seropositive rheumatoid arthritis	EFO_0000685	rheumatoid arthritis	0.792
+RHEUMA_SEROPOS_STRICT	Seropositive rheumatoid arthritis, strict definition	EFO_0000685	rheumatoid arthritis	0.5642999999999999
+RHEUMA_SEROPOS_WIDE	Seropositive rheumatoid arthritis, wide	EFO_0000685	rheumatoid arthritis	0.6633
+RHINITIS_VASOMOTOR	Vasomotor rhinitis (mode)	EFO_0007533	vasomotor rhinitis	0.8
+SFN	Small fibre neuropathy	Orphanet_90026	Primary erythermalgia	0.5184
+SLEEP	Sleep disorders (combined)	EFO_0008568	Sleep Disorder	0.8
+SLE_NOS	Systemic lupus erythematosus, unspecified	EFO_0002690	systemic lupus erythematosus	0.86
+SMOKING	Smoking	EFO_0003768	nicotine dependence	0.99
+SMOKING	Smoking	EFO_0004318	smoking behavior	0.99
+SPONDYLOARTHRITIS	Spondyloarthritis	EFO_0000706	spondyloarthropathy	0.99
+ST19_ADVER_EFFEC_NOT_ELSEW_CLASSIFIED	Adverse effects, not elsewhere classified	EFO_0009658	adverse effect	0.8
+ST19_BURN_CORROSION_ANKLE_FOOT	Burn and corrosion of ankle and foot	EFO_0003102	osteomyelitis	0.7623
+ST19_BURN_CORROSION_CONFIN_EYE_ADNEXA	Burn and corrosion confined to eye and adnexa	EFO_1001788	Eye Burns	0.52
+ST19_BURN_CORROSION_HEAD_NECK	Burn and corrosion of head and neck	HP_0000152	Abnormality of head or neck	0.57
+ST19_CONTU_TOES_WO_DAMAGE_NAIL	Contusion of toe(s) without damage to nail	EFO_0007879	petaloid toenail	0.5642999999999999
+ST19_CRUSHI_INJURY_WRIST_HAND	Crushing injury of wrist and hand	EFO_0009504	crush injury	0.67
+ST19_DIFFU_BRAIN_INJURY	Diffuse brain injury	MONDO_0043510	brain injury	0.8
+ST19_EARLY_COMPLICATIO_TRAUMA	Early complications of trauma	EFO_0009888	trauma complication	0.8
+ST19_FOCAL_BRAIN_INJURY	Focal brain injury	MONDO_0043510	brain injury	0.8
+ST19_FOREI_BODY_ALIME_TRACT	Foreign body in alimentary tract	EFO_1001322	Eye Foreign Bodies	0.57
+ST19_FOREI_BODY_EAR	Foreign body in ear	EFO_1001322	Eye Foreign Bodies	0.67
+ST19_FOREI_BODY_EXTER_EYE	Foreign body on external eye	EFO_1001322	Eye Foreign Bodies	0.86
+ST19_FOREI_BODY_RESPI_TRACT	Foreign body in respiratory tract	EFO_1001322	Eye Foreign Bodies	0.57
+ST19_FRACT_FEMUR	Fracture of femur	EFO_0008553	femur fracture	1
+ST19_FRACT_FOOT_ANKLE	Fracture of foot, except ankle	EFO_1001344	Hemarthrosis	0.7742
+ST19_FRACT_SHOUL_UPPER_ARM	Fracture of shoulder and upper arm	EFO_1001344	Hemarthrosis	0.7448
+ST19_FRACT_SKULL_FACIAL_BONES	Fracture of skull and facial bones	HP_0004277	Fractured hand bones	0.57
+ST19_FRACT_WRIST_HAND_LEVEL	Fracture at wrist and hand level	HP_0004277	Fractured hand bones	0.65
+ST19_FROSTBITE	Frostbite	EFO_0009527	frostbite	1
+ST19_HYPOTHERMIA	Hypothermia	HP_0002045	Hypothermia	1
+ST19_ICTRAUOTHUNS	Other and unspecified intracranial injuries	EFO_0000551	intracranial hemorrhage	0.6633
+ST19_INJURI_ANKLE_FOOT	Injuries to the ankle and foot	EFO_1002021	ankle injury	0.8
+ST19_INJURI_HEAD	Injuries to the head	EFO_0009505	head injury	1
+ST19_INJURI_INVOLVI_MULTIPLE_BODY_REGIONS	Injuries involving multiple body regions	EFO_0009513	multiple bone fractures	0.792
+ST19_INJURI_KNEE_LOWER_LEG	Injuries to the knee and lower leg	EFO_1001344	Hemarthrosis	0.7153999999999999
+ST19_INJURI_NECK	Injuries to the neck	EFO_0009476	neck injury	1
+ST19_INJURI_SHOUL_UPPER_ARM	Injuries to the shoulder and upper arm	EFO_1001344	Hemarthrosis	0.8231999999999999
+ST19_INJURY_INTRA_AB_ORGANS	Injury of intra-abdominal organs	EFO_0009887	intrathoracic organ injury	0.6633
+ST19_INJURY_NERVES_LOWER_LEG_LEVEL	Injury of nerves at lower leg level	EFO_0009508	leg injury	0.57
+ST19_INJURY_NERVES_SPINAL_CORD_NECK_LEVEL	Injury of nerves and spinal cord at neck level	EFO_1001919	Spinal cord injury	0.67
+ST19_INJURY_NERVES_WRIST_HAND_LEVEL	Injury of nerves at wrist and hand level	EFO_0009490	nervous system injury	0.5642999999999999
+ST19_INJURY_OTHER_UNSPE_INTRAT_ORGANS	Injury of other and unspecified intrathoracic organs	EFO_0009887	intrathoracic organ injury	0.5642999999999999
+ST19_OPEN_WOUND_ANKLE_FOOT	Open wound of ankle and foot	EFO_1001344	Hemarthrosis	0.5292
+ST19_OPEN_WOUND_LOWER_LEG	Open wound of lower leg	EFO_1001344	Hemarthrosis	0.637
+ST19_OTHER_UNSPE_INJURI_ANKLE_FOOT	Other and unspecified injuries of ankle and foot	EFO_0003102	osteomyelitis	0.8316
+ST19_OTHER_UNSPE_INJURI_HEAD	Other and unspecified injuries of head	EFO_0009505	head injury	0.8
+ST19_OTHER_UNSPE_INJURI_LOWER_LEG	Other and unspecified injuries of lower leg	EFO_0003102	osteomyelitis	0.7227
+ST19_OTHER_UNSPE_INJURI_SHOUL_UPPER_ARM	Other and unspecified injuries of shoulder and upper arm	EFO_0003102	osteomyelitis	0.7227
+ST19_OTHER_UNSPE_INJURI_WRIST_HAND	Other and unspecified injuries of wrist and hand	EFO_0003102	osteomyelitis	0.7128
+ST19_SEQUEL_INJURI_HEAD	Sequelae of injuries of head	EFO_0009505	head injury	0.8
+ST19_SEQUEL_INJURI_LOWER_LIMB	Sequelae of injuries of lower limb	HP_0009816	Lower limb undergrowth	0.72
+ST19_SEQUEL_INJURI_NECK_TRUNK	Sequelae of injuries of neck and trunk	EFO_0009476	neck injury	0.67
+ST19_SEQUEL_INJURI_UPPER_LIMB	Sequelae of injuries of upper limb	HP_0200049	Upper limb hypertonia	0.65
+ST19_SUPERF_INJURI_INVOLVI_MULTIPLE_BODY_REGIONS	Superficial injuries involving multiple body regions	EFO_0009513	multiple bone fractures	0.7227
+ST19_SUPERF_INJURY_ANKLE_FOOT	Superficial injury of ankle and foot	EFO_1001344	Hemarthrosis	0.735
+ST19_SUPERF_INJURY_HEAD	Superficial injury of head	EFO_0009505	head injury	0.8
+ST19_SUPERF_INJURY_LOWER_LEG	Superficial injury of lower leg	EFO_1001344	Hemarthrosis	0.7153999999999999
+ST19_SUPERF_INJURY_NECK	Superficial injury of neck	EFO_0009476	neck injury	0.8
+ST19_TOXIC_EFFECT_ALCOHOL	Toxic effect of alcohol	EFO_1001291	ciguatera poisoning	0.5642999999999999
+ST19_TOXIC_EFFECT_ETHAN	Toxic effect of ethanol	EFO_1001291	ciguatera poisoning	0.5642999999999999
+ST19_TRAUMAT_SUBAR_HAEMORRHAGE	Traumatic subarachnoid haemorrhage	EFO_0000713	subarachnoid hemorrhage	0.792
+ST19_TRAUMAT_SUBDU_HAEMORRHAGE	Traumatic subdural haemorrhage	HP_0100309	Subdural hemorrhage	0.792
+STILL_ADULT	Adult-onset Still disease	EFO_0007135	adult-onset Still's disease	0.99
+T1D_STRICT	Type 1 diabetes, strict definition	EFO_0001359	type I diabetes mellitus	0.7424999999999999
+T1D_STRICT1	Type 1 diabetes, strict definition, subgroup 1	EFO_0001359	type I diabetes mellitus	0.7029
+T1D_WIDE	Type 1 diabetes, wide definition	EFO_0001359	type I diabetes mellitus	0.7424999999999999
+T1D_WIDE1	Type 1 diabetes, wide definition, subgroup 1	EFO_0001359	type I diabetes mellitus	0.7029
+T1D_WIDE2	Type 1 diabetes, wide definition, subgroup 2	EFO_0001359	type I diabetes mellitus	0.6732
+T2D	Type 2 diabetes, definitions combined	EFO_0001360	type II diabetes mellitus	0.7424999999999999
+T2D_WIDE	Type 2 diabetes, wide definition	EFO_0001360	type II diabetes mellitus	0.7424999999999999
+TEMPOROMANDIB	Temporomandibular joint disorders	EFO_0005279	temporomandibular joint disorder	1
+THROMBOCYTAEMIA	Essential (haemorrhagic) thrombocythaemia	EFO_0000479	essential thrombocythemia	0.99
+THYROIDITIS	Thyroiditis	EFO_0003841	thyroid neoplasm	0.96
+THYROIDITIS	Thyroiditis	EFO_1000627	thyroid disease	0.99
+THYROIDITIS	Thyroiditis	MONDO_0004126	thyroiditis (disease)	0.99
+THYROID_DISORDER_IBD	Disorders of thyroid, IBD co-morbidities	EFO_1000627	thyroid disease	0.6336
+THYROTOXICOSIS	Thyrotoxicosis	EFO_0009190	Thyrotoxicosis	1
+TONGUEABNORMALITY	Tongue abnormality	HP_0000157	Abnormality of the tongue	1
+TUBERCULOSIS	Tuberculosis	Orphanet_3389	Tuberculosis	1
+ULCERNAS	Ulcerative colitis, NAS	EFO_0000729	ulcerative colitis	0.8
+ULCEROTH	Other ulcerative colitis	EFO_0000729	ulcerative colitis	1
+ULCER_ARTHR	Arthropathy in ulcerative colitis	EFO_0000729	ulcerative colitis	0.8
+VD_MI	Vascular dementia (multiple infarctations)	EFO_0004718	vascular dementia	0.67
+VD_SC	Vascular dementia (subcortical)	EFO_0004718	vascular dementia	0.8
+VD_U	Vascular dementia (undefined)	EFO_0004718	vascular dementia	0.8
+VIRALPNEUMOKNOWN	Viral pneumonia (known virus, not influenza)	EFO_0007541	viral pneumonia	0.77
+VIRALPNEUMONAS	Viral pneumonia (unknown virus, not influenza)	EFO_0007541	viral pneumonia	0.75
+VIT_DEF	Vitamin deficiency	EFO_0003762	vitamin D deficiency	1
+VIT_DEF	Vitamin deficiency	EFO_0005878	vitamin deficiency	1
+VIT_DEF	Vitamin deficiency	EFO_1000822	ascorbic acid deficiency	0.99
+VIT_DEF	Vitamin deficiency	EFO_1001169	scurvy	0.99
+VIT_DEF	Vitamin deficiency	EFO_1001237	vitamin A deficiency	1
+VIT_DEF	Vitamin deficiency	MONDO_0024298	vitamin deficiency disorder	0.99
+VIT_DEF	Vitamin deficiency	MONDO_0042976	vitamin B deficiency	1
+VOCALCORDDYS	Vocal cord dysfunction	HP_0031801	Vocal cord dysfunction	1
+VWXY20_BLOOD_ALCOHOL_ALCOHOL_INTOX_LEVEL	Blood alcohol or alcohol intoxication level	EFO_0003829	alcohol dependence	0.6237
+WEIGHTLOSS	Weight loss	HP_0001824	Weight loss	1
+WET_AMD	Wet age-related macular degeneration	EFO_0001365	age-related macular degeneration	0.86
+Z21_ALCOHOL_ABUSE_COUNSELLI_SURVE	Alcohol abuse counselling and surveillance	MONDO_0002046	alcohol abuse	0.67
+Z21_CARRIER_INFECTIOUS_DISEA	Carrier of infectious disease	EFO_0005741	infectious disease	0.8
+Z21_CONTACT_W_EXPOS_COMMUNICAB_DISEA	Contact with and exposure to communicable diseases	EFO_0005741	infectious disease	0.6633
+Z21_FAMILY_HISTORY_CERTA_DISABILITI_CHRONIC_DISEA_LEADI_DISABL	Family history of certain disabilities and chronic diseases leading to disablement	EFO_0009268	family history of Alzheimer’s disease	0.55
+Z21_FAMILY_HISTORY_MALIG_NEOPLASM	Family history of malignant neoplasm	EFO_0009812	secondary malignant neoplasm	0.57
+Z21_NEED_IMMUNI_OTH_SINGLE_VIRAL_DISEA	Need for immunization against other single viral diseases	EFO_0000763	viral disease	0.67
+Z21_PERSONAL_HISTORY_CERTA_OTH_DISEA	Personal history of certain other diseases	EFO_0009268	family history of Alzheimer’s disease	0.57
+Z21_PERSONAL_HISTORY_MALIG_NEOPLASM	Personal history of malignant neoplasm	EFO_0000311	cancer	0.6633
+Z21_PROBL_RELATED_SOCIAL_ENVIRONMENT	Problems related to social environment	EFO_0010552	social environment measurement	0.57
+Z21_SPECIAL_SCREEN_EXAM_INFECTIOUS_PARASITIC_DISEA	Special screening examination for infectious and parasitic diseases	MONDO_0000307	parasitic Ichthyosporea infectious disease	0.79
+Z21_SUPERV_HIGH_R_PREGNAC	Supervision of high-risk pregnancy	EFO_0009573	high-risk pregnancy	0.8

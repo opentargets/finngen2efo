@@ -1,0 +1,1486 @@
+query	term	label	source	quality	action
+name					
+Arthropod-borne viral fevers and viral haemorrhagic fevers	http://purl.obolibrary.org/obo/MONDO_0018087	viral hemorrhagic fever	OLS API EFO lookup	fuzzy	check if valid
+Bacterial, viral and other infectious agents	http://purl.obolibrary.org/obo/MONDO_0025294	tick-borne infectious disease	OLS API EFO lookup	fuzzy	check if valid
+Human immunodeficiency virus [HIV] disease	http://www.ebi.ac.uk/efo/EFO_0000764	HIV infection	OLS API EFO lookup	match	
+Certain infectious and parasitic diseases	http://www.ebi.ac.uk/efo/EFO_0001067	parasitic infection	OLS API EFO lookup	fuzzy	check if valid
+Intestinal infectious diseases	http://purl.obolibrary.org/obo/MONDO_0000916	intestinal infectious disease	OLS API EFO lookup	fuzzy	check if valid
+Mycoses	http://purl.obolibrary.org/obo/MONDO_0002041	fungal infectious disease	OLS API EFO lookup	match	
+Other bacterial diseases	http://www.ebi.ac.uk/efo/EFO_1001272	bacterial pneumonia	OLS API EFO lookup	fuzzy	check if valid
+Other infectious diseases	http://www.ebi.ac.uk/efo/EFO_1001869	dysentery	OLS API EFO lookup	fuzzy	check if valid
+Other spirochaetal diseases	http://www.ebi.ac.uk/efo/EFO_0000405	digestive system disease	OLS API EFO lookup	fuzzy	check if valid
+Other viral diseases	http://purl.obolibrary.org/obo/MONDO_0018087	viral hemorrhagic fever	OLS API EFO lookup	fuzzy	check if valid
+Pediculosis, acariasis and other infestations					
+Sequelae of infectious and parasitic diseases	http://www.ebi.ac.uk/efo/EFO_0001067	parasitic infection	OLS API EFO lookup	fuzzy	check if valid
+Infections with a predominantly sexual mode of transmission	http://www.ebi.ac.uk/efo/EFO_0009567	Spirochaetales Infections	OLS API EFO lookup	fuzzy	check if valid
+Tuberculosis	http://www.orpha.net/ORDO/Orphanet_3389	tuberculosis	Zooma API lookup	match	
+Viral infections of the central nervous system	http://www.ebi.ac.uk/efo/EFO_1001456	central nervous system infection	OLS API EFO lookup	fuzzy	check if valid
+Viral hepatitis	http://www.ebi.ac.uk/efo/EFO_0007540	viral hepatitis	EFO OBO	match	
+Viral infections characterized by skin and mucous membrane lesions	http://www.ebi.ac.uk/efo/EFO_1000680	mucous membrane pemphigoid	OLS API EFO lookup	fuzzy	check if valid
+Asthma/COPD-related acute respiratory infections	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Alzheimer's disease	http://www.ebi.ac.uk/efo/EFO_0000249	Alzheimer's disease	Zooma API lookup	match	
+Alzheimer's disease (Atypical or mixed)	http://www.ebi.ac.uk/efo/EFO_0000249	Alzheimer's disease	OLS API EFO lookup	fuzzy	check if valid
+Alzheimer's disease (Atypical or mixed)	http://www.ebi.ac.uk/efo/EFO_0000249	Alzheimer's disease	OLS API EFO lookup	fuzzy	check if valid
+Alzheimer's disease (Early onset)	http://www.ebi.ac.uk/efo/EFO_0000249	Alzheimer's disease	OLS API EFO lookup	fuzzy	check if valid
+Alzheimer�s disease (Early onset)	http://www.orpha.net/ORDO/Orphanet_324290	Early-onset Lafora body disease	OLS API EFO lookup	fuzzy	check if valid
+Alzheimer's disease (more excluded)	http://www.ebi.ac.uk/efo/EFO_0000249	Alzheimer's disease	OLS API EFO lookup	fuzzy	check if valid
+Alzheimer's disease (Late onset)	http://www.ebi.ac.uk/efo/EFO_1001870	late-onset Alzheimers disease	OLS API EFO lookup	fuzzy	check if valid
+Alzheimer�s disease (Late onset)	http://www.ebi.ac.uk/efo/EFO_1001870	late-onset Alzheimers disease	OLS API EFO lookup	fuzzy	check if valid
+Toxic effect of ethanol					
+Acute alcohol intoxication	http://www.ebi.ac.uk/efo/EFO_0003829	alcohol dependence	OLS API EFO lookup	fuzzy	check if valid
+Acute alcohol intoxication ICD-9 (inculed in Swedish definition)	http://www.ebi.ac.uk/efo/EFO_0009574	intoxication	OLS API EFO lookup	fuzzy	check if valid
+Mental and behavioural disorders due to alcohol, excluding acute intoxication	http://www.ebi.ac.uk/efo/EFO_0000677	mental or behavioural disorder	OLS API EFO lookup	fuzzy	check if valid
+Alcohol related diseases and deaths, all endoints					
+Alcoholic liver disease	http://www.ebi.ac.uk/efo/EFO_0008573	Alcoholic liver disease	Zooma API lookup	match	
+Degeneration of nervous system due to alcohol	http://purl.obolibrary.org/obo/MONDO_0000648	nervous system benign neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Acohol-induced acute pancreatitis	http://www.ebi.ac.uk/efo/EFO_1001507	asparaginase-induced acute pancreatitis	OLS API EFO lookup	fuzzy	check if valid
+Alcohol-induced chronic pancreatitis	http://www.ebi.ac.uk/efo/EFO_0000342	chronic pancreatitis	OLS API EFO lookup	fuzzy	check if valid
+Toxic effect of unspecified or or other (than ethanol) alcohols	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Use of disulfiram, acamprosate or naltrexone					
+Allergic asthma	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Allergic asthma (mode)	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Allergic rhinitis	http://www.ebi.ac.uk/efo/EFO_0005854	allergic rhinitis	EFO OBO	match	
+Transient global amnesia	http://purl.obolibrary.org/obo/HP_0010534	Transient global amnesia	OLS API HP exact lookup	match	check if in OT
+Amputation					
+Amputation of toe					
+Anosmia	http://www.orpha.net/ORDO/Orphanet_478	anosmia	Zooma API lookup	match	
+Depression medications	http://www.ebi.ac.uk/efo/EFO_0007453	postpartum depression	OLS API EFO lookup	fuzzy	check if valid
+Any event in cancer register	http://www.ebi.ac.uk/efo/EFO_0000311	cancer	OLS API EFO lookup	fuzzy	check if valid
+Any event in hilmo or specialist outpatient	http://www.ebi.ac.uk/efo/EFO_0000482	event free survival time	OLS API EFO lookup	fuzzy	check if valid
+Any operation in hilmo	http://www.ebi.ac.uk/efo/EFO_0009951	response to surgery	OLS API EFO lookup	fuzzy	check if valid
+Any reimbursement code in KELA					
+Arthrosis related co-morbidities					
+Asthma-related infections	http://www.ebi.ac.uk/efo/EFO_1001406	Prosthesis-Related Infections	OLS API EFO lookup	fuzzy	check if valid
+Asthma-related acute respiratory infections	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Childhood asthma (age<16)	http://www.ebi.ac.uk/efo/EFO_0004591	childhood onset asthma	OLS API EFO lookup	fuzzy	check if valid
+Childhood asthma (age<16)	http://www.ebi.ac.uk/efo/EFO_0004591	childhood onset asthma	OLS API EFO lookup	fuzzy	check if valid
+Asthma associated co-morbidites	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Co-morbidites, CVD and metabolic diseases					
+Suggestive for eosinophilic asthma	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Excluding asthma or asthma-COPD overlap	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Asthma, hospital admissions 1					
+Asthma, hospital admission 2					
+Asthma, hospital admissions 3					
+Immune disease comorbidities	http://www.ebi.ac.uk/efo/EFO_0000540	immune system disease	OLS API EFO lookup	fuzzy	check if valid
+Medication related adverse effects	http://www.ebi.ac.uk/efo/EFO_0009658	adverse effect	OLS API EFO lookup	fuzzy	check if valid
+Asthma mixed form	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Asthma mixed form (mode)	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Asthma (mode)	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Asthma (unspecified)	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Asthma, unspecified (mode)	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Non-allergic asthma	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Obesity related asthma	http://www.ebi.ac.uk/efo/EFO_0001073	obesity	OLS API EFO lookup	fuzzy	check if valid
+Asthma opportunist infections	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Asthma-related pneumonia	http://www.ebi.ac.uk/efo/EFO_0003106	pneumonia	OLS API EFO lookup	fuzzy	check if valid
+Asthma-related pneumonia or sepsis	http://www.ebi.ac.uk/efo/EFO_0003106	pneumonia	OLS API EFO lookup	fuzzy	check if valid
+Psychiatric comorbidites	http://purl.obolibrary.org/obo/MONDO_0002025	psychiatric disorder	OLS API EFO lookup	fuzzy	check if valid
+Pneumonia derived septichemia	http://www.ebi.ac.uk/efo/EFO_0003106	pneumonia	OLS API EFO lookup	fuzzy	check if valid
+Alcohol use disorder, Swedish definition	http://www.ebi.ac.uk/efo/EFO_0009458	alcohol use disorder measurement	OLS API EFO lookup	fuzzy	check if valid
+Other specified/unspecified bacterial intestinal infections	http://www.ebi.ac.uk/efo/EFO_1001272	bacterial pneumonia	OLS API EFO lookup	fuzzy	check if valid
+Biguanides					
+Bronchitis	http://www.ebi.ac.uk/efo/EFO_1002018	bronchitis	Zooma API lookup	match	
+Malignant neoplasm of bladder	http://www.ebi.ac.uk/efo/EFO_0000292	Malignant neoplasm of bladder	Zooma API lookup	match	
+Malignant neoplasm of bladder (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1000363	Malignant Urinary System Neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of brain	http://www.ebi.ac.uk/efo/EFO_0003833	Malignant neoplasm of brain	Zooma API lookup	match	
+Malignant neoplasm of brain (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0003833	brain neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of breast	http://www.ebi.ac.uk/efo/EFO_0003869	Malignant neoplasm of breast	Zooma API lookup	match	
+Malignant neoplasm of breast	http://www.ebi.ac.uk/efo/EFO_0003869	Malignant neoplasm of breast	Zooma API lookup	match	
+Malignant neoplasm of breast (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0003869	breast neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of breast (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0003869	breast neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of bronchus and lung	http://www.ebi.ac.uk/efo/EFO_0001071	Malignant neoplasm of bronchus and lung	Zooma API lookup	match	
+Malignant neoplasm of bronchus and lung (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0001672	bronchus cancer	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm	http://www.ebi.ac.uk/efo/EFO_1000654	childhood cancer	OLS API EFO lookup	match	
+Malignant neoplasm (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000616	neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of colon	http://www.ebi.ac.uk/efo/EFO_1001950	Malignant neoplasm of colon	Zooma API lookup	match	
+Colon adenocarcinoma	http://www.ebi.ac.uk/efo/EFO_1001949	colon adenocarcinoma	EFO OBO	match	
+Colon adenocarcinoma (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1001949	colon adenocarcinoma	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of colon (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0021063	malignant colon neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of corpus uteri	http://www.ebi.ac.uk/efo/EFO_0007532	Malignant neoplasm of corpus uteri	Zooma API lookup	match	
+Malignant neoplasm of corpus uteri (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0021254	corpus uteri neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of digestive organs	http://www.ebi.ac.uk/efo/EFO_0008549	digestive system neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of digestive organs (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0008549	digestive system neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of endocrine gland	http://purl.obolibrary.org/obo/MONDO_0021069	malignant endocrine neoplasm	OLS API EFO lookup	match	
+Malignant neoplasm of endocrine gland (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0021069	malignant endocrine neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of eye, brain and central nervous system	http://www.ebi.ac.uk/efo/EFO_0007199	central nervous system tuberculosis	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of eye, brain and central nervous system (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0007199	central nervous system tuberculosis	OLS API EFO lookup	fuzzy	check if valid
+malignant neoplasm of female genital organs	http://www.ebi.ac.uk/efo/EFO_1001331	Genital neoplasm, female	OLS API EFO lookup	fuzzy	check if valid
+malignant neoplasm of female genital organs (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1001331	Genital neoplasm, female	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of kidney, except renal pelvis	http://purl.obolibrary.org/obo/MONDO_0002367	kidney cancer	OLS API EFO lookup	match	
+Malignant neoplasm of kidney, except renal pelvis (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0005582	renal pelvis carcinoma	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of lip, oral cavity and pharynx	http://www.ebi.ac.uk/efo/EFO_1001019	lip cancer	OLS API EFO lookup	match	
+Malignant neoplasm of lip, oral cavity and pharynx (ICD C excluded)					
+Secondary and unspecified malignant neoplasm of lymph nodes	http://www.ebi.ac.uk/efo/EFO_0004906	Secondary and unspecified malignant neoplasm of lymph nodes	Zooma API lookup	match	
+Secondary and unspecified malignant neoplasm of lymph nodes (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1001175	secondary Parkinson disease	OLS API EFO lookup	fuzzy	check if valid
+malignant neoplasm of male genital organs	http://www.ebi.ac.uk/efo/EFO_0007355	male reproductive organ cancer	OLS API EFO lookup	match	
+malignant neoplasm of male genital organs (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0007355	male reproductive organ cancer	OLS API EFO lookup	fuzzy	check if valid
+Other malignant neoplasms of skin	http://www.ebi.ac.uk/efo/EFO_0004198	Other malignant neoplasms of skin	Zooma API lookup	match	
+Other malignant neoplasms of skin (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0004198	skin neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of ovary	http://www.ebi.ac.uk/efo/EFO_0003893	Malignant neoplasm of ovary	Zooma API lookup	match	
+Malignant neoplasm of ovary (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0003893	ovarian neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of pancreas	http://www.ebi.ac.uk/efo/EFO_0002618	Malignant neoplasm of pancreas	Zooma API lookup	match	
+Malignant neoplasm of pancreas (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0002116	malignant exocrine pancreas neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of prostate	http://www.ebi.ac.uk/efo/EFO_0001663	Malignant neoplasm of prostate	Zooma API lookup	match	
+Malignant neoplasm of prostate (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0008315	prostate cancer	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of rectum	http://www.ebi.ac.uk/efo/EFO_1000657	rectum cancer	EFO OBO	match	
+Malignant neoplasm of rectum (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1000657	rectum cancer	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of respiratory system and intrathoracic organs					
+Malignant neoplasm of respiratory system and intrathoracic organs (ICD C excluded)					
+Malignant neoplasm of skin	http://purl.obolibrary.org/obo/MONDO_0002898	skin cancer	OLS API EFO lookup	match	
+Malignant neoplasm of skin (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0004198	skin neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of thyroid gland	http://www.ebi.ac.uk/efo/EFO_0002892	Malignant neoplasm of thyroid gland	Zooma API lookup	match	
+Malignant neoplasm of thyroid gland (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0003841	thyroid neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Secondary uncertain malignant neoplasm	http://www.ebi.ac.uk/efo/EFO_0009812	secondary malignant neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Secondary uncertain malignant neoplasm (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0009812	secondary malignant neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of urinary organs	http://www.ebi.ac.uk/efo/EFO_1000363	Malignant Urinary System Neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Malignant neoplasm of urinary organs (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1000363	Malignant Urinary System Neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Campylobacter enteritis	http://purl.obolibrary.org/obo/MONDO_0043579	enteritis	OLS API EFO lookup	fuzzy	check if valid
+Malignat neoplasms	http://www.ebi.ac.uk/efo/EFO_1001430	Sublingual Gland Neoplasms	OLS API EFO lookup	fuzzy	check if valid
+Cardiac arrhytmias, COPD co-morbidities					
+Benign neoplasms	http://www.ebi.ac.uk/efo/EFO_0002422	benign neoplasm	OLS API EFO lookup	match	
+Benign neoplasm: Adrenal gland	http://purl.obolibrary.org/obo/MONDO_0021511	benign neoplasm of adrenal gland	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Adrenal gland (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0021511	benign neoplasm of adrenal gland	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Anus and anal canal	http://www.ebi.ac.uk/efo/EFO_0003835	anal neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Anus and anal canal (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0003835	anal neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Ascending colon	http://www.ebi.ac.uk/efo/EFO_1000094	Ascending Colon Neuroendocrine Tumor G1	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Ascending colon (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1000094	Ascending Colon Neuroendocrine Tumor G1	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm of bone and articular cartilage	http://www.ebi.ac.uk/efo/EFO_0003820	Benign neoplasm of bone and articular cartilage	Zooma API lookup	match	
+Benign neoplasm of bone and articular cartilage (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0000631	bone benign neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Long bones of lower limb	http://purl.obolibrary.org/obo/MONDO_0000952	cancer of long bone of lower limb	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Long bones of lower limb (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0000952	cancer of long bone of lower limb	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm of brain and other parts of central nervous system	http://www.ebi.ac.uk/efo/EFO_1000107	Benign neoplasm of brain and other parts of central nervous system	Zooma API lookup	match	
+Benign neoplasm of brain and other parts of central nervous system (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0007199	central nervous system tuberculosis	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm of breast	http://www.ebi.ac.uk/efo/EFO_0003869	Benign neoplasm of breast	Zooma API lookup	match	
+Benign neoplasm of breast (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0000620	breast benign neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Caecum	http://www.ebi.ac.uk/efo/EFO_0009255	cecal neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Caecum (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0009255	cecal neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Choroid	http://www.ebi.ac.uk/efo/EFO_1000866	choroid cancer	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Choroid (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1000866	choroid cancer	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Colon	http://www.ebi.ac.uk/efo/EFO_0004288	colonic neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Colon (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0004288	colonic neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Colon, unspecified	http://www.ebi.ac.uk/efo/EFO_0004288	colonic neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Colon, unspecified (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000211	unspecified peripheral T-cell lymphoma	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm of colon, rectum, anus and anal canal	http://www.ebi.ac.uk/efo/EFO_0004288	colonic neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm of colon, rectum, anus and anal canal (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0009660	anus disease	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Conjunctiva	http://www.ebi.ac.uk/efo/EFO_1000110	Benign Conjunctival Neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Conjunctiva (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1000110	Benign Conjunctival Neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Other benign neoplasms of connective and other soft tissue	http://www.ebi.ac.uk/efo/EFO_1000541	Other benign neoplasms of connective and other soft tissue	Zooma API lookup	match	
+Other benign neoplasms of connective and other soft tissue (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1001968	soft tissue sarcoma	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Connective and other soft tissue of upper limb, including shoulder	http://www.ebi.ac.uk/efo/EFO_1001968	soft tissue sarcoma	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Connective and other soft tissue of upper limb, including shoulder (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1001968	soft tissue sarcoma	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Cranial nerves	http://www.ebi.ac.uk/efo/EFO_0002431	tumour of cranial and spinal nerves	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Cranial nerves (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0002431	tumour of cranial and spinal nerves	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Descending colon	http://www.ebi.ac.uk/efo/EFO_0004288	colonic neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Descending colon (ICD C excluded)					
+Benign neoplasm: Middle ear, nasal cavity and accessory sinuses					
+Benign neoplasm: Middle ear, nasal cavity and accessory sinuses (ICD C excluded)					
+Benign neoplasm of middle ear and respiratory system	http://www.ebi.ac.uk/efo/EFO_0003853	Benign neoplasm of middle ear and respiratory system	Zooma API lookup	match	
+Benign neoplasm of middle ear and respiratory system (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0021666	ear infection	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm of other and unspecified endocrine glands	http://www.ebi.ac.uk/efo/EFO_0003769	Benign neoplasm of other and unspecified endocrine glands	Zooma API lookup	match	
+Benign neoplasm of other and unspecified endocrine glands (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000616	neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasms (ICD C excluded)					
+Benign neoplasm of eye and adnexa	http://www.ebi.ac.uk/efo/EFO_0009546	eye adnexa disease	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm of eye and adnexa (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0009546	eye adnexa disease	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm of other and unspecified female genital organs	http://www.ebi.ac.uk/efo/EFO_1001331	Benign neoplasm of other and unspecified female genital organs	Zooma API lookup	match	
+Benign neoplasm of other and unspecified female genital organs (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000616	neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Haemangioma and lymphangioma, any site					
+Haemangioma and lymphangioma, any site (ICD C excluded)					
+Haemangioma, any site	http://www.ebi.ac.uk/efo/EFO_1000151	Cavernous Hemangioma	OLS API EFO lookup	fuzzy	check if valid
+Haemangioma, any site (ICD C excluded)					
+Benign neoplasm: Kidney	http://www.ebi.ac.uk/efo/EFO_1000111	Benign Kidney Neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Kidney (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1000111	Benign Kidney Neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Leiomyoma of uterus	http://www.ebi.ac.uk/efo/EFO_0000731	Leiomyoma of uterus	Zooma API lookup	match	
+Leiomyoma of uterus (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0001572	leiomyoma	OLS API EFO lookup	fuzzy	check if valid
+Benign lipomatous neoplasm	http://www.ebi.ac.uk/efo/EFO_0000759	Benign lipomatous neoplasm	Zooma API lookup	match	
+Benign lipomatous neoplasm (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0044983	benign lipomatous neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign lipomatous neoplasm of other sites/unspecified	http://purl.obolibrary.org/obo/MONDO_0044983	benign lipomatous neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign lipomatous neoplasm of other sites/unspecified (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0044983	benign lipomatous neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign lipomatous neoplasm of skin and subcutaneous tissue of head, face and neck	http://www.ebi.ac.uk/efo/EFO_1000707	hemangioma of subcutaneous tissue	OLS API EFO lookup	fuzzy	check if valid
+Benign lipomatous neoplasm of skin and subcutaneous tissue of head, face and neck (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1000707	hemangioma of subcutaneous tissue	OLS API EFO lookup	fuzzy	check if valid
+Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs	http://www.ebi.ac.uk/efo/EFO_1000707	hemangioma of subcutaneous tissue	OLS API EFO lookup	fuzzy	check if valid
+Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000759	lipoma	OLS API EFO lookup	fuzzy	check if valid
+Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk	http://www.ebi.ac.uk/efo/EFO_1000707	hemangioma of subcutaneous tissue	OLS API EFO lookup	fuzzy	check if valid
+Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000759	lipoma	OLS API EFO lookup	fuzzy	check if valid
+Melanocytic naevi	http://www.ebi.ac.uk/efo/EFO_0009675	Melanocytic naevi	Zooma API lookup	match	
+Melanocytic naevi (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0009675	melanocytic nevus	OLS API EFO lookup	fuzzy	check if valid
+Melanocytic naevi of other and unspecified parts of face	http://www.ebi.ac.uk/efo/EFO_0000389	cutaneous melanoma	OLS API EFO lookup	fuzzy	check if valid
+Melanocytic naevi of other and unspecified parts of face (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000389	cutaneous melanoma	OLS API EFO lookup	fuzzy	check if valid
+Melanocytic naevi of lower limb, including hip	http://www.ebi.ac.uk/efo/EFO_0007068	ulcer of lower limb	OLS API EFO lookup	fuzzy	check if valid
+Melanocytic naevi of lower limb, including hip (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0007068	ulcer of lower limb	OLS API EFO lookup	fuzzy	check if valid
+Melanocytic naevi, other sites/unspecified	http://www.ebi.ac.uk/efo/EFO_0001065	endometriosis	OLS API EFO lookup	fuzzy	check if valid
+Melanocytic naevi, other sites/unspecified (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000759	lipoma	OLS API EFO lookup	fuzzy	check if valid
+Melanocytic naevi of trunk	http://www.ebi.ac.uk/efo/EFO_0009675	melanocytic nevus	OLS API EFO lookup	fuzzy	check if valid
+Melanocytic naevi of trunk (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0009675	melanocytic nevus	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm of meninges	http://www.ebi.ac.uk/efo/EFO_1000107	Benign neoplasm of meninges	Zooma API lookup	match	
+Benign neoplasm: Cerebral meninges	http://www.ebi.ac.uk/efo/EFO_1000109	Benign Childhood Cerebral Neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Cerebral meninges (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1000109	Benign Childhood Cerebral Neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm of meninges (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0002422	benign neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Other and unspecified parts of mouth	http://www.ebi.ac.uk/efo/EFO_0000616	neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Other and unspecified parts of mouth (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000616	neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm of mouth and pharynx	http://www.ebi.ac.uk/efo/EFO_0003868	Benign neoplasm of mouth and pharynx	Zooma API lookup	match	
+Benign neoplasm of mouth and pharynx (ICD C excluded)					
+Benign neoplasm of other and unspecified sites	http://www.ebi.ac.uk/efo/EFO_0002422	Benign neoplasm of other and unspecified sites	Zooma API lookup	match	
+Benign neoplasm of other and unspecified sites (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000616	neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm of ovary	http://www.ebi.ac.uk/efo/EFO_1000116	Benign neoplasm of ovary	Zooma API lookup	match	
+Benign neoplasm of ovary (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0000646	ovarian benign neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Parotid gland	http://www.ebi.ac.uk/efo/EFO_0003873	parotid neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Parotid gland (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0003873	parotid neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Pituitary gland, craniopharyngeal duct	http://purl.obolibrary.org/obo/MONDO_0003257	posterior pituitary gland neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Pituitary gland, craniopharyngeal duct (ICD C excluded)					
+Benign neoplasm: Rectosigmoid junction	http://www.ebi.ac.uk/efo/EFO_0002422	benign neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Rectosigmoid junction (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0002422	benign neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Rectum	http://purl.obolibrary.org/obo/MONDO_0002165	rectal neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Rectum, anus and anal canal	http://purl.obolibrary.org/obo/MONDO_0002165	rectal neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Rectum, anus and anal canal (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0009660	anus disease	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Rectum (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0002165	rectal neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm of major salivary glands	http://www.ebi.ac.uk/efo/EFO_0003826	Benign neoplasm of major salivary glands	Zooma API lookup	match	
+Benign neoplasm of major salivary glands (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0044743	major salivary gland cancer	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: other/unspecified salivary gland	http://purl.obolibrary.org/obo/MONDO_0021460	benign neoplasm of salivary gland	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: other/unspecified salivary gland (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0021460	benign neoplasm of salivary gland	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Sigmoid colon	http://www.ebi.ac.uk/efo/EFO_1001181	sigmoid neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Sigmoid colon (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1001181	sigmoid neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Other benign neoplasms of skin	http://www.ebi.ac.uk/efo/EFO_0004198	Other benign neoplasms of skin	Zooma API lookup	match	
+Benign neoplasm: Skin of ear and external auricular canal					
+Benign neoplasm: Skin of ear and external auricular canal (ICD C excluded)					
+Other benign neoplasms of skin (ICD C excluded)					
+Benign neoplasm: Skin of eyelid, including canthus	http://purl.obolibrary.org/obo/MONDO_0020173	benign tumor of palpebral epidermis	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Skin of eyelid, including canthus (ICD C excluded)	http://www.orpha.net/ORDO/Orphanet_98576	Malposition of external canthus	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Skin of other and unspecified parts of face	http://www.ebi.ac.uk/efo/EFO_0000616	neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Skin of other and unspecified parts of face (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000616	neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Skin, unspecified	http://www.ebi.ac.uk/efo/EFO_1000120	Benign Skin Appendage Neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Skin, unspecified (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000211	unspecified peripheral T-cell lymphoma	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Skin of scalp and neck	http://www.ebi.ac.uk/efo/EFO_0000389	cutaneous melanoma	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Skin of scalp and neck (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000389	cutaneous melanoma	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Skin of trunk	http://www.ebi.ac.uk/efo/EFO_1000120	Benign Skin Appendage Neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Skin of trunk (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1000120	Benign Skin Appendage Neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Small intestine	http://purl.obolibrary.org/obo/MONDO_0021501	benign neoplasm of small intestine	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Small intestine (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0021501	benign neoplasm of small intestine	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Other and unspecified parts of small intestine	http://www.ebi.ac.uk/efo/EFO_0000616	neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Other and unspecified parts of small intestine (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000616	neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Stomach	http://www.ebi.ac.uk/efo/EFO_0003897	stomach neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Stomach (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0003897	stomach neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm of thyroid gland	http://www.ebi.ac.uk/efo/EFO_1000122	Benign neoplasm of thyroid gland	Zooma API lookup	match	
+Benign neoplasm of thyroid gland (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1000122	Benign Thyroid Gland Neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Transverse colon	http://www.ebi.ac.uk/efo/EFO_0004288	colonic neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm: Transverse colon (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0004288	colonic neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Benign neoplasm of urinary organs	http://www.ebi.ac.uk/efo/EFO_0003863	Benign neoplasm of urinary organs	Zooma API lookup	match	
+Benign neoplasm of urinary organs (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0004180	benign urinary system neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Other benign neoplasm of uterus: Other parts/unspecified	http://www.ebi.ac.uk/efo/EFO_0000616	neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Other benign neoplasm of uterus: Other parts/unspecified (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000616	neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Other benign neoplasms of uterus	http://www.ebi.ac.uk/efo/EFO_0003859	Other benign neoplasms of uterus	Zooma API lookup	match	
+Other benign neoplasms of uterus (ICD C excluded)					
+Follicular lymphoma	http://www.ebi.ac.uk/efo/EFO_0000096	Follicular lymphoma	Zooma API lookup	match	
+Follicular lymphoma (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0018906	follicular lymphoma	OLS API EFO lookup	fuzzy	check if valid
+In situ neoplasms					
+Carcinoma in situ of breast	http://www.ebi.ac.uk/efo/EFO_0000432	ductal carcinoma in situ	EFO OBO	match	
+Carcinoma in situ of breast (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0004658	breast carcinoma in situ	OLS API EFO lookup	fuzzy	check if valid
+Carcinoma in situ of breast, intraductal	http://www.ebi.ac.uk/efo/EFO_0000432	ductal carcinoma in situ	EFO OBO	match	
+Carcinoma in situ of breast, intraductal (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_1000306	Intraductal Breast Papilloma	OLS API EFO lookup	fuzzy	check if valid
+In situ neoplasms (ICD C excluded)					
+Carcinoma in situ of skin	http://www.ebi.ac.uk/efo/EFO_0004198	Carcinoma in situ of skin	Zooma API lookup	match	
+Carcinoma in situ of skin (ICD C excluded)	http://purl.obolibrary.org/obo/MONDO_0004658	breast carcinoma in situ	OLS API EFO lookup	fuzzy	check if valid
+Carcinoma in situ of skin of other and unspecified parts of face	http://www.ebi.ac.uk/efo/EFO_0000389	cutaneous melanoma	OLS API EFO lookup	fuzzy	check if valid
+Carcinoma in situ of skin of other and unspecified parts of face (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000389	cutaneous melanoma	OLS API EFO lookup	fuzzy	check if valid
+Lymphoid leukaemia	http://www.ebi.ac.uk/efo/EFO_0004289	Lymphoid leukaemia	Zooma API lookup	match	
+Lymphoid leukaemia (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0004289	lymphoid leukemia	OLS API EFO lookup	fuzzy	check if valid
+Multiple myeloma and malignant plasma cell neoplasms	http://www.ebi.ac.uk/efo/EFO_0001378	Multiple myeloma and malignant plasma cell neoplasms	Zooma API lookup	match	
+Multiple myeloma and malignant plasma cell neoplasms (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0001378	multiple myeloma	OLS API EFO lookup	fuzzy	check if valid
+Non-follicular lymphoma	http://www.ebi.ac.uk/efo/EFO_0000574	lymphoma	OLS API EFO lookup	fuzzy	check if valid
+Non-follicular lymphoma (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000574	lymphoma	OLS API EFO lookup	fuzzy	check if valid
+Other and unspecified types of non-Hodgkin lymphoma	http://www.ebi.ac.uk/efo/EFO_0005952	Other and unspecified types of non-Hodgkin's lymphoma	Zooma API lookup	match	
+Other and unspecified types of non-Hodgkin lymphoma (ICD C excluded)	http://www.ebi.ac.uk/efo/EFO_0000211	unspecified peripheral T-cell lymphoma	OLS API EFO lookup	fuzzy	check if valid
+Primary_lymphoid and hematopoietic malignant neoplasms					
+Primary_lymphoid and hematopoietic malignant neoplasms (ICD C excluded)					
+Childhood allergy (age < 16)	http://www.ebi.ac.uk/efo/EFO_0003785	allergy	OLS API EFO lookup	fuzzy	check if valid
+Crohn's disease of large intestine	http://www.ebi.ac.uk/efo/EFO_0000384	Crohn's disease	OLS API EFO lookup	fuzzy	check if valid
+Chron's disease NAS					
+Other Chron's disease					
+Crohn's disease of small interstine	http://www.ebi.ac.uk/efo/EFO_0000384	Crohn's disease	OLS API EFO lookup	fuzzy	check if valid
+Collagenous colitis	http://www.ebi.ac.uk/efo/EFO_1001293	collagenous colitis	EFO OBO	match	
+Noninfectious colitis NAS	http://www.ebi.ac.uk/efo/EFO_0003872	colitis	OLS API EFO lookup	fuzzy	check if valid
+Combinations of oral blood glucose lowering drugs	http://www.ebi.ac.uk/efo/EFO_0009698	gestational blood glucose measurement	OLS API EFO lookup	fuzzy	check if valid
+Congenital malformations of heart and great arteries	http://www.orpha.net/ORDO/Orphanet_2445	Conotruncal heart malformations	OLS API EFO lookup	fuzzy	check if valid
+COPD/asthma related infections	http://www.ebi.ac.uk/efo/EFO_1001406	Prosthesis-Related Infections	OLS API EFO lookup	fuzzy	check if valid
+COPD/asthma related pneumonia or pneumonia derived septichaemia	http://www.ebi.ac.uk/efo/EFO_0003106	pneumonia	OLS API EFO lookup	fuzzy	check if valid
+COPD-associated co-morbidities					
+COPD Co-morbidites, CVD and metabolic diseases					
+Early onset COPD	http://www.ebi.ac.uk/efo/EFO_0004772	early onset hypertension	OLS API EFO lookup	fuzzy	check if valid
+COPD, early/later onset	http://www.ebi.ac.uk/efo/EFO_0004772	early onset hypertension	OLS API EFO lookup	fuzzy	check if valid
+COPD, early/later onset (more excluded)	http://www.orpha.net/ORDO/Orphanet_256	Early-onset generalized limb-onset dystonia	OLS API EFO lookup	fuzzy	check if valid
+Early onset COPD	http://www.ebi.ac.uk/efo/EFO_0004772	early onset hypertension	OLS API EFO lookup	fuzzy	check if valid
+COPD differential diagnosis					
+COPD, hospital admissions					
+COPD, hospital admissions 1					
+COPD, hospital admission 2					
+COPD, hospital admissions 3					
+COPD-related respiratory insufficiency	http://purl.obolibrary.org/obo/HP_0002093	Respiratory insufficiency	OLS API EFO lookup	fuzzy	check if valid
+Later onset COPD	http://www.orpha.net/ORDO/Orphanet_397750	Periodic paralysis with later-onset distal motor neuropathy	OLS API EFO lookup	fuzzy	check if valid
+Later onset COPD	http://www.orpha.net/ORDO/Orphanet_397750	Periodic paralysis with later-onset distal motor neuropathy	OLS API EFO lookup	fuzzy	check if valid
+COPD (mode)					
+COPD related to multimorbidity					
+COPD related to chronic (opportunist) infections	http://www.orpha.net/ORDO/Orphanet_391487	Autoimmune enteropathy and endocrinopathy-susceptibility to chronic infections syndrome	OLS API EFO lookup	fuzzy	check if valid
+Coxarthrosis [arthrosis of hip](FG)	http://www.ebi.ac.uk/efo/EFO_1000786	osteoarthritis, hip	OLS API EFO lookup	fuzzy	check if valid
+Continuous positive airway pressure	http://www.ebi.ac.uk/efo/EFO_0005414	airway hyperresponsiveness	OLS API EFO lookup	fuzzy	check if valid
+Wet or dry macular degeneration	http://www.ebi.ac.uk/efo/EFO_0004683	wet macular degeneration	OLS API EFO lookup	fuzzy	check if valid
+Colorectal cancer	http://www.ebi.ac.uk/efo/EFO_0005842	colorectal cancer	EFO OBO	match	
+Crohn disease (strict definition, all UC cases excluded)	http://purl.obolibrary.org/obo/MONDO_0000709	Crohn ileitis	OLS API EFO lookup	fuzzy	check if valid
+CUSTOM_K51_AND_KELA_NOT_K50					
+IBD patients in KELA-register	http://www.ebi.ac.uk/efo/EFO_1001994	Scleroderma Polymyositis Overlap Syndrome	OLS API EFO lookup	fuzzy	check if valid
+Enterocolitis due to Clostridium difficile	http://www.ebi.ac.uk/efo/EFO_0009130	clostridium difficile infection	OLS API EFO lookup	fuzzy	check if valid
+Psoriatic arthropathies related co-morbidities	http://www.ebi.ac.uk/efo/EFO_0003778	psoriatic arthritis	OLS API EFO lookup	fuzzy	check if valid
+STROKE	http://www.ebi.ac.uk/efo/EFO_0000712	stroke	EFO OBO	match	
+ICD-8 DM (Sub-endpoint used for defining DM endpoints)	http://www.ebi.ac.uk/efo/EFO_0010133	diabetic maculopathy	OLS API EFO lookup	fuzzy	check if valid
+Acute posthaemorrhagic anaemia					
+Agranulocytosis	http://purl.obolibrary.org/obo/HP_0012234	agranulocytosis	EFO OBO	match	
+Allergic purpura	http://www.ebi.ac.uk/efo/EFO_1000965	Henoch-Schoenlein purpura	OLS API EFO lookup	match	
+Anaemias					
+Other and unspecified anaemias	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Vitamin B12 deficiency anaemia	http://www.ebi.ac.uk/efo/EFO_0000734	Vitamin B12 deficiency anaemia	Zooma API lookup	match	
+Iron deficiency anaemia	http://purl.obolibrary.org/obo/HP_0001891	Iron deficiency anaemia	Zooma API lookup	match	
+Iron deficiency anaemia secondary to blood loss (chronic)	http://www.ebi.ac.uk/efo/EFO_0005576	pernicious anemia	OLS API EFO lookup	fuzzy	check if valid
+Other and unspecified iron deficiency	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Aplastic and other anaemias	http://www.ebi.ac.uk/efo/EFO_1001501	pulmonary fibrosis and/or bone marrow failure, telomere-related, 1	OLS API EFO lookup	fuzzy	check if valid
+Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism					
+Other diseases of blood and blood-forming organs	http://www.ebi.ac.uk/efo/EFO_0005803	Other diseases of blood and blood-forming organs	Zooma API lookup	match	
+Other and unspecified coagulation defects	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Coagulation defects, purpura and other haemorrhagic conditions	http://purl.obolibrary.org/obo/HP_0000979	Purpura and other haemorrhagic conditions	Zooma API lookup	match	
+Other coagulation defects	http://www.ebi.ac.uk/efo/EFO_0009314	Other coagulation defects	Zooma API lookup	match	
+Haemolytic anaemias	http://purl.obolibrary.org/obo/HP_0004804	Congenital hemolytic anemia	OLS API EFO lookup	fuzzy	check if valid
+Immunodeficiencies	http://www.orpha.net/ORDO/Orphanet_169346	DNA repair defect other than combined T-cell and B-cell immunodeficiencies	OLS API EFO lookup	fuzzy	check if valid
+Certain disorders involving the immune mechanism	http://www.ebi.ac.uk/efo/EFO_0000540	immune system disease	OLS API EFO lookup	fuzzy	check if valid
+Idiopathic thrombocytopenic purpura	http://www.ebi.ac.uk/efo/EFO_0007160	autoimmune thrombocytopenic purpura	EFO OBO	match	
+Nutritional anaemias	http://www.ebi.ac.uk/efo/EFO_0001069	nutritional disorder	OLS API EFO lookup	fuzzy	check if valid
+Other anaemias	http://www.ebi.ac.uk/efo/EFO_0004272	Other anaemias	Zooma API lookup	match	
+Oher diseases of blood and blood-forming organs					
+Other disorders of white blood cells	http://www.ebi.ac.uk/efo/EFO_0007997	granulocyte percentage of myeloid white cells	OLS API EFO lookup	fuzzy	check if valid
+Purpura and other haemorrhagic conditions	http://purl.obolibrary.org/obo/HP_0000979	Purpura and other haemorrhagic conditions	Zooma API lookup	match	
+Sarcoidosis	http://www.orpha.net/ORDO/Orphanet_797	sarcoidosis	Zooma API lookup	match	
+Thrombocytopenia, unspecified	http://purl.obolibrary.org/obo/HP_0001873	thrombocytopenia	EFO OBO	match	
+Other and unspecified disorders of white blood cells	http://www.ebi.ac.uk/efo/EFO_0000319	cardiovascular disease	OLS API EFO lookup	fuzzy	check if valid
+Diabetes, varying definitions	http://purl.obolibrary.org/obo/HP_0002757	Recurrent fractures	OLS API EFO lookup	fuzzy	check if valid
+Diabetes medication	http://www.ebi.ac.uk/efo/EFO_1001511	monogenic diabetes	OLS API EFO lookup	fuzzy	check if valid
+Other (not insulin) diabetes medications	http://www.ebi.ac.uk/efo/EFO_0010164	insulin-resistant diabetes mellitus	OLS API EFO lookup	fuzzy	check if valid
+Dialysis	http://www.orpha.net/ORDO/Orphanet_1766	Dysequilibrium syndrome	OLS API EFO lookup	fuzzy	check if valid
+Background diabetic retinopathy	http://www.ebi.ac.uk/efo/EFO_0009760	non-proliferative diabetic retinopathy	OLS API EFO lookup	fuzzy	check if valid
+Diabetes-related co-morbidities/complications					
+Diabetes-related co-morbidities/complications (more excluded)					
+Retinal photocoagulation	http://www.ebi.ac.uk/efo/EFO_1000509	Retinal Neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Operations, diabetic retinopathy	http://www.ebi.ac.uk/efo/EFO_0003770	diabetic retinopathy	EFO OBO	match	
+Removal of vitreous/Extensive procedure in removing vitreous via pars plana/pars plicata	http://www.ebi.ac.uk/efo/EFO_1001088	pars planitis	OLS API EFO lookup	fuzzy	check if valid
+Injection of anti-VEGF-antibody or corticosteroid or any drug into vitreous body	http://www.ebi.ac.uk/efo/EFO_0008624	vitreous body disease	OLS API EFO lookup	fuzzy	check if valid
+Diabetic hypoglycemia	http://purl.obolibrary.org/obo/HP_0001943	Hypoglycemia	OLS API EFO lookup	fuzzy	check if valid
+Diabetes 1 & 2, IBD co-morbidity					
+Diabetic ketoacidosis	http://www.ebi.ac.uk/efo/EFO_1000897	diabetic ketoacidosis	EFO OBO	match	
+Diabetes, kidney failure	http://www.ebi.ac.uk/efo/EFO_1002048	kidney failure	OLS API EFO lookup	match	
+Diabetic maculopathy	http://www.ebi.ac.uk/efo/EFO_0010133	diabetic maculopathy	OLS API EFO lookup	match	
+Neovascular glaucoma	http://www.ebi.ac.uk/efo/EFO_1001060	neovascular glaucoma	EFO OBO	match	
+Diabetic nephropathy with related operations	http://www.ebi.ac.uk/efo/EFO_0000401	diabetic nephropathy	OLS API EFO lookup	fuzzy	check if valid
+Diabetic nephropathy	http://www.ebi.ac.uk/efo/EFO_0000401	diabetic nephropathy	EFO OBO	match	
+Diabetic nephropathy	http://www.ebi.ac.uk/efo/EFO_0000401	diabetic nephropathy	EFO OBO	match	
+Diabetic neuropathy	http://www.ebi.ac.uk/efo/EFO_1000783	diabetic neuropathy	EFO OBO	match	
+Diabetes, opthalmic co-morbidities					
+Other diabetes, wide definition	http://purl.obolibrary.org/obo/HP_0000445	Wide nose	OLS API EFO lookup	fuzzy	check if valid
+Peripheral atherosclerosis	http://www.ebi.ac.uk/efo/EFO_0003914	atherosclerosis	OLS API EFO lookup	fuzzy	check if valid
+Proliferative diabetic retinopathy	http://www.ebi.ac.uk/efo/EFO_0009322	Proliferative diabetic retinopathy	Zooma API lookup	match	
+Diabetic retinopathy	http://www.ebi.ac.uk/efo/EFO_0003770	diabetic retinopathy	EFO OBO	match	
+Diabetic retinopathy	http://www.ebi.ac.uk/efo/EFO_0003770	diabetic retinopathy	EFO OBO	match	
+Retinal vein occlusion (central or branch)	http://www.ebi.ac.uk/efo/EFO_1001157	retinal vein occlusion	OLS API EFO lookup	fuzzy	check if valid
+Diabetes, several complications					
+Vitreous bleeding (caused by prolif. dmrp when together with H36.03*)	http://www.orpha.net/ORDO/Orphanet_91495	Persistent hyperplastic primary vitreous	OLS API EFO lookup	fuzzy	check if valid
+Dipeptidyl peptidase 4 (DPP-4) inhibitors					
+Dry age-related macular degeneration (includes geographic atrophy)	http://www.ebi.ac.uk/efo/EFO_1001492	atrophic macular degeneration	OLS API EFO lookup	fuzzy	check if valid
+Undefined dementia	http://purl.obolibrary.org/obo/HP_0000726	Dementia	OLS API EFO lookup	fuzzy	check if valid
+Other disorders of adrenal gland	http://www.ebi.ac.uk/efo/EFO_0005539	Other disorders of adrenal gland	Zooma API lookup	match	
+Disorders of calcium metabolism	http://www.ebi.ac.uk/efo/EFO_0005769	calcium metabolic disease	OLS API EFO lookup	fuzzy	check if valid
+Diabetes mellitus	http://www.ebi.ac.uk/efo/EFO_0000400	diabetes mellitus	EFO OBO	match	
+Type 1 diabetes	http://www.ebi.ac.uk/efo/EFO_0001359	type 1 diabetes	Zooma API lookup	match	
+Type 1 diabetes with coma	http://www.ebi.ac.uk/efo/EFO_0009757	idiopathic type 1 diabetes	OLS API EFO lookup	fuzzy	check if valid
+Type 1 diabetes with ketoacidosis	http://www.ebi.ac.uk/efo/EFO_1000897	diabetic ketoacidosis	OLS API EFO lookup	fuzzy	check if valid
+Type 1 diabetes with other specified/multiple/unspecified complications	http://www.ebi.ac.uk/efo/EFO_0001359	type I diabetes mellitus	OLS API EFO lookup	fuzzy	check if valid
+Type 1 diabetes with neurological complications	http://www.ebi.ac.uk/efo/EFO_0009757	idiopathic type 1 diabetes	OLS API EFO lookup	fuzzy	check if valid
+Type 1 diabetes without complications	http://www.ebi.ac.uk/efo/EFO_0009756	autoimmune type 1 diabetes	OLS API EFO lookup	fuzzy	check if valid
+Type 1 diabetes with ophthalmic complications	http://www.ebi.ac.uk/efo/EFO_0009757	idiopathic type 1 diabetes	OLS API EFO lookup	fuzzy	check if valid
+Type 1 diabetes with peripheral circulatory complications	http://www.ebi.ac.uk/efo/EFO_0009757	idiopathic type 1 diabetes	OLS API EFO lookup	fuzzy	check if valid
+Type 1 diabetes with renal complications	http://www.orpha.net/ORDO/Orphanet_93111	Renal cysts and diabetes syndrome	OLS API EFO lookup	fuzzy	check if valid
+Type 1 diabetes, strict (exclude DM2)	http://www.ebi.ac.uk/efo/EFO_0009266	refractory celiac disease	OLS API EFO lookup	fuzzy	check if valid
+Type 2 diabetes	http://www.ebi.ac.uk/efo/EFO_0001360	type 2 diabetes	Zooma API lookup	match	
+Type 2 diabetes with coma	http://www.ebi.ac.uk/efo/EFO_1001503	type II diabetes mellitus with acanthosis nigricans	OLS API EFO lookup	fuzzy	check if valid
+Type 2 diabetes with ketoacidosis	http://www.ebi.ac.uk/efo/EFO_1000897	diabetic ketoacidosis	OLS API EFO lookup	fuzzy	check if valid
+Type 2 diabetes with other specified/multiple/unspecified complications	http://www.ebi.ac.uk/efo/EFO_0004997	type 2 diabetes nephropathy	OLS API EFO lookup	fuzzy	check if valid
+Type 2 diabetes with neurological complications	http://www.ebi.ac.uk/efo/EFO_1001503	type II diabetes mellitus with acanthosis nigricans	OLS API EFO lookup	fuzzy	check if valid
+Type 2 diabetes without complications	http://www.ebi.ac.uk/efo/EFO_0004997	type 2 diabetes nephropathy	OLS API EFO lookup	fuzzy	check if valid
+Type 2 diabetes with ophthalmic complications	http://www.ebi.ac.uk/efo/EFO_1001503	type II diabetes mellitus with acanthosis nigricans	OLS API EFO lookup	fuzzy	check if valid
+Type 2 diabetes with peripheral circulatory complications	http://www.ebi.ac.uk/efo/EFO_1001503	type II diabetes mellitus with acanthosis nigricans	OLS API EFO lookup	fuzzy	check if valid
+Type 2 diabetes with renal complications	http://www.ebi.ac.uk/efo/EFO_0004997	type 2 diabetes nephropathy	OLS API EFO lookup	fuzzy	check if valid
+Type 2 diabetes, strict (exclude DM1)	http://www.ebi.ac.uk/efo/EFO_0009266	refractory celiac disease	OLS API EFO lookup	fuzzy	check if valid
+Diabetes, unspecified because of ICD-8	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Diabetes, unspecified because of ICD-8, with coma	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Diabetes, unspecified because of ICD-8, with multiple/unspecified complications	http://www.ebi.ac.uk/efo/EFO_0009528	AIDS-related disease	OLS API EFO lookup	fuzzy	check if valid
+Diabetes, unspecified because of ICD-8, without complications	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Diabetes, unspecified because of ICD-8, with other specified complications	http://www.ebi.ac.uk/efo/EFO_0000516	glaucoma	OLS API EFO lookup	fuzzy	check if valid
+Unspecified diabetes	http://www.ebi.ac.uk/efo/EFO_0001359	type I diabetes mellitus	OLS API EFO lookup	fuzzy	check if valid
+Unspecified diabetes with multiple/unspecified complications	http://www.ebi.ac.uk/efo/EFO_0001359	type I diabetes mellitus	OLS API EFO lookup	fuzzy	check if valid
+Unspecified diabetes without complications					
+Other endocrine disorders	http://www.ebi.ac.uk/efo/EFO_0001379	Other endocrine disorders	Zooma API lookup	match	
+Disorders of other endocrine glands	http://www.ebi.ac.uk/efo/EFO_0001379	endocrine system disease	OLS API EFO lookup	fuzzy	check if valid
+Postprocedural endocrine and metabolic disorders, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_0000589	metabolic disease	OLS API EFO lookup	fuzzy	check if valid
+Endocrine, nutritional and metabolic diseases	http://www.ebi.ac.uk/efo/EFO_1001067	nutritional deficiency disease	OLS API EFO lookup	fuzzy	check if valid
+Other disorders of fluid, electrolyte and acid-base balance					
+Other disorders of glucose regulation and pancreatic internal secretion					
+Nontoxic diffuse goitre	http://www.ebi.ac.uk/efo/EFO_1000216	Diffuse Melanocytosis	OLS API EFO lookup	fuzzy	check if valid
+Nontoxic multinodular goitre	http://www.orpha.net/ORDO/Orphanet_276399	Familial multinodular goiter	OLS API EFO lookup	fuzzy	check if valid
+Other and/or unspecified nontoxic goitre	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Nontoxic single thyroid nodule	http://www.ebi.ac.uk/efo/EFO_1001436	thyroid nodule	OLS API EFO lookup	fuzzy	check if valid
+Pure hypercholesterolaemia	http://www.ebi.ac.uk/efo/EFO_0007617	pure tone hearing measurement	OLS API EFO lookup	fuzzy	check if valid
+Hyperkalaemia	http://purl.obolibrary.org/obo/HP_0002153	hyperkalaemia	OT Zooma Mappings	match	
+Mixed hyperlipidaemia	http://www.orpha.net/ORDO/Orphanet_79211	Combined hyperlipidemia	OLS API EFO lookup	match	
+Hyperlipidaemia, other/unspecified	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Hyperparathyroidism	http://www.ebi.ac.uk/efo/EFO_0008506	hyperparathyroidism	OLS API EFO lookup	match	
+Hyperfunction of pituitary gland	http://www.ebi.ac.uk/efo/EFO_1000973	Hyperfunction of pituitary gland	Zooma API lookup	match	
+Hyperprolactinaemia	http://www.ebi.ac.uk/efo/EFO_0007319	hyperprolactinemia	EFO OBO	match	
+Hypoglycaemia, other or unspecified	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Hypokalaemia					
+Hypo-osmolality and hyponatraemia					
+Hypoparathyroidism	http://www.ebi.ac.uk/efo/EFO_0009451	Hypoparathyroidism	Zooma API lookup	match	
+Hypopituitarism	http://www.ebi.ac.uk/efo/EFO_0001380	hypopituitarism	EFO OBO	match	
+Hypothyroidism,other/unspecified	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Lactose intolerance, other/unspecified	http://www.ebi.ac.uk/efo/EFO_1000062	lactose intolerance	EFO OBO	match	
+Lactose intolerance	http://www.ebi.ac.uk/efo/EFO_1000062	lactose intolerance	EFO OBO	match	
+Disorders of lipoprotein metabolism and other lipidaemias	http://purl.obolibrary.org/obo/MONDO_0004069	inborn mitochondrial metabolism disorder	OLS API EFO lookup	fuzzy	check if valid
+Disorder of lipoprotein metabolism, unspecified					
+Other metabolic disorders	http://www.orpha.net/ORDO/Orphanet_91088	Other metabolic disease	OLS API EFO lookup	fuzzy	check if valid
+Metabolic disorders	http://www.ebi.ac.uk/efo/EFO_0000589	metabolic disease	OLS API EFO lookup	match	
+Disorders of mineral metabolism	http://www.ebi.ac.uk/efo/EFO_0009556	Disorders of mineral metabolism	Zooma API lookup	match	
+Other nutritional deficiencies	http://www.ebi.ac.uk/efo/EFO_1001067	Other nutritional deficiencies	Zooma API lookup	match	
+Obesity	http://www.ebi.ac.uk/efo/EFO_0001073	obesity	EFO OBO	match	
+Obesity due to excess calories	http://www.ebi.ac.uk/efo/EFO_0001073	obesity	OLS API EFO lookup	fuzzy	check if valid
+Obesity, other/unspecified	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Obesity and other hyperalimentation	http://www.orpha.net/ORDO/Orphanet_2563	MOMO syndrome	OLS API EFO lookup	fuzzy	check if valid
+Ovarian dysfunction	http://www.ebi.ac.uk/efo/EFO_0009003	Ovarian dysfunction	Zooma API lookup	match	
+Disorders of parathyroid gland	http://www.ebi.ac.uk/efo/EFO_0005754	parathyroid disease	OLS API EFO lookup	fuzzy	check if valid
+Polycystic ovarian syndrome	http://www.ebi.ac.uk/efo/EFO_0000660	polycystic ovarian syndrome	Zooma API lookup	match	
+Disorders of the thyroid gland	http://www.ebi.ac.uk/efo/EFO_1000627	thyroid disease	OLS API EFO lookup	fuzzy	check if valid
+Subacute thyroiditis	http://www.ebi.ac.uk/efo/EFO_1001194	subacute thyroiditis	EFO OBO	match	
+Thyrotoxicosis with diffuse goitr	http://www.ebi.ac.uk/efo/EFO_0009190	Thyrotoxicosis	OLS API EFO lookup	fuzzy	check if valid
+Thyrotoxicosis with toxic multinodular goitre	http://purl.obolibrary.org/obo/HP_0011785	Thyrotoxicosis with toxic multinodular goiter	OLS API HP exact lookup	match	check if in OT
+Thyrotoxicosis, other and/or unspecified	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Vitamin deficiency	http://www.ebi.ac.uk/efo/EFO_0005878	vitamin deficiency	EFO OBO	match	
+Volume depletion	http://purl.obolibrary.org/obo/HP_0011106	Volume depletion	Zooma API lookup	match	
+Unsepcified/other endometriosis	http://www.ebi.ac.uk/efo/EFO_0001065	endometriosis	OLS API EFO lookup	fuzzy	check if valid
+Endometriosis of ovary	http://www.ebi.ac.uk/efo/EFO_1000418	Ovarian Endometriosis	OLS API EFO lookup	match	
+Endometriosis of pelvic peritoneum	http://www.ebi.ac.uk/efo/EFO_0001065	endometriosis	OLS API EFO lookup	fuzzy	check if valid
+Endometriosis of rectovaginal septum and vagina	http://www.orpha.net/ORDO/Orphanet_2491	Müllerian duct anomalies - limb anomalies	OLS API EFO lookup	fuzzy	check if valid
+Endometriosis of uterus	http://www.ebi.ac.uk/efo/EFO_0001065	endometriosis	OLS API EFO lookup	fuzzy	check if valid
+Etmoidectomy					
+Disturbance of activity and attention	http://purl.obolibrary.org/obo/HP_0031987	Diminished ability to concentrate	OLS API EFO lookup	fuzzy	check if valid
+Mental and behavioural disorders due to alcohol, excluding acute intoxication	http://www.ebi.ac.uk/efo/EFO_0000677	mental or behavioural disorder	OLS API EFO lookup	fuzzy	check if valid
+Acute alcohol intoxication	http://www.ebi.ac.uk/efo/EFO_0003829	alcohol dependence	OLS API EFO lookup	fuzzy	check if valid
+All anxiety disorders	http://www.ebi.ac.uk/efo/EFO_0006788	anxiety disorder	OLS API EFO lookup	fuzzy	check if valid
+Dementia in Alzheimer disease	http://www.ebi.ac.uk/efo/EFO_1001870	late-onset Alzheimers disease	OLS API EFO lookup	fuzzy	check if valid
+Anankastic personality disorder	http://purl.obolibrary.org/obo/HP_0012075	Personality disorder	OLS API EFO lookup	fuzzy	check if valid
+Anorexia (incl.atypical)	http://www.ebi.ac.uk/efo/EFO_0004215	anorexia nervosa	OLS API EFO lookup	fuzzy	check if valid
+Other anxiety disorders	http://www.ebi.ac.uk/efo/EFO_0006788	Other anxiety disorders	Zooma API lookup	match	
+Behavioural syndromes associated with physiological disturbances and physical factors	http://www.ebi.ac.uk/efo/EFO_1000931	euthyroid sick syndrome	OLS API EFO lookup	fuzzy	check if valid
+Behauvioural and emotional disorders with onset usually occuring in childhood and adolescence					
+Other behavioural and emotional disorders with onset usually occuring in childhood and adolescence					
+Bipolar affective disorders	http://www.ebi.ac.uk/efo/EFO_0000289	Bipolar affective disorder	Zooma API lookup	match	
+Bulimia nervosa (incl. atypical)	http://www.ebi.ac.uk/efo/EFO_0005204	bulimia nervosa	OLS API EFO lookup	fuzzy	check if valid
+Mental and behavioural disorders due to cannabinoids	http://www.ebi.ac.uk/efo/EFO_0000677	mental or behavioural disorder	OLS API EFO lookup	fuzzy	check if valid
+Conduct disorder	http://www.ebi.ac.uk/efo/EFO_0004216	conduct disorder	EFO OBO	match	
+Mixed disorders of conduct and emotions					
+Delirium, not induced by alcohol and other psychoactive substances					
+Persistent delusional disorders	http://www.ebi.ac.uk/efo/EFO_0009692	voice disorders	OLS API EFO lookup	fuzzy	check if valid
+Dementia	http://purl.obolibrary.org/obo/HP_0000726	dementia	EFO OBO	match	
+Dementia in other diseases classified elsewhere	http://www.ebi.ac.uk/efo/EFO_0000318	cardiomyopathy	OLS API EFO lookup	fuzzy	check if valid
+Unspecified dementia	http://purl.obolibrary.org/obo/HP_0000726	Unspecified dementia	Zooma API lookup	match	
+Dependent personality disorder	http://purl.obolibrary.org/obo/HP_0012075	Personality disorder	OLS API EFO lookup	fuzzy	check if valid
+Depression	http://www.ebi.ac.uk/efo/EFO_0003761	unipolar depression	OLS API EFO lookup	match	
+Dissocial personality disorder	http://purl.obolibrary.org/obo/HP_0012075	Personality disorder	OLS API EFO lookup	fuzzy	check if valid
+Dissociative [conversion] disorders	http://www.ebi.ac.uk/efo/EFO_0009750	dissociation measurement	OLS API EFO lookup	fuzzy	check if valid
+Eating disorders	http://www.ebi.ac.uk/efo/EFO_0005203	eating disorder	OLS API EFO lookup	fuzzy	check if valid
+Other eating disorders	http://www.ebi.ac.uk/efo/EFO_0005203	eating disorder	OLS API EFO lookup	fuzzy	check if valid
+Emotional disorders and disorders of social functioning with onset specific to childhood	http://purl.obolibrary.org/obo/MONDO_0024417	perceptual disorders	OLS API EFO lookup	fuzzy	check if valid
+Emotionally unstable personality disorder	http://www.ebi.ac.uk/efo/EFO_0005429	borderline personality disorder symptom	OLS API EFO lookup	fuzzy	check if valid
+Generalized anxiety disorder	http://www.ebi.ac.uk/efo/EFO_1001892	generalized anxiety disorder	EFO OBO	match	
+Kela-cod for severe mental illness	http://purl.obolibrary.org/obo/HP_0010864	Intellectual disability, severe	OLS API EFO lookup	fuzzy	check if valid
+Manic episode	http://www.ebi.ac.uk/efo/EFO_0007706	Manic episode	Zooma API lookup	match	
+Mental disorders, not otherwise specified	http://www.ebi.ac.uk/efo/EFO_1000178	Chronic Eosinophilic Leukemia, Not Otherwise Specified	OLS API EFO lookup	fuzzy	check if valid
+Other mental disorders due to brain damage and dysfunction and to physical disease	http://purl.obolibrary.org/obo/HP_0000011	Neurogenic bladder	OLS API EFO lookup	fuzzy	check if valid
+Mental retardation	http://www.ebi.ac.uk/efo/EFO_0003847	mental retardation	EFO OBO	match	
+Mild mental retardation	http://purl.obolibrary.org/obo/HP_0001256	Intellectual disability, mild	OLS API EFO lookup	match	
+Mixed and other personality disorders	http://purl.obolibrary.org/obo/HP_0012075	Mixed and other personality disorders	Zooma API lookup	match	
+Mood [affective] disorders	http://www.ebi.ac.uk/efo/EFO_0004247	mood disorder	OLS API EFO lookup	fuzzy	check if valid
+Other and unspecidied mood [affective] disorders	http://www.ebi.ac.uk/efo/EFO_0004247	mood disorder	OLS API EFO lookup	fuzzy	check if valid
+Neurotic, stress-related and somatoform disorders					
+Other neurotic disorders	http://www.ebi.ac.uk/efo/EFO_0004257	neurotic disorder	OLS API EFO lookup	fuzzy	check if valid
+Obsessive-compulsive disorder	http://www.ebi.ac.uk/efo/EFO_0004242	obsessive-compulsive disorder	EFO OBO	match	
+Mental and behavioural disorders due to opioids	http://www.ebi.ac.uk/efo/EFO_0000677	mental or behavioural disorder	OLS API EFO lookup	fuzzy	check if valid
+Organic, including symptomatic, mental disorders	http://www.ebi.ac.uk/efo/EFO_0003146	symptomatic heart failure	OLS API EFO lookup	fuzzy	check if valid
+Mental and behavioural disorders due to multiple drug use and use of multiple drugs and use of other psycoactive substances					
+Other specified and unspecified personality disorders	http://www.ebi.ac.uk/efo/EFO_0000516	glaucoma	OLS API EFO lookup	fuzzy	check if valid
+Panic disorder	http://www.ebi.ac.uk/efo/EFO_0004262	panic disorder	EFO OBO	match	
+Paranoid personality disorder	http://purl.obolibrary.org/obo/HP_0012075	Personality disorder	OLS API EFO lookup	fuzzy	check if valid
+Persistent mood disorders	http://www.ebi.ac.uk/efo/EFO_0004247	mood disorder	OLS API EFO lookup	fuzzy	check if valid
+Disorders of adult personality and behaviour	http://www.ebi.ac.uk/efo/EFO_0007052	antisocial behaviour measurement	OLS API EFO lookup	fuzzy	check if valid
+Specific personality disorders					
+Phobic anxiety disorders	http://www.ebi.ac.uk/efo/EFO_1001908	Phobic anxiety disorders	Zooma API lookup	match	
+Psychiatric diseases	http://purl.obolibrary.org/obo/MONDO_0002025	psychiatric disorder	OLS API EFO lookup	fuzzy	check if valid
+Disorders of psychological developtment	http://www.ebi.ac.uk/efo/EFO_0009095	psychological measurement	OLS API EFO lookup	fuzzy	check if valid
+Other and unspecified nonorganic psychotic disorders	http://www.ebi.ac.uk/efo/EFO_0000692	schizophrenia	OLS API EFO lookup	fuzzy	check if valid
+Acute and transient psychotic disorders	http://www.ebi.ac.uk/efo/EFO_0005940	Acute and transient psychotic disorders	Zooma API lookup	match	
+Post-traumatic stress disorder	http://www.ebi.ac.uk/efo/EFO_0001358	post-traumatic stress disorder	EFO OBO	match	
+Schizophrenia, schizotypal and delusional disorders					
+Schizoaffective disorder	http://www.ebi.ac.uk/efo/EFO_0005411	schizoaffective disorder	EFO OBO	match	
+Schizotypal disorder	http://www.ebi.ac.uk/efo/EFO_0000289	bipolar disorder	OLS API EFO lookup	fuzzy	check if valid
+Schizoid personality disorder	http://purl.obolibrary.org/obo/HP_0012075	Personality disorder	OLS API EFO lookup	fuzzy	check if valid
+Specific development disorders of scholastic skills	http://www.ebi.ac.uk/efo/EFO_0003756	autism spectrum disorder	OLS API EFO lookup	fuzzy	check if valid
+Schizophrenia	http://www.ebi.ac.uk/efo/EFO_0000692	schizophrenia	EFO OBO	match	
+Mental and behavioural disorders due to sedatives or hypnotics	http://www.ebi.ac.uk/efo/EFO_0000677	mental or behavioural disorder	OLS API EFO lookup	fuzzy	check if valid
+Sleep disorders	http://www.ebi.ac.uk/efo/EFO_0008568	Sleep disorders	Zooma API lookup	match	
+Somatoform disorder	http://www.ebi.ac.uk/efo/EFO_0009687	somatoform disorder	OLS API EFO lookup	match	
+Specific development disorders of speech and language	http://purl.obolibrary.org/obo/HP_0000750	Delayed speech and language development	OLS API EFO lookup	fuzzy	check if valid
+Mental and behavioural disorders due to use of other stimulants, including caffeine	http://www.ebi.ac.uk/efo/EFO_0000677	mental or behavioural disorder	OLS API EFO lookup	fuzzy	check if valid
+Other reactioin to severe stress, and adjustment disorders	http://www.ebi.ac.uk/efo/EFO_1001905	Oxidative Stress	OLS API EFO lookup	fuzzy	check if valid
+Substance use, excluding alcohol	http://purl.obolibrary.org/obo/MONDO_0019781	astrocytoma (excluding glioblastoma)	OLS API EFO lookup	fuzzy	check if valid
+Mental and behavioural disorders due to psychoctive substance use	http://www.ebi.ac.uk/efo/EFO_0000677	mental or behavioural disorder	OLS API EFO lookup	fuzzy	check if valid
+Mental and behavioural disorders due to tobacco	http://www.ebi.ac.uk/efo/EFO_0000677	mental or behavioural disorder	OLS API EFO lookup	fuzzy	check if valid
+Unspecified mental disorder	http://www.orpha.net/ORDO/Orphanet_254837	Unspecified mitochondrial disorder	OLS API EFO lookup	fuzzy	check if valid
+Vascular dementia	http://www.ebi.ac.uk/efo/EFO_0004718	vascular dementia	EFO OBO	match	
+FESS (DNB20)					
+Cardiomyopathy (excluding other)	http://www.ebi.ac.uk/efo/EFO_0000318	cardiomyopathy	OLS API EFO lookup	fuzzy	check if valid
+Cerebrovascular diseases (FINNGEN)	http://www.ebi.ac.uk/efo/EFO_0003763	cerebrovascular disorder	OLS API EFO lookup	fuzzy	check if valid
+Cardiovascular diseases (excluding rheumatic etc)	http://www.ebi.ac.uk/efo/EFO_0000319	cardiovascular disease	OLS API EFO lookup	fuzzy	check if valid
+Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified (FINNGEN)	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	fuzzy	check if valid
+Diseases of arteries, arterioles and capillaries (FINNGEN)	http://www.ebi.ac.uk/efo/EFO_0003967	vascular sarcoma	OLS API EFO lookup	fuzzy	check if valid
+Hypertensive diseases (excluding secondary)	http://www.ebi.ac.uk/efo/EFO_1000977	hypertensive retinopathy	OLS API EFO lookup	fuzzy	check if valid
+Other CVD (FINNGEN)	http://www.ebi.ac.uk/efo/EFO_0000319	cardiovascular disease	OLS API EFO lookup	fuzzy	check if valid
+Other heart diseases	http://www.ebi.ac.uk/efo/EFO_0003777	heart disease	OLS API EFO lookup	fuzzy	check if valid
+Pulmonary heart disease	http://purl.obolibrary.org/obo/MONDO_0004596	cor pulmonale	OLS API EFO lookup	match	
+Fibromyalgia related co-morbidities	http://www.ebi.ac.uk/efo/EFO_0005687	fibromyalgia	OLS API EFO lookup	fuzzy	check if valid
+Degeneration of the brain due to alcohol	http://purl.obolibrary.org/obo/MONDO_0022687	cerebellar degeneration	OLS API EFO lookup	fuzzy	check if valid
+Alzheimer disease	http://www.ebi.ac.uk/efo/EFO_0000249	Alzheimer's disease	OLS API EFO lookup	match	
+Alzheimer disease (more excluded)	http://purl.obolibrary.org/obo/MONDO_0100087	familial Alzheimer disease	OLS API EFO lookup	fuzzy	check if valid
+Atypical facial pain	http://www.orpha.net/ORDO/Orphanet_398147	Persistent idiopathic facial pain	OLS API ORDO exact lookup	match	check if in OT
+Bell's palsy	http://www.ebi.ac.uk/efo/EFO_0007167	Bell's palsy	OLS API EFO lookup	match	
+Brachial plexus disorders	http://www.ebi.ac.uk/efo/EFO_1000844	brachial plexus neuropathy	OLS API EFO lookup	fuzzy	check if valid
+Carpal tunnel syndrome	http://www.ebi.ac.uk/efo/EFO_0004143	carpal tunnel syndrome	EFO OBO	match	
+Cerebral cysts	http://www.ebi.ac.uk/efo/EFO_1001858	Tarlov Cysts	OLS API EFO lookup	fuzzy	check if valid
+Concussion	http://www.ebi.ac.uk/efo/EFO_1001827	post-concussion syndrome	OLS API EFO lookup	fuzzy	check if valid
+Cerebral palsy and other paralytic syndromes	http://www.ebi.ac.uk/efo/EFO_0003783	progressive bulbar palsy	OLS API EFO lookup	fuzzy	check if valid
+Demyelenating diseases of the central nervous system	http://www.orpha.net/ORDO/Orphanet_140989	Primary central nervous system vasculitis	OLS API EFO lookup	fuzzy	check if valid
+Diabethic neuropathy	http://www.ebi.ac.uk/efo/EFO_0004149	neuropathy	OLS API EFO lookup	fuzzy	check if valid
+Diffuse brain injury	http://purl.obolibrary.org/obo/MONDO_0043510	brain injury	OLS API EFO lookup	fuzzy	check if valid
+Dystonia	http://purl.obolibrary.org/obo/HP_0001332	dystonia	OT Zooma Mappings	match	
+Episodal and paroxysmal disorders					
+Epilepsy	http://www.ebi.ac.uk/efo/EFO_0000474	epilepsy	EFO OBO	match	
+Other facial nerve disorders	http://www.ebi.ac.uk/efo/EFO_0009380	facial neuralgia	OLS API EFO lookup	fuzzy	check if valid
+Lesion of lateral popliteal nerve					
+Focal brain injury	http://purl.obolibrary.org/obo/MONDO_0043510	brain injury	OLS API EFO lookup	fuzzy	check if valid
+Other headache syndromes	http://www.ebi.ac.uk/efo/EFO_0009550	Other headache syndromes	Zooma API lookup	match	
+Hemiplegia	http://www.orpha.net/ORDO/Orphanet_2131	hemiplegia	Zooma API lookup	match	
+Hydrocephalus	http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	Zooma API lookup	match	
+Other and unspecified intracranial injuries	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Intracranial trauma	http://www.ebi.ac.uk/efo/EFO_1000993	intracranial hypotension	OLS API EFO lookup	fuzzy	check if valid
+Lumbosacral root disorders, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_0009692	voice disorders	OLS API EFO lookup	fuzzy	check if valid
+Other lesions of median nerve	http://www.ebi.ac.uk/efo/EFO_1000936	femoral neuropathy	OLS API EFO lookup	fuzzy	check if valid
+Bacterial meningitis	http://www.ebi.ac.uk/efo/EFO_1000831	bacterial meningitis	EFO OBO	match	
+Meralgia paraesthetica					
+Migraine	http://www.ebi.ac.uk/efo/EFO_0003821	migraine	OT Zooma Mappings	match	
+Other and unspecified mononeuropathies of lower limb	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Other and unspecified mononeuropathies of upper limb	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Other and unsepcified mononeuropathies, also in other diseases					
+MS-disease / Multiple Sclerosis	http://www.ebi.ac.uk/efo/EFO_0003885	multiple sclerosis	OLS API EFO lookup	fuzzy	check if valid
+Diseases of the myoneural junction and muscle	http://www.ebi.ac.uk/efo/EFO_1001867	Zenker diverticulum	OLS API EFO lookup	fuzzy	check if valid
+Other and unspecified myopathies	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Nerve, nerve root and plexus disorders	http://www.ebi.ac.uk/efo/EFO_0009559	Nerve root and plexus disorders	Zooma API lookup	match	
+Systemic atrophies primarly affecting the central nervous system	http://purl.obolibrary.org/obo/MONDO_0003346	central nervous system vasculitis	OLS API EFO lookup	fuzzy	check if valid
+Inflammatory diseases of the central nervous system	http://www.orpha.net/ORDO/Orphanet_140989	Primary central nervous system vasculitis	OLS API EFO lookup	fuzzy	check if valid
+Neurological diseases	http://www.orpha.net/ORDO/Orphanet_137658	Microcephaly - intellectual disability - phalangeal and neurological anomalies	OLS API EFO lookup	fuzzy	check if valid
+Other degenerative diseases of the nervous system	http://www.ebi.ac.uk/efo/EFO_0005772	neurodegenerative disease	OLS API EFO lookup	fuzzy	check if valid
+Other disorders of nervous system	http://www.ebi.ac.uk/efo/EFO_0000618	Other disorders of nervous system	Zooma API lookup	match	
+Other demyelinating diseases of the central nervous system	http://www.ebi.ac.uk/efo/EFO_1000870	CNS demyelinating autoimmune disease	OLS API EFO lookup	fuzzy	check if valid
+Other neurological diseases	http://www.orpha.net/ORDO/Orphanet_137658	Microcephaly - intellectual disability - phalangeal and neurological anomalies	OLS API EFO lookup	fuzzy	check if valid
+Parkinson's disease	http://www.ebi.ac.uk/efo/EFO_0002508	Parkinson's disease	Zooma API lookup	match	
+Parkinson's disease	http://www.ebi.ac.uk/efo/EFO_0002508	Parkinson's disease	Zooma API lookup	match	
+Secondary parkinsonism+Parkinsonism in other disease	http://purl.obolibrary.org/obo/HP_0001300	Parkinsonism	OLS API EFO lookup	fuzzy	check if valid
+Lesion of plantar nerve	http://www.ebi.ac.uk/efo/EFO_1001143	radial nerve lesion	OLS API EFO lookup	fuzzy	check if valid
+Polyneuropathies and other disorders of the peripheral nervous system	http://www.ebi.ac.uk/efo/EFO_1001115	POEMS syndrome	OLS API EFO lookup	fuzzy	check if valid
+Other and unspecified polyneuropathies, also in other diseases	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Postprocedural disorders of nervous system	http://www.ebi.ac.uk/efo/EFO_0009387	peripheral nervous system disease	OLS API EFO lookup	fuzzy	check if valid
+Lesion of radial nerve	http://www.ebi.ac.uk/efo/EFO_1001143	radial nerve lesion	OLS API EFO lookup	match	
+Other and unspecified nerve root and plexus disorders, also in other diseases					
+Lesion of sciatic nerve					
+Traumatic subdural haemorrhage	http://www.ebi.ac.uk/efo/EFO_1001429	Subdural Effusion	OLS API EFO lookup	fuzzy	check if valid
+Sleep apnoea	http://www.ebi.ac.uk/efo/EFO_0003877	sleep apnoea	Zooma API lookup	match	
+Other sleepdisorders	http://purl.obolibrary.org/obo/MONDO_0019546	other acquired skin disease	OLS API EFO lookup	fuzzy	check if valid
+Other diseases of spinal cord	http://www.ebi.ac.uk/efo/EFO_0009488	Other diseases of spinal cord	Zooma API lookup	match	
+Status epilepticus	http://purl.obolibrary.org/obo/HP_0002133	status epilepticus	OT Zooma Mappings	match	
+Transient ischemic attack	http://www.ebi.ac.uk/efo/EFO_0003764	transient ischemic attack	EFO OBO	match	
+Trigeminal neuralgia	http://www.ebi.ac.uk/efo/EFO_1001219	trigeminal neuralgia	EFO OBO	match	
+Lesion of ulnar nerve	http://www.ebi.ac.uk/efo/EFO_1001224	ulnar neuropathy	OLS API EFO lookup	fuzzy	check if valid
+Vascular syndromes of brain in cerebrovascular disorders	http://www.ebi.ac.uk/efo/EFO_0003763	cerebrovascular disorder	OLS API EFO lookup	fuzzy	check if valid
+Extrapyramidal and movement disorders	http://www.orpha.net/ORDO/Orphanet_139441	Hypomyelination with atrophy of basal ganglia and cerebellum	OLS API EFO lookup	fuzzy	check if valid
+Other extrapyramidal and movement disorders+ in other diseases	http://purl.obolibrary.org/obo/HP_0002304	Akinesia	OLS API EFO lookup	fuzzy	check if valid
+Gestational diabetes (for exclusion)	http://www.ebi.ac.uk/efo/EFO_0004593	gestational diabetes	OLS API EFO lookup	fuzzy	check if valid
+Giant cell arteritis with polymyalgia rheumatica	http://www.ebi.ac.uk/efo/EFO_1001209	temporal arteritis	OLS API EFO lookup	fuzzy	check if valid
+Glomerulonephritis	http://purl.obolibrary.org/obo/MONDO_0002462	glomerulonephritis (disease)	OLS API EFO lookup	match	
+Glucagon-like peptide-1 (GLP-1) analogues	http://www.ebi.ac.uk/efo/EFO_0008531	GLP-1-stimulated insulin response	OLS API EFO lookup	fuzzy	check if valid
+Other blood glucose lowering drugs, excl. Insulins	http://www.ebi.ac.uk/efo/EFO_0009698	gestational blood glucose measurement	OLS API EFO lookup	fuzzy	check if valid
+Gout, FINNGEN					
+Gout-related co-morbidities	http://www.ebi.ac.uk/efo/EFO_0004274	gout	OLS API EFO lookup	fuzzy	check if valid
+Idiopathic gout	http://www.ebi.ac.uk/efo/EFO_0004274	gout	OLS API EFO lookup	fuzzy	check if valid
+Gout, unspecified	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Allergic conjunctivitis	http://www.ebi.ac.uk/efo/EFO_0007141	allergic conjunctivitis	EFO OBO	match	
+Amblyopia ex anopsia	http://purl.obolibrary.org/obo/MONDO_0001020	amblyopia (disease)	OLS API EFO lookup	fuzzy	check if valid
+Anisometropia and aniseikonia					
+Astigmatism	http://purl.obolibrary.org/obo/HP_0000483	astigmatism	Zooma API lookup	match	
+Blepharochalasis	http://purl.obolibrary.org/obo/HP_0010749	Blepharochalasis	OLS API HP exact lookup	match	check if in OT
+Visual impairment including blindness (binocular or monocular)	http://purl.obolibrary.org/obo/HP_0100704	Cerebral visual impairment	OLS API EFO lookup	fuzzy	check if valid
+Other cataract	http://www.ebi.ac.uk/efo/EFO_0001059	Other cataract	Zooma API lookup	match	
+Senile cataract	http://purl.obolibrary.org/obo/HP_0011141	Senile cataract	Zooma API lookup	match	
+Chalazion	http://www.ebi.ac.uk/efo/EFO_0007363	meibomian cyst	OLS API EFO lookup	match	
+Chorioretinal inflammation	http://purl.obolibrary.org/obo/MP_0001845	inflammation	OLS API EFO lookup	fuzzy	check if valid
+Disorders of choroid and retina	http://www.orpha.net/ORDO/Orphanet_98942	Coloboma of choroid and retina	OLS API EFO lookup	fuzzy	check if valid
+conjunctival haemorrhage	http://www.ebi.ac.uk/efo/EFO_1000203	Conjunctival Disorder	OLS API EFO lookup	fuzzy	check if valid
+conjunctival degenerations and deposits					
+Disorders of conjunctiva					
+Conjunctivitis	http://www.ebi.ac.uk/efo/EFO_0009450	Conjunctivitis	Zooma API lookup	match	
+Conjunctivitis (acute, non atopic)	http://purl.obolibrary.org/obo/MONDO_0001214	acute conjunctivitis	OLS API EFO lookup	fuzzy	check if valid
+Atopic conjunctivitis	http://www.ebi.ac.uk/efo/EFO_0007141	allergic conjunctivitis	OLS API EFO lookup	match	
+Chronic conjunctivitis	http://purl.obolibrary.org/obo/MONDO_0002314	chronic conjunctivitis	OLS API EFO lookup	match	
+Convergent concomitant strabismus	http://purl.obolibrary.org/obo/HP_0000486	Strabismus	OLS API EFO lookup	fuzzy	check if valid
+Other and unspecified corneal deformities and disorders					
+Other disorders of cornea	http://www.ebi.ac.uk/efo/EFO_0009464	Other disorders of cornea	Zooma API lookup	match	
+Corneal ulcer	http://purl.obolibrary.org/obo/HP_0012804	Corneal ulceration	OLS API HP exact lookup	match	check if in OT
+Diplopia	http://purl.obolibrary.org/obo/HP_0000651	Diplopia	OLS API HP exact lookup	match	check if in OT
+Divergent concomitant strabismus	http://purl.obolibrary.org/obo/HP_0000486	Strabismus	OLS API EFO lookup	fuzzy	check if valid
+Ectropion of eyelid	http://purl.obolibrary.org/obo/MONDO_0002043	ectropion (disease)	OLS API EFO lookup	match	
+Entropion and trichiasis of eyelid					
+Episcleritis	http://purl.obolibrary.org/obo/HP_0100534	Episcleritis	OLS API HP exact lookup	match	check if in OT
+Diseases of the eye and adnexa	http://www.ebi.ac.uk/efo/EFO_0009546	eye adnexa disease	OLS API EFO lookup	fuzzy	check if valid
+Other specified and unspecified disorders of eye and adnexa					
+Other disorders of eyelid	http://www.ebi.ac.uk/efo/EFO_0009547	Other disorders of eyelid	Zooma API lookup	match	
+Other inflammation of eyelid	http://www.ebi.ac.uk/efo/EFO_0009536	Other inflammation of eyelid	Zooma API lookup	match	
+Disorders of eyelid in diseases classified elsewhere	http://www.ebi.ac.uk/efo/EFO_0009547	Disorders of eyelid in diseases classified elsewhere	Zooma API lookup	match	
+Other disorders of eye and adnexa	http://www.ebi.ac.uk/efo/EFO_0009546	Other disorders of eye and adnexa	Zooma API lookup	match	
+Primary angle-closure glaucoma	http://www.ebi.ac.uk/efo/EFO_1001506	primary angle closure glaucoma	OLS API EFO lookup	match	
+Other and unspecified glaucoma	http://www.ebi.ac.uk/efo/EFO_0000516	glaucoma	OLS API EFO lookup	fuzzy	check if valid
+Glaucoma	http://www.ebi.ac.uk/efo/EFO_0000516	glaucoma	EFO OBO	match	
+Use of antiglaucoma preparations and miotics	http://www.ebi.ac.uk/efo/EFO_0009944	Antiglaucoma preparations and miotics use measurement	OLS API EFO lookup	fuzzy	check if valid
+Primary open-angle glaucoma	http://www.ebi.ac.uk/efo/EFO_0004190	primary open angle glaucoma	Zooma API lookup	match	
+Glaucoma secondary to other eye disorders	http://www.ebi.ac.uk/efo/EFO_0000516	glaucoma	OLS API EFO lookup	fuzzy	check if valid
+Glaucoma suspect	http://www.ebi.ac.uk/efo/EFO_0000516	glaucoma	OLS API EFO lookup	fuzzy	check if valid
+Disorders of globe	http://www.ebi.ac.uk/efo/EFO_0003966	Disorders of globe	Zooma API lookup	match	
+Herpesviral keratitis and keratoconjunctivitis	http://www.ebi.ac.uk/efo/EFO_1000906	dry eye syndrome	OLS API EFO lookup	fuzzy	check if valid
+Heterophoria	http://purl.obolibrary.org/obo/HP_0032011	Heterophoria	OLS API HP exact lookup	match	check if in OT
+Hordeolum and other deep inflammation of eyelid					
+Hypermetropia	http://purl.obolibrary.org/obo/HP_0000540	hypermetropia	EFO OBO	match	
+Intermittent heterotropia	http://www.orpha.net/ORDO/Orphanet_329967	Intermittent hydrarthrosis	OLS API EFO lookup	fuzzy	check if valid
+Acute and subacute iridocyclitis	http://purl.obolibrary.org/obo/MONDO_0016137	acute and subacute inflammatory demyelinating polyneuropathy	OLS API EFO lookup	fuzzy	check if valid
+Chronic iridocyclitis	http://purl.obolibrary.org/obo/HP_0001094	Iridocyclitis	OLS API EFO lookup	fuzzy	check if valid
+Iridocyclitis	http://purl.obolibrary.org/obo/HP_0001094	Iridocyclitis	Zooma API lookup	match	
+Keratitis	http://www.ebi.ac.uk/efo/EFO_0009449	Keratitis	Zooma API lookup	match	
+Keratitis and keratoconjunctivitis in other diseases classified elsewhere	http://www.ebi.ac.uk/efo/EFO_1000906	dry eye syndrome	OLS API EFO lookup	fuzzy	check if valid
+Other keratitis	http://www.ebi.ac.uk/efo/EFO_0009449	keratitis	OLS API EFO lookup	fuzzy	check if valid
+Other disorders of lacrimal gland					
+Disorders of lacrimal system	http://www.ebi.ac.uk/efo/EFO_0009455	Disorders of lacrimal system	Zooma API lookup	match	
+Disorders of lens	http://www.ebi.ac.uk/efo/EFO_0009692	voice disorders	OLS API EFO lookup	fuzzy	check if valid
+Disorders of eyelid, lacrimal system and orbit	http://www.ebi.ac.uk/efo/EFO_0001067	parasitic infection	OLS API EFO lookup	fuzzy	check if valid
+Degeneration of macula and posterior pole	http://purl.obolibrary.org/obo/MONDO_0002175	degeneration of macula and posterior pole	OLS API EFO lookup	match	
+Diabetic maculopathy	http://www.ebi.ac.uk/efo/EFO_0010133	diabetic maculopathy	OLS API EFO lookup	match	
+Moderate visual impairment, binocular	http://purl.obolibrary.org/obo/HP_0030515	Moderately reduced visual acuity	OLS API HP exact lookup	match	check if in OT
+Myopia	http://purl.obolibrary.org/obo/HP_0000545	Myopia	Zooma API lookup	match	
+Disorders of ocular muscles, binocular movement, accommodation and refraction					
+Ocular pain	http://purl.obolibrary.org/obo/HP_0200026	Ocular pain	OLS API HP exact lookup	match	check if in OT
+Disorders of optic nerve and visual pathways	http://www.ebi.ac.uk/efo/EFO_1001073	optic nerve neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Optic neuritis	http://www.ebi.ac.uk/efo/EFO_0007405	optic neuritis	EFO OBO	match	
+Other disorders of optic [2nd] nerve and visual pathways					
+Disorders of orbit	http://www.ebi.ac.uk/efo/EFO_0009664	Disorders of orbit	Zooma API lookup	match	
+Other disorders of conjunctiva	http://www.ebi.ac.uk/efo/EFO_1000203	Other disorders of conjunctiva	Zooma API lookup	match	
+Sixth [abducent] nerve palsy	http://www.ebi.ac.uk/efo/EFO_0007167	Bell's palsy	OLS API EFO lookup	fuzzy	check if valid
+Paralytic strabismus	http://www.ebi.ac.uk/efo/EFO_0009678	Paralytic strabismus	Zooma API lookup	match	
+Peripheral retinal degeneration	http://purl.obolibrary.org/obo/HP_0007769	Peripheral retinal degeneration	OLS API HP exact lookup	match	check if in OT
+Presbyopia					
+Pterygium	http://www.ebi.ac.uk/efo/EFO_0000678	pterygium	EFO OBO	match	
+Ptosis of eyelid	http://purl.obolibrary.org/obo/MONDO_0000728	ptosis (disease)	OLS API EFO lookup	fuzzy	check if valid
+Disorders of refraction and accommodation	http://purl.obolibrary.org/obo/HP_0000539	Disorders of refraction and accommodation	Zooma API lookup	match	
+Retinal breaks without detachment	http://www.ebi.ac.uk/efo/EFO_0005773	retinal detachment	OLS API EFO lookup	fuzzy	check if valid
+Retinal detachments and breaks	http://www.ebi.ac.uk/efo/EFO_0005773	Retinal detachments and breaks	Zooma API lookup	match	
+Retinal detachment with retinal break	http://www.ebi.ac.uk/efo/EFO_0005240	rhegmatogenous retinal detachment	OLS API EFO lookup	fuzzy	check if valid
+Other, unspecified and serous retinal detachments					
+Other retinal disorders	http://www.ebi.ac.uk/efo/EFO_0003839	Other retinal disorders	Zooma API lookup	match	
+Other specified and unspecified retinal disorders	http://www.ebi.ac.uk/efo/EFO_0000516	glaucoma	OLS API EFO lookup	fuzzy	check if valid
+Separation of retinal layers (serosa)	http://www.ebi.ac.uk/efo/EFO_0005773	retinal detachment	OLS API EFO lookup	fuzzy	check if valid
+Retinal vascular disorders	http://purl.obolibrary.org/obo/MONDO_0002311	retinal vascular disease	OLS API EFO lookup	fuzzy	check if valid
+Diabetic retinopathy	http://www.ebi.ac.uk/efo/EFO_0003770	diabetic retinopathy	EFO OBO	match	
+Diabetic background retinopathy	http://www.ebi.ac.uk/efo/EFO_0009760	non-proliferative diabetic retinopathy	OLS API EFO lookup	fuzzy	check if valid
+Other diabetic retinopathy	http://www.ebi.ac.uk/efo/EFO_0003770	diabetic retinopathy	OLS API EFO lookup	fuzzy	check if valid
+Proliferative diabetic retinopathy	http://www.ebi.ac.uk/efo/EFO_0009322	Proliferative diabetic retinopathy	Zooma API lookup	match	
+Retinal vascular occlusion	http://www.ebi.ac.uk/efo/EFO_1001157	Retinal vascular occlusions	Zooma API lookup	match	
+Other and unspecified vascular occlusions	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Disorders of sclera, cornea, iris and ciliary body					
+Scleritis and episcleritis	http://purl.obolibrary.org/obo/MONDO_0001269	scleral disease	OLS API EFO lookup	fuzzy	check if valid
+Stenosis and insufficiency of lacrimal passages	http://purl.obolibrary.org/obo/MONDO_0019817	congenital mitral valve insufficiency and/or stenosis	OLS API EFO lookup	fuzzy	check if valid
+Strabismus	http://purl.obolibrary.org/obo/HP_0000486	strabismus	Zooma API lookup	match	
+Other strabismus	http://purl.obolibrary.org/obo/HP_0000486	Other strabismus	Zooma API lookup	match	
+Use of eye-antiallergens (taken as indicator of allergic/atopic conjunctivitis)	http://purl.obolibrary.org/obo/HP_0000758	Impaired use of nonverbal behaviors	OLS API EFO lookup	fuzzy	check if valid
+Vertical strabismus	http://purl.obolibrary.org/obo/HP_0000486	Strabismus	OLS API EFO lookup	fuzzy	check if valid
+Other and unspecified visual disturbances	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Visual field defects	http://purl.obolibrary.org/obo/HP_0001123	Visual field defect	OLS API EFO lookup	match	
+Visual disturbances and blindness					
+Visual disturbances	http://purl.obolibrary.org/obo/HP_0000505	Visual disturbances	Zooma API lookup	match	
+Subjective visual disturbances	http://www.ebi.ac.uk/efo/EFO_0009543	disturbances of sensation of smell and taste	OLS API EFO lookup	fuzzy	check if valid
+Disorders of vitreous body	http://www.ebi.ac.uk/efo/EFO_0008624	Disorders of vitreous body	Zooma API lookup	match	
+Disorders of vitreous body and globe					
+Vitreous haemorrhage	http://purl.obolibrary.org/obo/HP_0007902	Vitreous hemorrhage	OLS API HP exact lookup	match	check if in OT
+Other vitreous opacities	http://www.ebi.ac.uk/efo/EFO_0008625	vitreous prolapse	OLS API EFO lookup	fuzzy	check if valid
+Other and unspecified disorders of vitreous body	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Benign paroxysmal vertigo	http://www.orpha.net/ORDO/Orphanet_71518	Benign paroxysmal torticollis of infancy	OLS API EFO lookup	fuzzy	check if valid
+Impacted cerumen	http://purl.obolibrary.org/obo/HP_0030788	Impacted cerumen	OLS API HP exact lookup	match	check if in OT
+Cholesteatoma of middle ear	http://www.ebi.ac.uk/efo/EFO_1000678	cholesteatoma of middle ear	EFO OBO	match	
+Chronic suppurative otitis media	http://purl.obolibrary.org/obo/MONDO_0021206	chronic non-suppurative otitis media	OLS API EFO lookup	fuzzy	check if valid
+Conductive and sensorineural hearing loss	http://www.ebi.ac.uk/efo/EFO_1001176	Conductive and sensorineural hearing loss	Zooma API lookup	match	
+Diseases of the ear and mastoid process	http://www.ebi.ac.uk/efo/EFO_1000678	cholesteatoma of middle ear	OLS API EFO lookup	fuzzy	check if valid
+Other specified disorders of external ear					
+Diseases of external ear					
+Otitis externa	http://purl.obolibrary.org/obo/HP_0000389	otitis externa	OT Zooma Mappings	match	
+Other infective otitis externa	http://www.ebi.ac.uk/efo/EFO_0009560	otitis externa	OLS API EFO lookup	fuzzy	check if valid
+Otitis externa, unspecified	http://purl.obolibrary.org/obo/HP_0000389	otitis externa	OT Zooma Mappings	match	
+Other otitis externa (chronic)	http://www.ebi.ac.uk/efo/EFO_0009560	otitis externa	OLS API EFO lookup	fuzzy	check if valid
+Conductive hearing loss, unspecified	http://purl.obolibrary.org/obo/HP_0000405	Conductive hearing impairment	OLS API HP exact lookup	match	check if in OT
+Sudden idiopathic hearing loss	http://www.ebi.ac.uk/efo/EFO_0004238	hearing loss	OLS API EFO lookup	fuzzy	check if valid
+Mixed conductive and sensorineural hearing loss	http://www.orpha.net/ORDO/Orphanet_383	X-linked mixed deafness with perilymphatic gusher	OLS API EFO lookup	fuzzy	check if valid
+Other specified/unspecified hearing loss	http://www.ebi.ac.uk/efo/EFO_0004238	hearing loss	OLS API EFO lookup	fuzzy	check if valid
+Presbycusis	http://purl.obolibrary.org/obo/HP_0040113	Old-aged sensorineural hearing impairment	OLS API HP exact lookup	match	check if in OT
+Sensorineural hearing loss	http://purl.obolibrary.org/obo/HP_0000407	Sensorineural hearing impairment	EFO OBO	match	
+Diseases of inner ear	http://www.ebi.ac.uk/efo/EFO_0009672	inner ear disease	OLS API EFO lookup	fuzzy	check if valid
+Chronic mastoiditis					
+Suppurative and unspecified otitis media	http://www.ebi.ac.uk/efo/EFO_0007503	Suppurative and unspecified otitis media	Zooma API lookup	match	
+Meniere disease	http://www.ebi.ac.uk/efo/EFO_0006862	Meniere disease	OLS API EFO lookup	match	
+Diseases of middle ear and mastoid	http://www.ebi.ac.uk/efo/EFO_1000678	cholesteatoma of middle ear	OLS API EFO lookup	fuzzy	check if valid
+Noise effects on inner ear	http://www.ebi.ac.uk/efo/EFO_0009672	inner ear disease	OLS API EFO lookup	fuzzy	check if valid
+Nonsuppurative otitis media	http://www.ebi.ac.uk/efo/EFO_0007415	Nonsuppurative otitis media	Zooma API lookup	match	
+Otalgia	http://purl.obolibrary.org/obo/HP_0030766	Ear pain	OLS API EFO lookup	match	
+Other disorders of ear					
+Other hearing loss	http://www.ebi.ac.uk/efo/EFO_0004238	Other hearing loss	Zooma API lookup	match	
+Otitis media, unspecified	http://www.ebi.ac.uk/efo/EFO_0004992	Otitis media	Zooma API lookup	match	
+Otosclerosis	http://www.ebi.ac.uk/efo/EFO_0004213	otosclerosis	EFO OBO	match	
+Perforation of tympanic membrane	http://www.ebi.ac.uk/efo/EFO_0009472	Perforation of tympanic membrane	Zooma API lookup	match	
+Other peripheral vertigo	http://purl.obolibrary.org/obo/MONDO_0004900	peripheral vertigo	OLS API EFO lookup	fuzzy	check if valid
+Acute suppurative otitis media	http://www.ebi.ac.uk/efo/EFO_0007503	suppurative otitis media	OLS API EFO lookup	fuzzy	check if valid
+Suppurative otitis media, unspecified	http://www.ebi.ac.uk/efo/EFO_0007503	suppurative otitis media	EFO OBO	match	
+Tinnitus	http://purl.obolibrary.org/obo/HP_0000360	tinnitus	OT Zooma Mappings	match	
+Disorders of vestibular function (Vertigo)	http://www.ebi.ac.uk/efo/EFO_0009691	vestibular disease	OLS API EFO lookup	fuzzy	check if valid
+Vestibular neuronitis	http://www.ebi.ac.uk/efo/EFO_0007537	vestibular neuronitis	EFO OBO	match	
+Other/unspecified disorders of vestibular function	http://www.ebi.ac.uk/efo/EFO_0000516	glaucoma	OLS API EFO lookup	fuzzy	check if valid
+Heart failure	http://www.ebi.ac.uk/efo/EFO_0003144	heart failure	EFO OBO	match	
+Hemodialysis	http://www.ebi.ac.uk/efo/EFO_1000857	central pontine myelinolysis	OLS API EFO lookup	fuzzy	check if valid
+Chronic viral hepatitis	http://www.ebi.ac.uk/efo/EFO_0007540	Chronic viral hepatitis	Zooma API lookup	match	
+Hip fracture	http://www.ebi.ac.uk/efo/EFO_0003964	hip fracture	EFO OBO	match	
+Hyposensibilization therapy					
+Hypothyroidism (congenital or acquired)	http://www.orpha.net/ORDO/Orphanet_442	Congenital hypothyroidism	OLS API EFO lookup	fuzzy	check if valid
+Pregnancy hypertension	http://purl.obolibrary.org/obo/MONDO_0024664	hypertension, pregnancy-induced	OLS API EFO lookup	fuzzy	check if valid
+Atrial fibrillation and flutter	http://www.ebi.ac.uk/efo/EFO_0000275	Atrial fibrillation and flutter	Zooma API lookup	match	
+Endovascular or surgical operations to intracerebral aneurysms	http://www.ebi.ac.uk/efo/EFO_0005669	intracerebral hemorrhage	OLS API EFO lookup	fuzzy	check if valid
+Cerebral aneurysm, nonruptured	http://www.ebi.ac.uk/efo/EFO_0003870	cerebral aneurysm	Zooma API lookup	match	
+Angina pectoris	http://www.ebi.ac.uk/efo/EFO_0003913	angina pectoris	EFO OBO	match	
+Coronary angiopasty	http://www.ebi.ac.uk/efo/EFO_1000883	coronary thrombosis	OLS API EFO lookup	fuzzy	check if valid
+Aortic aneurysm	http://www.ebi.ac.uk/efo/EFO_0001666	aortic aneurysm	EFO OBO	match	
+Dissection of aorta					
+Arterial embolism and thrombosis	http://www.ebi.ac.uk/efo/EFO_0004286	Arterial embolism and thrombosis	Zooma API lookup	match	
+Arterial embolism and thrombosis of lower extremity artery	http://www.ebi.ac.uk/efo/EFO_1001150	renal artery obstruction	OLS API EFO lookup	fuzzy	check if valid
+Other diseases of arteries and capillaries	http://www.ebi.ac.uk/efo/EFO_1000041	nephrosclerosis	OLS API EFO lookup	fuzzy	check if valid
+Atherosclerosis, excluding cerebral, coronary and PAD	http://purl.obolibrary.org/obo/MONDO_0019781	astrocytoma (excluding glioblastoma)	OLS API EFO lookup	fuzzy	check if valid
+AV-block	http://purl.obolibrary.org/obo/MONDO_0000465	atrioventricular block (disease)	OLS API EFO lookup	fuzzy	check if valid
+Coronary artery bypass grafting					
+Cardiac arrest	http://www.ebi.ac.uk/efo/EFO_0009492	cardiac arrest	OLS API EFO lookup	match	
+Cardiomyopathies, Primary/intrinsic	http://www.ebi.ac.uk/efo/EFO_1000026	diffuse intrinsic pontine glioma	OLS API EFO lookup	fuzzy	check if valid
+Cardiomyopathy	http://www.ebi.ac.uk/efo/EFO_0000318	cardiomyopathy	EFO OBO	match	
+Cardiomyopathy, Hypertrophic obstructive	http://www.ebi.ac.uk/efo/EFO_0000538	hypertrophic cardiomyopathy	OLS API EFO lookup	fuzzy	check if valid
+Cardiomyopathy, other and unspecified	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere	http://www.ebi.ac.uk/efo/EFO_0003763	cerebrovascular disorder	OLS API EFO lookup	fuzzy	check if valid
+Cerebrovascular diseases	http://www.ebi.ac.uk/efo/EFO_0003763	cerebrovascular disorder	OLS API EFO lookup	fuzzy	check if valid
+Major coronary heart disease event	http://www.ebi.ac.uk/efo/EFO_0001645	coronary heart disease	OLS API EFO lookup	fuzzy	check if valid
+Major coronary heart disease event excluding revascularizations	http://www.ebi.ac.uk/efo/EFO_0001645	coronary heart disease	OLS API EFO lookup	fuzzy	check if valid
+Conduction disorders	http://www.ebi.ac.uk/efo/EFO_0009692	voice disorders	OLS API EFO lookup	fuzzy	check if valid
+Coronary atherosclerosis	http://purl.obolibrary.org/obo/MONDO_0021661	coronary atherosclerosis	OLS API EFO lookup	match	
+Cardiovascular diseases	http://www.ebi.ac.uk/efo/EFO_0000319	Cardiovascular disease	Zooma API lookup	match	
+Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified					
+Diseases of arteries, arterioles and capillaries	http://www.ebi.ac.uk/efo/EFO_0003967	vascular sarcoma	OLS API EFO lookup	fuzzy	check if valid
+DVT of lower extremities and pulmonary embolism	http://www.orpha.net/ORDO/Orphanet_221043	Hereditary sclerosing poikiloderma with tendon and pulmonary involvement	OLS API EFO lookup	fuzzy	check if valid
+Heart failure,strict	http://www.ebi.ac.uk/efo/EFO_0003144	heart failure	EFO OBO	match	
+Heart failure,strict	http://www.ebi.ac.uk/efo/EFO_0003144	heart failure	EFO OBO	match	
+Heart failure, not strict	http://www.ebi.ac.uk/efo/EFO_0003144	heart failure	EFO OBO	match	
+Hypertensive diseases	http://www.ebi.ac.uk/efo/EFO_1000977	hypertensive retinopathy	OLS API EFO lookup	fuzzy	check if valid
+Hypotension	http://www.ebi.ac.uk/efo/EFO_0005251	hypotension	EFO OBO	match	
+Hypertension	http://www.ebi.ac.uk/efo/EFO_0000537	hypertension	EFO OBO	match	
+Secondary hypertension	http://www.ebi.ac.uk/efo/EFO_1002034	secondary hypertension	OLS API EFO lookup	match	
+Hypertension, essential	http://www.ebi.ac.uk/efo/EFO_0000537	hypertension	EFO OBO	match	
+Hypertensive Heart Disease	http://purl.obolibrary.org/obo/MONDO_0001302	hypertensive heart disease	OLS API EFO lookup	match	
+Hypertensive heart and/or renal disease	http://purl.obolibrary.org/obo/MONDO_0024633	hypertensive renal disease	OLS API EFO lookup	fuzzy	check if valid
+Hypertension complicating pregnancy, childbirth, and the puerperium	http://purl.obolibrary.org/obo/MONDO_0024664	hypertension, pregnancy-induced	OLS API EFO lookup	match	
+Hypertensive Renal Disease	http://www.ebi.ac.uk/efo/EFO_1002039	Hypertensive renal disease	Zooma API lookup	match	
+Intracerebral haemmorrhage	http://www.ebi.ac.uk/efo/EFO_0005669	intracerebral hemorrhage	OLS API EFO lookup	fuzzy	check if valid
+Ischaemic heart disease, wide definition	http://www.ebi.ac.uk/efo/EFO_0003777	heart disease	OLS API EFO lookup	fuzzy	check if valid
+Nontraumatic intracranial haemmorrhage	http://www.ebi.ac.uk/efo/EFO_0000551	intracranial hemorrhage	OLS API EFO lookup	fuzzy	check if valid
+Ischemic heart diseases	http://www.ebi.ac.uk/efo/EFO_1001375	Myocardial Ischemia	OLS API EFO lookup	match	
+Death due to cardiac causes	http://www.ebi.ac.uk/efo/EFO_0004278	sudden cardiac arrest	OLS API EFO lookup	fuzzy	check if valid
+Left bundle-branch block	http://www.ebi.ac.uk/efo/EFO_0004138	bundle branch block	OLS API EFO lookup	fuzzy	check if valid
+Nonspesific lymphadenitis	http://purl.obolibrary.org/obo/HP_0002840	Lymphadenitis	OLS API EFO lookup	fuzzy	check if valid
+Other noninfective disordersof lymphatic vessels and lymph nodes					
+Myocardial infarction	http://www.ebi.ac.uk/efo/EFO_0000612	myocardial infarction	EFO OBO	match	
+Myocardial infarction, strict	http://www.ebi.ac.uk/efo/EFO_0000612	myocardial infarction	EFO OBO	match	
+Myocarditis	http://www.ebi.ac.uk/efo/EFO_0009609	myocarditis	Zooma API lookup	match	
+Non-rheumatic valve diseases	http://www.ebi.ac.uk/efo/EFO_0007148	aortic valve insufficiency	OLS API EFO lookup	fuzzy	check if valid
+Other CVD	http://www.ebi.ac.uk/efo/EFO_0000319	cardiovascular disease	OLS API EFO lookup	fuzzy	check if valid
+Other aneurysm	http://www.ebi.ac.uk/efo/EFO_0009659	Other aneurysm	Zooma API lookup	match	
+Other arrhytmias	http://purl.obolibrary.org/obo/MONDO_0019546	other acquired skin disease	OLS API EFO lookup	fuzzy	check if valid
+Other heart diseases	http://www.ebi.ac.uk/efo/EFO_0003777	heart disease	OLS API EFO lookup	fuzzy	check if valid
+Other or ill-defined heart diseases	http://www.ebi.ac.uk/efo/EFO_0000319	cardiovascular disease	OLS API EFO lookup	fuzzy	check if valid
+Other other unspecified disorders of the circulatory system	http://www.ebi.ac.uk/efo/EFO_0000319	cardiovascular disease	OLS API EFO lookup	fuzzy	check if valid
+Other peripheral vascular diseases	http://www.ebi.ac.uk/efo/EFO_0003875	Other peripheral vascular diseases	Zooma API lookup	match	
+Peripheral artery disease	http://www.ebi.ac.uk/efo/EFO_0004265	peripheral arterial disease	EFO OBO	match	
+Paroxysmal tachycardia	http://www.ebi.ac.uk/efo/EFO_0009493	Paroxysmal tachycardia	Zooma API lookup	match	
+Pericarditis	http://www.ebi.ac.uk/efo/EFO_0007427	pericarditis	EFO OBO	match	
+Peripheral artery operations in Hilmo	http://www.ebi.ac.uk/efo/EFO_0004265	peripheral arterial disease	OLS API EFO lookup	fuzzy	check if valid
+Phlebitis and thrombophlebitis (not including DVT)	http://www.ebi.ac.uk/efo/EFO_1001395	Phlebitis	OLS API EFO lookup	fuzzy	check if valid
+DVT of lower extremities	http://purl.obolibrary.org/obo/HP_0002166	Impaired vibration sensation in the lower limbs	OLS API EFO lookup	fuzzy	check if valid
+Status post-ami	http://www.ebi.ac.uk/efo/EFO_0008526	status epilepticus	OLS API EFO lookup	fuzzy	check if valid
+Pulmonary embolism	http://www.ebi.ac.uk/efo/EFO_0003827	pulmonary embolism	EFO OBO	match	
+Pulmonary heart disease, diseases of pulmonary circulation	http://www.ebi.ac.uk/efo/EFO_1001103	persistent fetal circulation syndrome	OLS API EFO lookup	fuzzy	check if valid
+Other pulmonary heart/vessel disease	http://purl.obolibrary.org/obo/MONDO_0001493	chronic pulmonary heart disease	OLS API EFO lookup	fuzzy	check if valid
+Right bundle-branch block	http://purl.obolibrary.org/obo/HP_0011712	Right bundle branch block	OLS API HP exact lookup	match	check if in OT
+Emergency coronary revascularization (for ACS)	http://www.ebi.ac.uk/efo/EFO_0004723	coronary artery calcification	OLS API EFO lookup	fuzzy	check if valid
+Coronary revascularization (ANGIO or CABG)					
+Rheumatic fever incl heart disease	http://www.ebi.ac.uk/efo/EFO_1001160	rheumatic fever	OLS API EFO lookup	fuzzy	check if valid
+Rheumatic valve diseases	http://www.ebi.ac.uk/efo/EFO_0005755	rheumatic disease	OLS API EFO lookup	fuzzy	check if valid
+Subarachnoid haemmorrhage	http://www.ebi.ac.uk/efo/EFO_0000713	subarachnoid hemorrhage	OLS API EFO lookup	fuzzy	check if valid
+Aneurysms, operations, SAH					
+Sequelae of cerebrovascular disease	http://www.ebi.ac.uk/efo/EFO_0003763	Sequelae of cerebrovascular disease	Zooma API lookup	match	
+Stroke, excluding SAH	http://purl.obolibrary.org/obo/MONDO_0019781	astrocytoma (excluding glioblastoma)	OLS API EFO lookup	fuzzy	check if valid
+Ischaemic Stroke, excluding all haemorrhages					
+Stroke, including SAH	http://www.ebi.ac.uk/efo/EFO_0000713	subarachnoid hemorrhage	OLS API EFO lookup	fuzzy	check if valid
+Other embolism and thrombosis	http://www.ebi.ac.uk/efo/EFO_1001150	renal artery obstruction	OLS API EFO lookup	fuzzy	check if valid
+Transient ischemic attack	http://www.ebi.ac.uk/efo/EFO_0003764	transient ischemic attack	EFO OBO	match	
+Unstable angina pectoris	http://www.ebi.ac.uk/efo/EFO_0003913	angina pectoris	OLS API EFO lookup	fuzzy	check if valid
+Valvular operations					
+Varicose veins	http://purl.obolibrary.org/obo/HP_0002619	Varicose veins	Zooma API lookup	match	
+Oesophageal varices	http://www.ebi.ac.uk/efo/EFO_0009545	Oesophageal varices	Zooma API lookup	match	
+Varicose veins of other sites	http://purl.obolibrary.org/obo/HP_0002619	Varicose veins of other sites	Zooma API lookup	match	
+Vascular dementia	http://www.ebi.ac.uk/efo/EFO_0004718	vascular dementia	EFO OBO	match	
+Vascular diseases of the intestine	http://www.ebi.ac.uk/efo/EFO_0004264	vascular disease	OLS API EFO lookup	fuzzy	check if valid
+Vascular syndromes of brain in cerebrovascular disorders	http://www.ebi.ac.uk/efo/EFO_0003763	cerebrovascular disorder	OLS API EFO lookup	fuzzy	check if valid
+Other disorders of veins	http://www.ebi.ac.uk/efo/EFO_0004264	Other disorders of veins	Zooma API lookup	match	
+Valvular heart disease including rheumatic fever	http://www.ebi.ac.uk/efo/EFO_1001161	rheumatic heart disease	OLS API EFO lookup	fuzzy	check if valid
+Venous thromboembolism	http://www.ebi.ac.uk/efo/EFO_0004286	venous thromboembolism	EFO OBO	match	
+Bacterial intestinal infections, IBD co-morbidities	http://purl.obolibrary.org/obo/MONDO_0021678	gram-negative bacterial infections	OLS API EFO lookup	fuzzy	check if valid
+IBD co-morbidities, not ICD-10 XI					
+Endometriosis, IBD co-morbidity					
+Infections, IBD-co-morbidities					
+IBD-related operations					
+Respiratory diseases principally affecting the interstitium, IBD co-morbidites	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	fuzzy	check if valid
+Tuberculosis, IBD comorbidity	http://www.ebi.ac.uk/efo/EFO_0003767	inflammatory bowel disease	OLS API EFO lookup	fuzzy	check if valid
+Viral hepatitis, IBD co-morbidity					
+Any ICDMAIN event in hilmo or causes of death	http://www.ebi.ac.uk/efo/EFO_0000480	event death	OLS API EFO lookup	fuzzy	check if valid
+Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism					
+Neoplasms	http://www.ebi.ac.uk/efo/EFO_0000616	neoplasm	OLS API EFO lookup	match	
+Interstitial lung disease	http://www.ebi.ac.uk/efo/EFO_0004244	interstitial lung disease	EFO OBO	match	
+ILD medications: azathioprine					
+ILD-related co-morbidities					
+ILD medications: prednisolone, methylprednisolone, prednisone					
+ILD Co-morbidites, CVD and metabolic diseases					
+ILD differential diagnosis					
+Interstitial lung disease endpoints	http://www.ebi.ac.uk/efo/EFO_0004244	interstitial lung disease	OLS API EFO lookup	fuzzy	check if valid
+Diagnoses used for exclusion with ILD					
+ILD, hospital admissions					
+ILD, hospital admissions 1					
+ILD, hospital admission 2					
+ILD, hospital admissions 3					
+ILD medications: immunosuppressive drugs	http://www.ebi.ac.uk/efo/EFO_0010051	response to immunosuppressant	OLS API EFO lookup	fuzzy	check if valid
+ILD-related respiratory insufficiency	http://purl.obolibrary.org/obo/HP_0002093	Respiratory insufficiency	OLS API EFO lookup	fuzzy	check if valid
+Autoimmune diseases related-to ILD	http://www.ebi.ac.uk/efo/EFO_1000870	CNS demyelinating autoimmune disease	OLS API EFO lookup	fuzzy	check if valid
+All influenza (not pneumonia)	http://www.ebi.ac.uk/efo/EFO_0007541	viral pneumonia	OLS API EFO lookup	fuzzy	check if valid
+Insulin medication					
+Insulin, fast-acting	http://www.ebi.ac.uk/efo/EFO_0002756	fasting	OLS API EFO lookup	fuzzy	check if valid
+Insulin, intermediate and long-acting	http://www.ebi.ac.uk/efo/EFO_0001070	folate deficiency	OLS API EFO lookup	fuzzy	check if valid
+Insulin, fast-acting or short human	http://www.ebi.ac.uk/efo/EFO_0004807	short sleep	OLS API EFO lookup	fuzzy	check if valid
+Insuling, fast-acting (human)	http://www.ebi.ac.uk/efo/EFO_0002756	fasting	OLS API EFO lookup	fuzzy	check if valid
+Invasive ventilation	http://www.ebi.ac.uk/efo/EFO_0008431	maximal voluntary ventilation	OLS API EFO lookup	fuzzy	check if valid
+Idiopathic pulmonary fibrosis (attempt to specificity)	http://www.ebi.ac.uk/efo/EFO_0009448	pulmonary fibrosis	OLS API EFO lookup	fuzzy	check if valid
+Endocrine, nutritional and metabolic diseases	http://www.ebi.ac.uk/efo/EFO_1001067	nutritional deficiency disease	OLS API EFO lookup	fuzzy	check if valid
+Diseases of the circulatory system	http://www.ebi.ac.uk/efo/EFO_0000319	cardiovascular disease	OLS API EFO lookup	match	
+Certain infectious and parasitic diseases	http://www.ebi.ac.uk/efo/EFO_0001067	parasitic infection	OLS API EFO lookup	fuzzy	check if valid
+Unspecified acute lower respiratory infection	http://www.ebi.ac.uk/efo/EFO_0009433	Unspecified acute lower respiratory infection	Zooma API lookup	match	
+Acute upper respiratory infections of multiple and unspecified sites	http://www.ebi.ac.uk/efo/EFO_0000684	Acute upper respiratory infections of multiple and unspecified sites	Zooma API lookup	match	
+Asthma	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	EFO OBO	match	
+Asthma/COPD (KELA buy)	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Asthma	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	EFO OBO	match	
+Asthma	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	EFO OBO	match	
+Asthma (more excluded)	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Bronchitis, not specified as acute or chronic	http://www.ebi.ac.uk/efo/EFO_1000178	Chronic Eosinophilic Leukemia, Not Otherwise Specified	OLS API EFO lookup	fuzzy	check if valid
+Bronchiectasis	http://purl.obolibrary.org/obo/HP_0002110	bronchiectasis	OT Zooma Mappings	match	
+Acute bronchiolitis	http://purl.obolibrary.org/obo/HP_0011950	Bronchiolitis	OLS API EFO lookup	fuzzy	check if valid
+Acute bronchitis	http://www.ebi.ac.uk/efo/EFO_0009661	bronchitis	OLS API EFO lookup	match	
+Unspecified chronic bronchitis	http://www.ebi.ac.uk/efo/EFO_0006505	chronic bronchitis	OLS API EFO lookup	fuzzy	check if valid
+Chronic laryngitis and laryngotracheitis	http://www.ebi.ac.uk/efo/EFO_0007227	croup	OLS API EFO lookup	fuzzy	check if valid
+Chronic rhinitsi, nasopharyngitis and pharyngitis	http://purl.obolibrary.org/obo/MONDO_0002258	pharyngitis	OLS API EFO lookup	fuzzy	check if valid
+Chronic sinusitis	http://www.ebi.ac.uk/efo/EFO_0007486	chronic sinusitis	Zooma API lookup	match	
+Chronic diseases of tonsils and adenoids	http://www.ebi.ac.uk/efo/EFO_0007352	Chronic diseases of tonsils and adenoids	Zooma API lookup	match	
+Acute nasopharyngitis(common cold)	http://www.ebi.ac.uk/efo/EFO_0007214	common cold	OLS API EFO lookup	fuzzy	check if valid
+COPD	http://www.ebi.ac.uk/efo/EFO_0000341	COPD	Zooma API lookup	match	
+Other chronic obstructive pulmonary disease	http://www.ebi.ac.uk/efo/EFO_0000341	Other chronic obstructive pulmonary disease	Zooma API lookup	match	
+Emphysema	http://www.ebi.ac.uk/efo/EFO_0000464	emphysema	EFO OBO	match	
+Lung diseases due to external agents	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	fuzzy	check if valid
+All influenza					
+Influenza and pneumonia	http://www.ebi.ac.uk/efo/EFO_0007541	viral pneumonia	OLS API EFO lookup	fuzzy	check if valid
+Other respiratory diseases principally affecting the interstitium	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	fuzzy	check if valid
+Acute laryngitis and tracheitis					
+Chronic lower respiratory diseases	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	fuzzy	check if valid
+Other acute lower respiratory infections	http://purl.obolibrary.org/obo/HP_0002788	Recurrent upper respiratory tract infections	OLS API EFO lookup	fuzzy	check if valid
+Nasal polyp	http://www.ebi.ac.uk/efo/EFO_1000391	Nasal polyp	Zooma API lookup	match	
+Suppurative and necrotic conditions of lower respiratory tract					
+Other insterstitial pulmonary diseases	http://www.ebi.ac.uk/efo/EFO_0001361	pulmonary arterial hypertension	OLS API EFO lookup	fuzzy	check if valid
+Peritonsillar abscess	http://www.ebi.ac.uk/efo/EFO_0007429	peritonsillar abscess	EFO OBO	match	
+Acute pharyngitis	http://www.ebi.ac.uk/efo/EFO_0009657	Acute pharyngitis	Zooma API lookup	match	
+Other diseases of pleura					
+Pleural effusion	http://www.ebi.ac.uk/efo/EFO_0009637	pleural effusion	OLS API EFO lookup	match	
+Other pleural conditions	http://www.ebi.ac.uk/efo/EFO_0009637	pleural effusion	OLS API EFO lookup	fuzzy	check if valid
+Pleural plaque	http://www.ebi.ac.uk/efo/EFO_0007646	amyloid plaque accumulation rate	OLS API EFO lookup	fuzzy	check if valid
+Bacterial pneumoniae	http://www.ebi.ac.uk/efo/EFO_1001272	bacterial pneumonia	OLS API EFO lookup	fuzzy	check if valid
+Bacterial pneumonia, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	fuzzy	check if valid
+Pneumonia, organism unsepcified					
+All pneumoniae					
+Pneumonitis due to solids and liquids	http://www.ebi.ac.uk/efo/EFO_1001871	acquired cold urticaria	OLS API EFO lookup	fuzzy	check if valid
+Pneumonia due to Streptococcus pneumoniae	http://www.ebi.ac.uk/efo/EFO_0000772	Pneumonia due to Streptococcus pneumoniae	Zooma API lookup	match	
+Pneumonia (excl. viral and due to other infectious organisms not elsewhere classified)	http://www.ebi.ac.uk/efo/EFO_0003106	pneumonia	OLS API EFO lookup	fuzzy	check if valid
+Pneumothorax	http://purl.obolibrary.org/obo/HP_0002107	pneumothorax	Zooma API lookup	match	
+Pyothorax	http://www.ebi.ac.uk/efo/EFO_0009680	Pyothorax	Zooma API lookup	match	
+Other respiratory disorders and diseases	http://www.ebi.ac.uk/efo/EFO_1001840	respiratory paralysis	OLS API EFO lookup	fuzzy	check if valid
+Diseases of the respiratory system	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	match	
+Other diseases of the respiratory system	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	fuzzy	check if valid
+Deviated nasal septum	http://purl.obolibrary.org/obo/HP_0004411	Deviated nasal septum	OLS API HP exact lookup	match	check if in OT
+Simple and mucoplurulent chronic bronchitis					
+Acute sinusitis	http://www.ebi.ac.uk/efo/EFO_0007486	Acute sinusitis	Zooma API lookup	match	
+Other and unspecified tonssillitis	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Other diseases of upper respiratory tract	http://www.ebi.ac.uk/efo/EFO_0000684	Other diseases of upper respiratory tract	Zooma API lookup	match	
+Acute upper respiratory infections	http://purl.obolibrary.org/obo/HP_0002788	Recurrent upper respiratory tract infections	OLS API EFO lookup	fuzzy	check if valid
+Vasomotor and allergic rhinitis					
+Viral pneumonia	http://www.ebi.ac.uk/efo/EFO_0007541	viral pneumonia	EFO OBO	match	
+Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified					
+Juvenile arthritis (FINNGEN)	http://www.ebi.ac.uk/efo/EFO_1001999	systemic juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Juvenile arthritis related co-morbidities	http://www.ebi.ac.uk/efo/EFO_0009732	enthesitis-related juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Abscess of anal and rectal regions	http://purl.obolibrary.org/obo/HP_0005224	Abscess of anal and rectal regions	Zooma API lookup	match	
+Acute gastritis	http://www.ebi.ac.uk/efo/EFO_0000217	gastritis	EFO OBO	match	
+Acute pancreatitis	http://www.ebi.ac.uk/efo/EFO_1000652	acute pancreatitis	EFO OBO	match	
+Intestinal adhesions without obstruction	http://purl.obolibrary.org/obo/MONDO_0004565	intestinal obstruction	OLS API EFO lookup	fuzzy	check if valid
+Alcoholic liver disease	http://www.ebi.ac.uk/efo/EFO_0008573	Alcoholic liver disease	Zooma API lookup	match	
+Acute appendicitis	http://www.ebi.ac.uk/efo/EFO_0007149	appendicitis	EFO OBO	match	
+Diseases of appendix	http://www.ebi.ac.uk/efo/EFO_1000088	Appendix Adenocarcinoma	OLS API EFO lookup	fuzzy	check if valid
+Other appendicitis	http://www.ebi.ac.uk/efo/EFO_0007149	appendicitis	OLS API EFO lookup	fuzzy	check if valid
+Barret oesophagus					
+Other diseases of biliary tract	http://www.ebi.ac.uk/efo/EFO_0009534	Other diseases of biliary tract	Zooma API lookup	match	
+Cholangitis (sclerosing)	http://www.ebi.ac.uk/efo/EFO_0004268	sclerosing cholangitis	OLS API EFO lookup	fuzzy	check if valid
+Chlocystitis					
+Cholelithiasis	http://www.ebi.ac.uk/efo/EFO_0004799	cholelithiasis	EFO OBO	match	
+Chronic gastritis	http://www.ebi.ac.uk/efo/EFO_0000337	chronic gastritis	EFO OBO	match	
+Chronic hepatitis, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	fuzzy	check if valid
+Chronic pancreatitis	http://www.ebi.ac.uk/efo/EFO_0000342	chronic pancreatitis	EFO OBO	match	
+Coeliac disease	http://www.ebi.ac.uk/efo/EFO_0001060	celiac disease	OLS API EFO lookup	match	
+Crohn disease	http://www.ebi.ac.uk/efo/EFO_0000384	Crohn disease	Zooma API lookup	match	
+Diaphragmatic hernia	http://www.ebi.ac.uk/efo/EFO_0008561	Diaphragmatic hernia	Zooma API lookup	match	
+Other diseases of liver	http://www.ebi.ac.uk/efo/EFO_0001421	Other diseases of liver	Zooma API lookup	match	
+Diverticular disease of intestine	http://www.ebi.ac.uk/efo/EFO_1001460	Diverticular disease of intestine	Zooma API lookup	match	
+Duodenal ulcer	http://www.ebi.ac.uk/efo/EFO_0004607	duodenal ulcer	EFO OBO	match	
+Noninfective enteritis and colitis	http://www.ebi.ac.uk/efo/EFO_0000384	Crohn's disease	OLS API EFO lookup	fuzzy	check if valid
+Femoral hernia	http://www.ebi.ac.uk/efo/EFO_1001791	femoral hernia	EFO OBO	match	
+Fibrosis and chirrhosis of liver					
+Fissure and fistula of anal and rectal regions	http://purl.obolibrary.org/obo/HP_0012390	Fissure and fistula of anal and rectal regions	Zooma API lookup	match	
+Functional dyspepsia	http://www.ebi.ac.uk/efo/EFO_0008533	dyspepsia	OLS API EFO lookup	fuzzy	check if valid
+Disorders of gallbladder, biliary tract and pancreas	http://www.orpha.net/ORDO/Orphanet_183548	Genetic visceral malformation of the liver, biliary tract, pancreas or spleen	OLS API EFO lookup	fuzzy	check if valid
+Other diseases of gallbladder	http://www.ebi.ac.uk/efo/EFO_0003832	Other diseases of gallbladder	Zooma API lookup	match	
+Gastroduodenal ulcer					
+GI-bleeding	http://purl.obolibrary.org/obo/HP_0002239	Gastrointestinal hemorrhage	OLS API EFO lookup	fuzzy	check if valid
+Gastrointestinal diseases	http://www.ebi.ac.uk/efo/EFO_0000405	digestive system disease	OLS API EFO lookup	match	
+Gastric ulcer	http://www.ebi.ac.uk/efo/EFO_0009454	Gastric ulcer	Zooma API lookup	match	
+Haemmorrhoids and perianal venous thrombosis					
+Hepatic failure, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	fuzzy	check if valid
+Inguinal hernia	http://purl.obolibrary.org/obo/HP_0000023	inguinal hernia	Zooma API lookup	match	
+Hernia	http://purl.obolibrary.org/obo/HP_0100790	Hernia	OLS API EFO lookup	match	
+Inflammatory bowel disease	http://www.ebi.ac.uk/efo/EFO_0003767	inflammatory bowel disease	EFO OBO	match	
+Irritable bowel syndrome	http://www.ebi.ac.uk/efo/EFO_0000555	irritable bowel syndrome	EFO OBO	match	
+Paralytic ileus and intestinal obstruction	http://purl.obolibrary.org/obo/HP_0004401	Meconium ileus	OLS API EFO lookup	fuzzy	check if valid
+Other diseases of intestines	http://www.ebi.ac.uk/efo/EFO_0009431	Other diseases of intestine	Zooma API lookup	match	
+IBD patients in KELA-register	http://www.ebi.ac.uk/efo/EFO_1001994	Scleroderma Polymyositis Overlap Syndrome	OLS API EFO lookup	fuzzy	check if valid
+Diseases of liver	http://www.ebi.ac.uk/efo/EFO_0001421	liver disease	OLS API EFO lookup	fuzzy	check if valid
+Intestinal malabsorbtion	http://www.ebi.ac.uk/efo/EFO_0005632	intestinal necrosis	OLS API EFO lookup	fuzzy	check if valid
+Oesophagitis	http://purl.obolibrary.org/obo/HP_0100633	Oesophagitis	Zooma API lookup	match	
+Oesophageal obstruction	http://www.ebi.ac.uk/efo/EFO_1000908	duodenal obstruction	OLS API EFO lookup	fuzzy	check if valid
+Diseases of oesophagus, stomach and duodenum	http://www.ebi.ac.uk/efo/EFO_1001451	X-Linked Combined Immunodeficiency Diseases	OLS API EFO lookup	fuzzy	check if valid
+Ulcer of oesophagus					
+Other diseases of anus and rectum	http://www.ebi.ac.uk/efo/EFO_0009685	Other diseases of anus and rectum	Zooma API lookup	match	
+Other diseases of the digestive system	http://www.ebi.ac.uk/efo/EFO_0000405	digestive system disease	OLS API EFO lookup	fuzzy	check if valid
+Other diseases of the digestive system	http://www.ebi.ac.uk/efo/EFO_0000405	digestive system disease	OLS API EFO lookup	fuzzy	check if valid
+Other diseases of oesophagus	http://www.ebi.ac.uk/efo/EFO_0009544	Other diseases of oesophagus	Zooma API lookup	match	
+Other diseases of stomach and duodenum	http://www.ebi.ac.uk/efo/EFO_0000405	Other diseases of stomach and duodenum	Zooma API lookup	match	
+Other noninfective gastroenteritis and colitis	http://www.ebi.ac.uk/efo/EFO_1001463	gastroenteritis	OLS API EFO lookup	fuzzy	check if valid
+Other functional intestinal disroders	http://www.ebi.ac.uk/efo/EFO_0000405	digestive system disease	OLS API EFO lookup	fuzzy	check if valid
+Other gastritis (incl. Duodenitis)	http://www.ebi.ac.uk/efo/EFO_0000217	gastritis	OLS API EFO lookup	fuzzy	check if valid
+Other or unspecified ileus, impaction or obstruction	http://purl.obolibrary.org/obo/MONDO_0004567	ileus	OLS API EFO lookup	fuzzy	check if valid
+Other inflammatory liver diseases	http://www.ebi.ac.uk/efo/EFO_0001421	Other inflammatory liver diseases	Zooma API lookup	match	
+Other diseases of intestine	http://www.ebi.ac.uk/efo/EFO_0009431	Other diseases of intestine	Zooma API lookup	match	
+Other diseases of peritoneum					
+Other diseases of pancreas	http://www.ebi.ac.uk/efo/EFO_0009605	Other diseases of pancreas	Zooma API lookup	match	
+Paralytic ileus	http://purl.obolibrary.org/obo/HP_0002590	Paralytic ileus	OLS API HP exact lookup	match	check if in OT
+Diseases of peritoneum					
+Acute peritonitis	http://www.ebi.ac.uk/efo/EFO_0008588	peritonitis	OLS API EFO lookup	fuzzy	check if valid
+Gastro-oesophageal reflux disease	http://www.ebi.ac.uk/efo/EFO_0003948	Gastro oesophageal reflux disease	Zooma API lookup	match	
+Ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729	ulcerative colitis	EFO OBO	match	
+Umbilical hernia	http://purl.obolibrary.org/obo/HP_0001537	umbilical hernia	Zooma API lookup	match	
+Vascular disorders of the intestines	http://purl.obolibrary.org/obo/MONDO_0003159	vascular hemostatic disease	OLS API EFO lookup	fuzzy	check if valid
+Ventral hernia	http://www.ebi.ac.uk/efo/EFO_1001866	ventral hernia	EFO OBO	match	
+Diabetes, insuline treatment (Kela reimbursement)					
+Kidney transplant status					
+Kidney transplantation	http://www.ebi.ac.uk/efo/EFO_0003884	chronic kidney disease	OLS API EFO lookup	fuzzy	check if valid
+Gonarthrosis [arthrosis of knee](FG)					
+Alcohol abuse, main dg	http://www.ebi.ac.uk/efo/EFO_0003829	alcohol abuse	Zooma API lookup	match	
+Anxiety disorders	http://www.ebi.ac.uk/efo/EFO_0006788	anxiety disorder	EFO OBO	match	
+Any mental disorder	http://www.ebi.ac.uk/efo/EFO_0000677	mental or behavioural disorder	OLS API EFO lookup	fuzzy	check if valid
+Any mental disorder, or suicide (or attempt)	http://www.ebi.ac.uk/efo/EFO_0006882	suicide behaviour measurement	OLS API EFO lookup	fuzzy	check if valid
+Any mental disorder, or suicide (or attempt), or psychic disorders complicating pregnancy, partum or puerperum or nerve system disorders	http://www.ebi.ac.uk/efo/EFO_0009387	peripheral nervous system disease	OLS API EFO lookup	fuzzy	check if valid
+Behavioural disorders	http://www.ebi.ac.uk/efo/EFO_0000677	mental or behavioural disorder	OLS API EFO lookup	fuzzy	check if valid
+Emotional disorders starting during childhood or adolecense	http://www.ebi.ac.uk/efo/EFO_0007663	childhood aggressive behaviour measurement	OLS API EFO lookup	fuzzy	check if valid
+Other disorders starting during childhood or adolecense	http://www.ebi.ac.uk/efo/EFO_0007663	childhood aggressive behaviour measurement	OLS API EFO lookup	fuzzy	check if valid
+Mixed disorders of conduct and emotions					
+Any dementia	http://purl.obolibrary.org/obo/HP_0000726	Dementia	OLS API EFO lookup	fuzzy	check if valid
+Eating disorders	http://www.ebi.ac.uk/efo/EFO_0005203	eating disorder	OLS API EFO lookup	fuzzy	check if valid
+Hyperkinetic disorders	http://www.ebi.ac.uk/efo/EFO_0003888	attention deficit hyperactivity disorder	OLS API EFO lookup	fuzzy	check if valid
+Mental retardation	http://www.ebi.ac.uk/efo/EFO_0003847	mental retardation	EFO OBO	match	
+Mood disorders	http://www.ebi.ac.uk/efo/EFO_0004247	mood disorder	EFO OBO	match	
+Personality disorders					
+Schizophrenia or delusion	http://www.ebi.ac.uk/efo/EFO_0000692	schizophrenia	OLS API EFO lookup	fuzzy	check if valid
+Nonorganic sleeping disorders	http://www.ebi.ac.uk/efo/EFO_0009692	voice disorders	OLS API EFO lookup	fuzzy	check if valid
+Speech and linguistic disorders	http://www.ebi.ac.uk/efo/EFO_0004336	speech perception	OLS API EFO lookup	fuzzy	check if valid
+Substance abuse	http://purl.obolibrary.org/obo/MONDO_0002491	substance abuse	OLS API EFO lookup	match	
+Cutaneous abscess, furuncle and carbuncle	http://www.ebi.ac.uk/efo/EFO_1001489	skin and soft tissue Staphylococcus aureus infection	OLS API EFO lookup	fuzzy	check if valid
+Acne	http://www.ebi.ac.uk/efo/EFO_0003894	acne	EFO OBO	match	
+Acne vulgaris	http://www.ebi.ac.uk/efo/EFO_0003894	acne	OLS API EFO lookup	match	
+Actinic keratosis	http://www.ebi.ac.uk/efo/EFO_0002496	actinic keratosis	EFO OBO	match	
+Alergic contact dermatitis	http://www.ebi.ac.uk/efo/EFO_0005319	contact dermatitis	OLS API EFO lookup	fuzzy	check if valid
+Atopic dermatitis	http://www.ebi.ac.uk/efo/EFO_0000274	atopic dermatitis	Zooma API lookup	match	
+Atrophic disorders of skin	http://www.ebi.ac.uk/efo/EFO_1000766	Atrophic disorders of skin	Zooma API lookup	match	
+Other bullous disorders	http://www.orpha.net/ORDO/Orphanet_1867	Bullous dystrophy, macular type	OLS API EFO lookup	fuzzy	check if valid
+Bullous disorders	http://www.ebi.ac.uk/efo/EFO_0007187	bullous pemphigoid	OLS API EFO lookup	fuzzy	check if valid
+Cellulitis	http://www.ebi.ac.uk/efo/EFO_0003035	cellulitis	EFO OBO	match	
+Chronic ulcer of skin, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	fuzzy	check if valid
+Corns and callosities	http://www.orpha.net/ORDO/Orphanet_79141	Corns and callosities	Zooma API lookup	match	
+Decubitus ulcer and pressure area	http://www.ebi.ac.uk/efo/EFO_0007067	decubitus ulcer	OLS API EFO lookup	fuzzy	check if valid
+Dermatitis and eczema	http://purl.obolibrary.org/obo/HP_0000964	Eczema	OLS API EFO lookup	fuzzy	check if valid
+Other and unspecified dermatitis	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Other and unspecified dermatitis	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Nummular dermatitis	http://purl.obolibrary.org/obo/MONDO_0002406	dermatitis	OLS API EFO lookup	fuzzy	check if valid
+Disorders of skin appendages	http://www.ebi.ac.uk/efo/EFO_0000701	skin disease	OLS API EFO lookup	fuzzy	check if valid
+Other epidermal thickening	http://purl.obolibrary.org/obo/HP_0011368	Other epidermal thickening	Zooma API lookup	match	
+Other and unspecified epidermal thickening	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Erythema nodosum	http://purl.obolibrary.org/obo/HP_0012219	erythema nodosum	EFO OBO	match	
+Other erythematous conditions	http://www.ebi.ac.uk/efo/EFO_0000701	Other erythematous conditions	Zooma API lookup	match	
+Other and unspecified erythematous conditions	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Other follicular disorders	http://www.ebi.ac.uk/efo/EFO_1000702	Other follicular disorders	Zooma API lookup	match	
+Follicular cysts of skin and subcutaneous tissue	http://www.ebi.ac.uk/efo/EFO_1001329	Follicular cysts of skin and subcutaneous tissue	Zooma API lookup	match	
+Other and unspecified follicular disorders	http://www.ebi.ac.uk/efo/EFO_0000211	unspecified peripheral T-cell lymphoma	OLS API EFO lookup	fuzzy	check if valid
+Granulomatous disorders of skin and subcutaneous tissue	http://www.ebi.ac.uk/efo/EFO_1000705	Granulomatous disorders of skin and subcutaneous tissue	Zooma API lookup	match	
+Hypertrophic disorders of skin	http://www.ebi.ac.uk/efo/EFO_0000701	Hypertrophic disorders of skin	Zooma API lookup	match	
+Hypertrophic scar	http://www.ebi.ac.uk/efo/EFO_0007747	postburn hypertrophic scarring severity measurement	OLS API EFO lookup	fuzzy	check if valid
+Impetigo	http://www.ebi.ac.uk/efo/EFO_1000714	impetigo	EFO OBO	match	
+Infective dermatitis	http://purl.obolibrary.org/obo/MONDO_0002406	dermatitis	OLS API EFO lookup	fuzzy	check if valid
+Infections of the skin and subcutaneous tissue	http://purl.obolibrary.org/obo/HP_0001482	Subcutaneous nodule	OLS API EFO lookup	fuzzy	check if valid
+Other and unspecified local infections of skin and subcutaneous tissue	http://www.ebi.ac.uk/efo/EFO_0000759	lipoma	OLS API EFO lookup	fuzzy	check if valid
+Other local infections of skin and subcutaneous tissue	http://www.ebi.ac.uk/efo/EFO_0000701	Other local infections of skin and subcutaneous tissue	Zooma API lookup	match	
+Dermatitis due to substances taken internally	http://purl.obolibrary.org/obo/HP_0000964	Dermatitis due to substances taken internally	Zooma API lookup	match	
+Lichen planus	http://www.ebi.ac.uk/efo/EFO_1000726	lichen planus	EFO OBO	match	
+Lichen sclerosus et atrophicus	http://purl.obolibrary.org/obo/MONDO_0007899	lichen sclerosus et atrophicus	OLS API EFO lookup	match	
+Lichen simplex chronicus	http://www.ebi.ac.uk/efo/EFO_1000740	neurodermatitis	EFO OBO	match	
+Lichen simplex chronicus and prurigo	http://www.ebi.ac.uk/efo/EFO_1000724	Lichen simplex chronicus and prurigo	Zooma API lookup	match	
+Acute lymphadenitis	http://purl.obolibrary.org/obo/HP_0002840	Acute lymphadenitis	Zooma API lookup	match	
+Nail disorders	http://www.orpha.net/ORDO/Orphanet_183454	Nail disorders	Zooma API lookup	match	
+Ingrowing nail					
+Skin changes due to chronic exposure to nonionizing radiation	http://www.ebi.ac.uk/efo/EFO_0009565	Skin changes due to chronic exposure to nonionizing radiation	Zooma API lookup	match	
+Other acute skin changes due to ultraviolet radiation	http://www.ebi.ac.uk/efo/EFO_0003106	pneumonia	OLS API EFO lookup	fuzzy	check if valid
+Other and unspecified acute skin changes due to ultraviolet radiation	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Other contact dermatitis	http://purl.obolibrary.org/obo/MONDO_0006596	photoallergic dermatitis	OLS API EFO lookup	fuzzy	check if valid
+Other disorders of skin and subcutaneous tissue, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_1000707	hemangioma of subcutaneous tissue	OLS API EFO lookup	fuzzy	check if valid
+Other disorders of skin and subcutaneous tissue	http://www.ebi.ac.uk/efo/EFO_1000707	hemangioma of subcutaneous tissue	OLS API EFO lookup	fuzzy	check if valid
+Other disorders of pigmentation	http://www.ebi.ac.uk/efo/EFO_1000755	Other disorders of pigmentation	Zooma API lookup	match	
+Papulosquamous disorders	http://www.ebi.ac.uk/efo/EFO_0009692	voice disorders	OLS API EFO lookup	fuzzy	check if valid
+Pilonidal cyst	http://purl.obolibrary.org/obo/HP_0010771	Pilonidal cyst	Zooma API lookup	match	
+Pruritus	http://purl.obolibrary.org/obo/HP_0000989	pruritus	OT Zooma Mappings	match	
+Psoriasis	http://www.ebi.ac.uk/efo/EFO_0000676	psoriasis	EFO OBO	match	
+Arthropathic psoriasis	http://www.ebi.ac.uk/efo/EFO_0003778	psoriatic arthritis	OLS API EFO lookup	match	
+Other and unspecified psoriasis	http://www.ebi.ac.uk/efo/EFO_0000676	psoriasis	OLS API EFO lookup	fuzzy	check if valid
+Pustulosis palmaris et plantaris	http://www.ebi.ac.uk/efo/EFO_0000676	psoriasis	OLS API EFO lookup	match	
+Psoriasis vulgaris	http://www.ebi.ac.uk/efo/EFO_1001494	psoriasis vulgaris	EFO OBO	match	
+Radiation-related disorders of the skin and subcutaneous tissue	http://www.ebi.ac.uk/efo/EFO_1000707	hemangioma of subcutaneous tissue	OLS API EFO lookup	fuzzy	check if valid
+Rosacea	http://www.ebi.ac.uk/efo/EFO_1000760	rosacea	EFO OBO	match	
+Other and unspcified rosacea					
+Scar conditions and fibrosis of skin	http://www.ebi.ac.uk/efo/EFO_0007183	bronchiolitis obliterans	OLS API EFO lookup	fuzzy	check if valid
+Seborrhoeic dermatitis	http://www.ebi.ac.uk/efo/EFO_1000764	Seborrhoeic dermatitis	Zooma API lookup	match	
+Seborrhoeic keratosis	http://www.ebi.ac.uk/efo/EFO_0005584	Seborrhoeic keratosis	Zooma API lookup	match	
+Diseases of the skin and subcutaneous tissue	http://purl.obolibrary.org/obo/HP_0001482	Subcutaneous nodule	OLS API EFO lookup	fuzzy	check if valid
+Other and unspecified disorders of skin and subcutaneous tissue	http://www.ebi.ac.uk/efo/EFO_0000759	lipoma	OLS API EFO lookup	fuzzy	check if valid
+Ulcer of lower limb, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	fuzzy	check if valid
+Urticaria	http://www.ebi.ac.uk/efo/EFO_0005531	urticaria	EFO OBO	match	
+Urticaria and erythema	http://www.ebi.ac.uk/efo/EFO_0005531	urticaria	OLS API EFO lookup	fuzzy	check if valid
+Allergic urticaria	http://www.ebi.ac.uk/efo/EFO_1000669	allergic urticaria	EFO OBO	match	
+Dermatographic urticaria	http://www.ebi.ac.uk/efo/EFO_1000685	dermatographia	EFO OBO	match	
+Other and unspecified urticaria	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Lung cancer and mesothelioma	http://www.ebi.ac.uk/efo/EFO_1000362	Malignant Pleural Neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Lung cancer and mesothelioma	http://www.ebi.ac.uk/efo/EFO_1000362	Malignant Pleural Neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Lung transplantation					
+Achilles tendinitis	http://purl.obolibrary.org/obo/MONDO_0004857	tendinitis	OLS API EFO lookup	fuzzy	check if valid
+Adhesive capsulitis of shoulder	http://www.ebi.ac.uk/efo/EFO_1000941	frozen shoulder	OLS API EFO lookup	match	
+Alogoneurodystrophy					
+Ankylosing spondylitis	http://www.ebi.ac.uk/efo/EFO_0003898	ankylosing spondylitis	EFO OBO	match	
+Arthropathies in other diseases classified elsewhere	http://www.ebi.ac.uk/efo/EFO_0000318	cardiomyopathy	OLS API EFO lookup	fuzzy	check if valid
+Ohter specific/unspecified arthritis	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Arthropathies					
+Arthrosis	http://www.ebi.ac.uk/efo/EFO_0002506	osteoarthritis	OLS API EFO lookup	match	
+Gonarthrosis	http://www.ebi.ac.uk/efo/EFO_0004616	Gonarthrosis	Zooma API lookup	match	
+Other arthrosis	http://www.ebi.ac.uk/efo/EFO_0002506	Other arthrosis	Zooma API lookup	match	
+Polyarhtrosis					
+Coxarthrosis	http://www.ebi.ac.uk/efo/EFO_1000786	Coxarthrosis	Zooma API lookup	match	
+Synovial cyst of popliteal space [Baker]	http://www.ebi.ac.uk/efo/EFO_1000848	breast cyst	OLS API EFO lookup	fuzzy	check if valid
+Bicipital tendinitis	http://purl.obolibrary.org/obo/MONDO_0004857	tendinitis	OLS API EFO lookup	fuzzy	check if valid
+Biomechanical lesions, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	fuzzy	check if valid
+Disorders of continuity of bone	http://www.ebi.ac.uk/efo/EFO_0004260	Disorders of continuity of bone	Zooma API lookup	match	
+Other disorders of bone density and structure	http://www.ebi.ac.uk/efo/EFO_0003923	Other disorders of bone density and structure	Zooma API lookup	match	
+Other specified/unspecified disorders of  bone/cartilage	http://www.ebi.ac.uk/efo/EFO_0000516	glaucoma	OLS API EFO lookup	fuzzy	check if valid
+Other bursopathies	http://www.ebi.ac.uk/efo/EFO_1000999	Other bursopathies	Zooma API lookup	match	
+Calcific tendinitis of shoulder	http://purl.obolibrary.org/obo/MONDO_0004857	tendinitis	OLS API EFO lookup	fuzzy	check if valid
+Other articular cartilage disorders					
+Cervicalgia					
+Cervical disc disorders	http://www.ebi.ac.uk/efo/EFO_0009537	Cervical disc disorders	Zooma API lookup	match	
+Cervicobrachial syndrome	http://www.ebi.ac.uk/efo/EFO_1001842	Serotonin Syndrome	OLS API EFO lookup	fuzzy	check if valid
+Cervicocranial syndrome	http://www.ebi.ac.uk/efo/EFO_0007165	Barre-Lieou syndrome	OLS API EFO lookup	match	
+Chondromalacia	http://purl.obolibrary.org/obo/MONDO_0002342	chondromalacia	OLS API EFO lookup	match	
+Chrondropathies					
+Other specified/unspecified systemic involvement of connective tissue					
+Other acquired deformities of musculoskeletal system and connective tissue	http://www.ebi.ac.uk/efo/EFO_0009676	Other acquired deformities of musculoskeletal system and connective tissue	Zooma API lookup	match	
+Deforming dorsopathies	http://www.orpha.net/ORDO/Orphanet_216812	Osteogenesis imperfecta type 3	OLS API EFO lookup	fuzzy	check if valid
+Other specified/unsepecified deforming dorsopathies	http://www.ebi.ac.uk/efo/EFO_0000516	glaucoma	OLS API EFO lookup	fuzzy	check if valid
+Radial styloid tenosynovitis [de Quervain]	http://www.ebi.ac.uk/efo/EFO_1000891	De Quervain disease	OLS API EFO lookup	fuzzy	check if valid
+Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies					
+Dorsalgia	http://www.ebi.ac.uk/efo/EFO_0003843	Dorsalgia	Zooma API lookup	match	
+Other/unspecified dorsalgia	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Dorsopathies					
+Other specified/unspecified dorsopathies	http://www.ebi.ac.uk/efo/EFO_0000778	anthrax infection	OLS API EFO lookup	fuzzy	check if valid
+Other dorsopathies, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	fuzzy	check if valid
+Palmar fascial fibromatosis [Dupuytren]	http://www.ebi.ac.uk/efo/EFO_1000438	Palmar Fibromatosis	OLS API EFO lookup	fuzzy	check if valid
+Oher enthesopathy of foot (+metatarsalgia)	http://www.ebi.ac.uk/efo/EFO_1001370	Metatarsalgia	OLS API EFO lookup	fuzzy	check if valid
+Enthesopathies of lower limb, excluding foot	http://www.ebi.ac.uk/efo/EFO_0007068	ulcer of lower limb	OLS API EFO lookup	fuzzy	check if valid
+Other/unspecified enthesopathies of lower limb, excluding foot	http://www.ebi.ac.uk/efo/EFO_0007068	ulcer of lower limb	OLS API EFO lookup	fuzzy	check if valid
+Other/unspecified enthesopathies, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Other enthesopathies	http://www.ebi.ac.uk/efo/EFO_0009666	Other enthesopathies	Zooma API lookup	match	
+Fibroblastic disorders	http://www.ebi.ac.uk/efo/EFO_0009432	Fibroblastic disorders	Zooma API lookup	match	
+Fibromyalgia	http://www.ebi.ac.uk/efo/EFO_0005687	fibromyalgia	EFO OBO	match	
+Flat foot [pes planus] (acquired)	http://www.ebi.ac.uk/efo/EFO_0003874	flatfoot	OLS API EFO lookup	fuzzy	check if valid
+Residual foreign body in soft tissue					
+Ganglion					
+Giant cell arteritis	http://www.ebi.ac.uk/efo/EFO_1001209	temporal arteritis	EFO OBO	match	
+Gout	http://www.ebi.ac.uk/efo/EFO_0004274	gout	EFO OBO	match	
+Hallux rigidus	http://purl.obolibrary.org/obo/HP_0025004	Hallux rigidus	OLS API HP exact lookup	match	check if in OT
+Hallux valgus (acquired)	http://purl.obolibrary.org/obo/HP_0001822	Hallux valgus	OLS API EFO lookup	fuzzy	check if valid
+Other hammer toe(s) (acquired)	http://www.ebi.ac.uk/efo/EFO_1001336	Hammer Toe Syndrome	OLS API EFO lookup	fuzzy	check if valid
+Hypermobility syndrome	http://www.orpha.net/ORDO/Orphanet_285	Ehlers-Danlos syndrome, hypermobility type	OLS API EFO lookup	fuzzy	check if valid
+Impingement syndrome of shoulder	http://www.ebi.ac.uk/efo/EFO_1001178	shoulder impingement syndrome	OLS API EFO lookup	fuzzy	check if valid
+Infective bursitis	http://purl.obolibrary.org/obo/MONDO_0002471	bursitis	OLS API EFO lookup	fuzzy	check if valid
+Other intervertebral disc disorders	http://www.ebi.ac.uk/efo/EFO_1001800	Intervertebral Disc Displacement	OLS API EFO lookup	fuzzy	check if valid
+Other specific joint derangements/joint disorders	http://www.ebi.ac.uk/efo/EFO_0005279	temporomandibular joint disorder	OLS API EFO lookup	fuzzy	check if valid
+Other juvenile arthritis	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Juvenile osteochondrosis	http://www.ebi.ac.uk/efo/EFO_0008577	Juvenile Osteochondrosis	OLS API EFO lookup	match	
+Internar derangement of knee					
+Lateral epicondylitis	http://www.ebi.ac.uk/efo/EFO_1001896	lateral epicondylitis	EFO OBO	match	
+Pain in limb	http://purl.obolibrary.org/obo/HP_0009763	Limb pain	OLS API EFO lookup	fuzzy	check if valid
+Loose body in joint	http://www.orpha.net/ORDO/Orphanet_79091	Hereditary inclusion body myopathy - joint contractures - ophthalmoplegia	OLS API EFO lookup	fuzzy	check if valid
+Low back pain	http://purl.obolibrary.org/obo/HP_0003419	Low back pain	OLS API HP exact lookup	match	check if in OT
+Medial epicondylitis	http://www.ebi.ac.uk/efo/EFO_1001887	epicondylitis	OLS API EFO lookup	match	
+Meniscus derangement					
+Metatarsalgia	http://www.ebi.ac.uk/efo/EFO_1001370	Metatarsalgia	OLS API EFO lookup	match	
+Monoarthritis, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	fuzzy	check if valid
+Disorders of muscles	http://www.ebi.ac.uk/efo/EFO_0009692	voice disorders	OLS API EFO lookup	fuzzy	check if valid
+Other specified disorders of muscle	http://www.ebi.ac.uk/efo/EFO_0000516	glaucoma	OLS API EFO lookup	fuzzy	check if valid
+Other disorders of the musculoskeletal system and connective tissue					
+Diseases of the musculoskeletal system and connective tissue					
+Myalgia	http://purl.obolibrary.org/obo/HP_0003326	myalgia	Zooma API lookup	match	
+#Other necrotizing vasculopathies	http://www.ebi.ac.uk/efo/EFO_0003928	necrotizing enterocolitis	OLS API EFO lookup	fuzzy	check if valid
+Neuralgia and neuritis, unspecified	http://www.ebi.ac.uk/efo/EFO_1000843	brachial plexus neuritis	OLS API EFO lookup	fuzzy	check if valid
+Olecranon bursitis	http://purl.obolibrary.org/obo/MONDO_0002471	bursitis	OLS API EFO lookup	fuzzy	check if valid
+Osteopathies and chondropathies					
+Other osteochondropathies	http://purl.obolibrary.org/obo/MONDO_0019546	other acquired skin disease	OLS API EFO lookup	fuzzy	check if valid
+Osteomyelitis	http://www.ebi.ac.uk/efo/EFO_0003102	osteomyelitis	EFO OBO	match	
+Osteonecrosis	http://www.ebi.ac.uk/efo/EFO_0004259	osteonecrosis	EFO OBO	match	
+Osteoporosis	http://www.ebi.ac.uk/efo/EFO_0003882	osteoporosis	EFO OBO	match	
+#Other systemic involvement of connective tissue	http://www.ebi.ac.uk/efo/EFO_1001986	Other systemic involvement of connective tissue	Zooma API lookup	match	
+Otherdisorders of bone	http://www.ebi.ac.uk/efo/EFO_0004260	bone disease	OLS API EFO lookup	fuzzy	check if valid
+Other joint disorders	http://www.orpha.net/ORDO/Orphanet_93459	Syndrome with synostosis or other joint formation defect	OLS API EFO lookup	fuzzy	check if valid
+Other/unspecified soft tissue disorders related to use, overuse and pressure	http://purl.obolibrary.org/obo/MONDO_0021698	alcohol-related disorders	OLS API EFO lookup	fuzzy	check if valid
+Panniculitis affecting regions of neck and back	http://purl.obolibrary.org/obo/HP_0002162	Low posterior hairline	OLS API EFO lookup	fuzzy	check if valid
+Recurrent dislocation of patella	http://www.orpha.net/ORDO/Orphanet_295036	Congenital patella dislocation	OLS API EFO lookup	fuzzy	check if valid
+Other disorders of patella	http://www.ebi.ac.uk/efo/EFO_0009692	voice disorders	OLS API EFO lookup	fuzzy	check if valid
+Pathological/recurrent dislocation and subluxation of joint, not elsewhere classified	http://purl.obolibrary.org/obo/HP_0001132	Lens subluxation	OLS API EFO lookup	fuzzy	check if valid
+Plantar fascial fibromatosis	http://www.ebi.ac.uk/efo/EFO_1000481	Plantar Fibromatosis	OLS API EFO lookup	match	
+Polyarthritis, unspecified	http://www.ebi.ac.uk/efo/EFO_1002020	polyarticular juvenile idiopathic arthritis, rheumatoid factor negative	OLS API EFO lookup	fuzzy	check if valid
+Polyarthropathies					
+Polymyalgia rheumatica	http://purl.obolibrary.org/obo/HP_0003326	polymyalgia rheumatica	OT Zooma Mappings	match	
+Postprocedural musculoskeletal disorders, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_0009692	voice disorders	OLS API EFO lookup	fuzzy	check if valid
+Prepatellar bursitis	http://purl.obolibrary.org/obo/MONDO_0002471	bursitis	OLS API EFO lookup	fuzzy	check if valid
+Psoriatic arthropathies	http://www.ebi.ac.uk/efo/EFO_0003778	psoriatic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Pyogenic arthritis	http://www.ebi.ac.uk/efo/EFO_1001351	Pyogenic arthritis	Zooma API lookup	match	
+Radiculopathy					
+Reactive arthropathies	http://www.ebi.ac.uk/efo/EFO_0007460	reactive arthritis	OLS API EFO lookup	fuzzy	check if valid
+Recurrent dislocation and subluxation of joint	http://purl.obolibrary.org/obo/HP_0001132	Lens subluxation	OLS API EFO lookup	fuzzy	check if valid
+Rheumatoid arthritis	http://www.ebi.ac.uk/efo/EFO_0000685	rheumatoid arthritis	EFO OBO	match	
+Rheumatism, unspecified	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Rotator cuff syndrome	http://www.ebi.ac.uk/efo/EFO_1001250	rotator cuff tear	OLS API EFO lookup	match	
+Sacrococcygeal disorders, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	fuzzy	check if valid
+Sacroiliitis, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	fuzzy	check if valid
+Siatica+with lumbago	http://www.ebi.ac.uk/efo/EFO_1001906	panic disorder with agoraphobia	OLS API EFO lookup	fuzzy	check if valid
+Scoliosis	http://www.ebi.ac.uk/efo/EFO_0004273	scoliosis	EFO OBO	match	
+Shoulder lesions	http://www.ebi.ac.uk/efo/EFO_0009470	Shoulder lesions	Zooma API lookup	match	
+Other shoulder lesions					
+Sicca syndrome [Sjogren]	http://www.ebi.ac.uk/efo/EFO_0000699	Sjogren syndrome	OLS API EFO lookup	fuzzy	check if valid
+Systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690	systemic lupus erythematosus	EFO OBO	match	
+Soft tissue disorders related to use, overuse and pressure	http://purl.obolibrary.org/obo/MONDO_0021698	alcohol-related disorders	OLS API EFO lookup	fuzzy	check if valid
+Soft tissue disorders	http://www.ebi.ac.uk/efo/EFO_1001968	soft tissue sarcoma	OLS API EFO lookup	fuzzy	check if valid
+Other specified/unspecified soft tissue disorders	http://www.ebi.ac.uk/efo/EFO_1001968	soft tissue sarcoma	OLS API EFO lookup	fuzzy	check if valid
+Other soft tissue disorders, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_1001968	soft tissue sarcoma	OLS API EFO lookup	fuzzy	check if valid
+Spinal enthesopathy	http://www.ebi.ac.uk/efo/EFO_0009666	enthesopathy	OLS API EFO lookup	fuzzy	check if valid
+Spinal instabilities	http://www.ebi.ac.uk/efo/EFO_0003902	spinal fracture	OLS API EFO lookup	fuzzy	check if valid
+Spinal stenosis	http://www.ebi.ac.uk/efo/EFO_0007490	spinal stenosis	EFO OBO	match	
+Other specified/unspecified inflammatory spondylopathies	http://www.ebi.ac.uk/efo/EFO_0000778	anthrax infection	OLS API EFO lookup	fuzzy	check if valid
+Spondylolisthesis/Spondylolysis	http://www.ebi.ac.uk/efo/EFO_0005649	spondylolysis	OLS API EFO lookup	fuzzy	check if valid
+Spondylopathies					
+Other specified/unspecified spondylopathies	http://www.ebi.ac.uk/efo/EFO_0000778	anthrax infection	OLS API EFO lookup	fuzzy	check if valid
+Spondylosis	http://www.ebi.ac.uk/efo/EFO_0000706	Spondylosis	Zooma API lookup	match	
+Spontaneous rupture of synovium and tendon	http://purl.obolibrary.org/obo/HP_0100550	Spontaneous rupture of synovium and tendon	Zooma API lookup	match	
+Disorders of synovium and tendon	http://purl.obolibrary.org/obo/MONDO_0002528	synovium neoplasm	OLS API EFO lookup	fuzzy	check if valid
+Systemic connective tissue disorders	http://www.ebi.ac.uk/efo/EFO_0007374	mixed connective tissue disease	OLS API EFO lookup	fuzzy	check if valid
+Temporal arteritis	http://www.ebi.ac.uk/efo/EFO_1001209	temporal arteritis	EFO OBO	match	
+Other/unspecified synovitis and tenosynovitis	http://www.ebi.ac.uk/efo/EFO_1001106	pigmented villonodular synovitis	OLS API EFO lookup	fuzzy	check if valid
+Pain in thoracic spine	http://www.ebi.ac.uk/efo/EFO_1000787	osteoarthritis, spine	OLS API EFO lookup	fuzzy	check if valid
+Other deformities of toe(s)	http://www.orpha.net/ORDO/Orphanet_294944	Congenital deformities of limbs	OLS API EFO lookup	fuzzy	check if valid
+Trigger finger	http://purl.obolibrary.org/obo/HP_0012276	Digital flexor tenosynovitis	OLS API HP exact lookup	match	check if in OT
+Trochanteric bursitis	http://purl.obolibrary.org/obo/MONDO_0002471	bursitis	OLS API EFO lookup	fuzzy	check if valid
+Macular hole	http://www.ebi.ac.uk/efo/EFO_1001028	macular holes	OLS API EFO lookup	match	
+Macular pucker	http://purl.obolibrary.org/obo/HP_0100014	Epiretinal membrane	OLS API HP exact lookup	match	check if in OT
+Degenerative macular diseases	http://www.ebi.ac.uk/efo/EFO_0001365	age-related macular degeneration	OLS API EFO lookup	fuzzy	check if valid
+Monoamine oxidase A inhibitors	http://www.orpha.net/ORDO/Orphanet_3057	Monoamine oxidase A deficiency	OLS API EFO lookup	fuzzy	check if valid
+Memory loss	http://purl.obolibrary.org/obo/HP_0002354	Memory impairment	OLS API HP exact lookup	match	check if in OT
+Meningitis	http://www.ebi.ac.uk/efo/EFO_0000584	meningitis	Zooma API lookup	match	
+Non-selective monoamine reuptake inhibitors	http://www.ebi.ac.uk/efo/EFO_0005658	response to selective serotonin reuptake inhibitor	OLS API EFO lookup	fuzzy	check if valid
+Mucosal proctocolitis	http://purl.obolibrary.org/obo/MONDO_0000544	mucosal melanoma	OLS API EFO lookup	fuzzy	check if valid
+Multimorbidity					
+Other abnormal uterine and caginal bleeding					
+Acute nephritic syndrome	http://www.ebi.ac.uk/efo/EFO_1002050	Acute nephritic syndrome	Zooma API lookup	match	
+Acute renal failure	http://purl.obolibrary.org/obo/HP_0001919	acute renal failure	OT Zooma Mappings	match	
+Amenorrhoea	http://purl.obolibrary.org/obo/HP_0000141	amenorrhoea	OT Zooma Mappings	match	
+Abscess of Bartholin gland	http://www.ebi.ac.uk/efo/EFO_1000103	Bartholin Gland Carcinoma	OLS API EFO lookup	fuzzy	check if valid
+Cyst of Bartholin Gland	http://www.ebi.ac.uk/efo/EFO_1000103	Bartholin Gland Carcinoma	OLS API EFO lookup	fuzzy	check if valid
+Other and unspecified disease of Bartholin gland	http://www.ebi.ac.uk/efo/EFO_0000319	cardiovascular disease	OLS API EFO lookup	fuzzy	check if valid
+Benign mammary dysplasia	http://www.ebi.ac.uk/efo/EFO_0003014	Benign mammary dysplasia	Zooma API lookup	match	
+Disorders of breast					
+Other disorders of breast	http://www.ebi.ac.uk/efo/EFO_0009483	Other disorders of breast	Zooma API lookup	match	
+Calculus of kidney and ureter	http://www.ebi.ac.uk/efo/EFO_0004253	Calculus of kidney and ureter	Zooma API lookup	match	
+Calculus of lower urinary tract	http://www.ebi.ac.uk/efo/EFO_1001228	Calculus of lower urinary tract	Zooma API lookup	match	
+Chronic nephritic syndrome	http://www.ebi.ac.uk/efo/EFO_0004540	chronic fatigue syndrome	OLS API EFO lookup	fuzzy	check if valid
+Chronic kidney disease	http://www.ebi.ac.uk/efo/EFO_0003884	chronic kidney disease	EFO OBO	match	
+Chronic tubulo-interstitial nephritis	http://purl.obolibrary.org/obo/MONDO_0001085	interstitial nephritis	OLS API EFO lookup	fuzzy	check if valid
+Cystitis	http://www.ebi.ac.uk/efo/EFO_1000025	cystitis	EFO OBO	match	
+Cyst of kidney	http://www.ebi.ac.uk/efo/EFO_1000313	Kidney Cyst	OLS API EFO lookup	fuzzy	check if valid
+Dialysis	http://www.orpha.net/ORDO/Orphanet_1766	Dysequilibrium syndrome	OLS API EFO lookup	fuzzy	check if valid
+Dysplasia of cervi uteri	http://www.ebi.ac.uk/efo/EFO_1000910	dysplasia of cervix	OLS API EFO lookup	fuzzy	check if valid
+Endometriosis	http://www.ebi.ac.uk/efo/EFO_0001065	endometriosis	EFO OBO	match	
+Unspecified/other endometriosis	http://www.ebi.ac.uk/efo/EFO_0001065	endometriosis	OLS API EFO lookup	fuzzy	check if valid
+Endometriosis of ovary	http://www.ebi.ac.uk/efo/EFO_1000418	Ovarian Endometriosis	OLS API EFO lookup	match	
+Endometriosis of pelvic peritoneum	http://www.ebi.ac.uk/efo/EFO_0001065	endometriosis	OLS API EFO lookup	fuzzy	check if valid
+Endometriosis of rectovaginal septum and vagina	http://www.orpha.net/ORDO/Orphanet_2491	Müllerian duct anomalies - limb anomalies	OLS API EFO lookup	fuzzy	check if valid
+Endometriosis of uterus	http://www.ebi.ac.uk/efo/EFO_0001065	endometriosis	OLS API EFO lookup	fuzzy	check if valid
+Erosion and ectropion of cervix uteri	http://www.ebi.ac.uk/efo/EFO_1000862	Erosion and ectropion of cervix uteri	Zooma API lookup	match	
+Inflammatory diseases of female pelvic organs	http://www.ebi.ac.uk/efo/EFO_1001388	Pelvic Inflammatory Disease	OLS API EFO lookup	fuzzy	check if valid
+Noninflammatory disorders of female genital tract	http://www.ebi.ac.uk/efo/EFO_0008622	female genital tract polyp	OLS API EFO lookup	fuzzy	check if valid
+Female infertility	http://www.ebi.ac.uk/efo/EFO_0008560	female infertility	Zooma API lookup	match	
+Pain and other conditions associated with female genital organs and menstrual cycle	http://www.ebi.ac.uk/efo/EFO_0009549	Pain and other conditions associated with female genital organs and menstrual cycle	Zooma API lookup	match	
+Female genital prolapse	http://www.ebi.ac.uk/efo/EFO_1001864	Female genital prolapse	Zooma API lookup	match	
+Female infertility, associated with anovulation	http://www.ebi.ac.uk/efo/EFO_0009197	Pulmonary arterial hypertension associated with portal hypertension	OLS API EFO lookup	fuzzy	check if valid
+Female infertility, cervigal, vaginal, other or unspecified origin	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Female infertility, tubal origin	http://www.ebi.ac.uk/efo/EFO_0008560	female infertility	Zooma API lookup	match	
+Genitourinary diseases					
+Other disorders of the genitourinary system					
+Glomerular disorders in diseases classified elsewhere	http://www.ebi.ac.uk/efo/EFO_1002049	Glomerular disorders in diseases classified elsewhere	Zooma API lookup	match	
+Glomerular diseases	http://purl.obolibrary.org/obo/MONDO_0019724	secondary glomerular disease	OLS API EFO lookup	fuzzy	check if valid
+Hydrocele	http://www.ebi.ac.uk/efo/EFO_1001859	testicular hydrocele	OLS API EFO lookup	fuzzy	check if valid
+Hydronephrosis	http://www.ebi.ac.uk/efo/EFO_0005562	hydronephrosis	EFO OBO	match	
+Hypertrophy of breast	http://purl.obolibrary.org/obo/HP_0010313	Breast hypertrophy	OLS API EFO lookup	fuzzy	check if valid
+Impotence	http://www.ebi.ac.uk/efo/EFO_0004234	erectile dysfunction	EFO OBO	match	
+Inflammatory disease of cervix uteri	http://purl.obolibrary.org/obo/MONDO_0016275	adenocarcinoma of cervix uteri	OLS API EFO lookup	fuzzy	check if valid
+Inflammatory disorders of breast	http://www.ebi.ac.uk/efo/EFO_1001034	Inflammatory disorders of breast	Zooma API lookup	match	
+Inflammatory disease of uterus	http://www.ebi.ac.uk/efo/EFO_0009572	uterine inflammatory disease	OLS API EFO lookup	fuzzy	check if valid
+Isolated proteinuria with specified morphological lesion	http://purl.obolibrary.org/obo/HP_0031678	Atherosclerotic lesion	OLS API EFO lookup	fuzzy	check if valid
+Other disorders of kidney and ureter					
+Unspecified lump in breast	http://www.ebi.ac.uk/efo/EFO_1000848	Unspecified lump in breast	Zooma API lookup	match	
+Diseases of male genital organs	http://www.ebi.ac.uk/efo/EFO_0007355	male reproductive organ cancer	OLS API EFO lookup	fuzzy	check if valid
+Male infertility	http://www.ebi.ac.uk/efo/EFO_0004248	male infertility	EFO OBO	match	
+Other menopausal disorders	http://www.ebi.ac.uk/efo/EFO_0009692	voice disorders	OLS API EFO lookup	fuzzy	check if valid
+Excessive, freguent and irrelgular menstruation					
+Unspesified nephritic syndrome	http://www.ebi.ac.uk/efo/EFO_0000401	diabetic nephropathy	OLS API EFO lookup	fuzzy	check if valid
+Nephrotic syndrome	http://www.ebi.ac.uk/efo/EFO_0004255	nephrotic syndrome	EFO OBO	match	
+Neuromuscular dysfuntion of bladder	http://www.ebi.ac.uk/efo/EFO_1001902	neuromuscular disease	OLS API EFO lookup	fuzzy	check if valid
+Other obstructive and reflux uropathy	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Oligomenorrhoea					
+Orchitis and epididymitis	http://www.ebi.ac.uk/efo/EFO_1001078	Orchitis and epididymitis	Zooma API lookup	match	
+Other disorders of  bladder	http://www.ebi.ac.uk/efo/EFO_1000018	Other disorders of bladder	Zooma API lookup	match	
+Other disorders of male genital organs	http://www.ebi.ac.uk/efo/EFO_0009555	Other disorders of male genital organs	Zooma API lookup	match	
+Other specified disorders of kidney and ureter					
+Other female pelvic inflammatory diseases	http://www.ebi.ac.uk/efo/EFO_1001388	Other female pelvic inflammatory diseases	Zooma API lookup	match	
+Other inflammation of vagina/vulva	http://www.ebi.ac.uk/efo/EFO_0005757	vaginal inflammation	OLS API EFO lookup	fuzzy	check if valid
+Other noninflammatory disorders of cervix uteri	http://www.ebi.ac.uk/efo/EFO_0009549	Other noninflammatory disorders of cervix uteri	Zooma API lookup	match	
+Other and unspesified noninflammatory disorders of ovary, fallopian tube and broad ligament					
+Other noninflammatory disorders of uterus, except cervix					
+Other noninflammatory disorders of vagina	http://www.ebi.ac.uk/efo/EFO_0009549	Other noninflammatory disorders of vagina	Zooma API lookup	match	
+Other noninflammatory disorders of vulva and perineum	http://www.ebi.ac.uk/efo/EFO_0009549	Other noninflammatory disorders of vulva and perineum	Zooma API lookup	match	
+Other disorders of penis	http://www.ebi.ac.uk/efo/EFO_0009555	Other disorders of penis	Zooma API lookup	match	
+Ovarian cyst	http://www.ebi.ac.uk/efo/EFO_0002511	simple cystadenoma	EFO OBO	match	
+Redundant prepuce, phimosis and paraphimosis					
+Polyp of the female genital tract	http://www.ebi.ac.uk/efo/EFO_0008622	female genital tract polyp	OLS API EFO lookup	fuzzy	check if valid
+Postmenopausal atrophic vaginitsi					
+Postmenopausal bleeding					
+Prolapse and hernia of ovary and fallopian tube					
+Other disorders of prostate	http://www.ebi.ac.uk/efo/EFO_0009602	Other disorders of prostate	Zooma API lookup	match	
+Inflammatory diseases of prostate (prostatitis)	http://www.ebi.ac.uk/efo/EFO_0003830	prostatitis	OLS API EFO lookup	fuzzy	check if valid
+Hyperplasia of prostate	http://www.ebi.ac.uk/efo/EFO_0000284	Hyperplasia of prostate	Zooma API lookup	match	
+Acute tubulo-interstitial nephritis	http://www.ebi.ac.uk/efo/EFO_1002050	Acute tubulo-interstitial nephritis	Zooma API lookup	match	
+Renal tubulo-intestitial diseases	http://www.ebi.ac.uk/efo/EFO_1001152	renal osteodystrophy	OLS API EFO lookup	fuzzy	check if valid
+Other renal tubulo-interstitial diseases	http://purl.obolibrary.org/obo/MONDO_0001085	interstitial nephritis	OLS API EFO lookup	fuzzy	check if valid
+Renal failure	http://www.ebi.ac.uk/efo/EFO_1002048	kidney failure	OLS API EFO lookup	match	
+Unspesified kidney failure	http://www.ebi.ac.uk/efo/EFO_1002048	kidney failure	OLS API EFO lookup	fuzzy	check if valid
+Salphingitis and oophoritis					
+Spermatocele	http://www.ebi.ac.uk/efo/EFO_1001189	spermatocele	EFO OBO	match	
+Torsion of testis					
+Tubulo-interstitial nephritis, not spesified as acute or chronic	http://www.ebi.ac.uk/efo/EFO_1000178	Chronic Eosinophilic Leukemia, Not Otherwise Specified	OLS API EFO lookup	fuzzy	check if valid
+Urethral stricture	http://www.ebi.ac.uk/efo/EFO_1000840	Urethral stricture	Zooma API lookup	match	
+Other disorders of urethra and urinary system					
+Other diseases of urinary system	http://www.ebi.ac.uk/efo/EFO_0009690	urinary system disease	OLS API EFO lookup	fuzzy	check if valid
+Urolithiasis	http://purl.obolibrary.org/obo/MONDO_0024647	Urolithiasis	Zooma API lookup	match	
+Vaginitis/vulvovaginitis/vulvitis/abscess of vulva	http://www.ebi.ac.uk/efo/EFO_1001239	vulvitis	OLS API EFO lookup	fuzzy	check if valid
+Vulvovaginal ulceration/inflammation in other diseases	http://www.ebi.ac.uk/efo/EFO_0007543	vulvovaginal candidiasis	OLS API EFO lookup	fuzzy	check if valid
+Nonalcoholic fatty liver disease	http://www.ebi.ac.uk/efo/EFO_0003095	Nonalcoholic fatty liver disease	Zooma API lookup	match	
+Other necrotizing vasculopathies (FG)	http://www.ebi.ac.uk/efo/EFO_0009297	fg syndrome	OLS API EFO lookup	fuzzy	check if valid
+Nephropathy related operations	http://www.ebi.ac.uk/efo/EFO_0007313	HIV-associated nephropathy	OLS API EFO lookup	fuzzy	check if valid
+Other degenerative diseases of the nervous system	http://www.ebi.ac.uk/efo/EFO_0005772	neurodegenerative disease	OLS API EFO lookup	fuzzy	check if valid
+Neurological diseases	http://www.orpha.net/ORDO/Orphanet_137658	Microcephaly - intellectual disability - phalangeal and neurological anomalies	OLS API EFO lookup	fuzzy	check if valid
+Co-morbidities of interest (NEURO)	http://www.orpha.net/ORDO/Orphanet_488613	global developmental delay - neuro-ophthalmological abnormalities - seizures - intellectual disability syndrome	OLS API EFO lookup	fuzzy	check if valid
+Non-allergic asthma	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Non-allergic asthma (mode)	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Alcohol related diseases, tilastokeskus definition					
+Osteoporosis with pathological fracture (FG)	http://www.ebi.ac.uk/efo/EFO_0003882	osteoporosis	OLS API EFO lookup	fuzzy	check if valid
+Postmenopausal osteoporosis with pathological fracture	http://www.ebi.ac.uk/efo/EFO_0003854	postmenopausal osteoporosis	OLS API EFO lookup	fuzzy	check if valid
+Other antidepressants	http://purl.obolibrary.org/obo/MONDO_0019546	other acquired skin disease	OLS API EFO lookup	fuzzy	check if valid
+Other ILD-related CVD-co-morbidities	http://www.ebi.ac.uk/efo/EFO_0000319	cardiovascular disease	OLS API EFO lookup	fuzzy	check if valid
+Other systemic involvement of connective tissue (FG)					
+Acute pancreatis (for exclusion)	http://www.ebi.ac.uk/efo/EFO_0005223	acute stress reaction	OLS API EFO lookup	fuzzy	check if valid
+Peripheral arterial reconstruction	http://www.ebi.ac.uk/efo/EFO_0004265	peripheral arterial disease	OLS API EFO lookup	fuzzy	check if valid
+Secondary parkinsonism	http://www.ebi.ac.uk/efo/EFO_1001175	Secondary parkinsonism	Zooma API lookup	match	
+Parkinson's disease, strict definition	http://www.ebi.ac.uk/efo/EFO_0002508	Parkinson's disease	Zooma API lookup	match	
+Parkinson's disease, strict definition	http://www.ebi.ac.uk/efo/EFO_0002508	Parkinson's disease	Zooma API lookup	match	
+Bacterial pneumonia (organism specified)	http://www.ebi.ac.uk/efo/EFO_0003106	pneumonia	OLS API EFO lookup	fuzzy	check if valid
+Pneumonias (Asthma/COPD co-morbidities)	http://www.ebi.ac.uk/efo/EFO_0000270	asthma	OLS API EFO lookup	fuzzy	check if valid
+Pneumococcal septichemia	http://www.ebi.ac.uk/efo/EFO_1001925	pneumococcal bacteremia	OLS API EFO lookup	fuzzy	check if valid
+Pollen allergy	http://www.ebi.ac.uk/efo/EFO_0003956	seasonal allergic rhinitis	OLS API EFO lookup	match	
+Polypectomy (DHB20)	http://www.ebi.ac.uk/efo/EFO_0007133	adenomyoma	OLS API EFO lookup	fuzzy	check if valid
+Pre-eclampsia or eclampsia	http://purl.obolibrary.org/obo/HP_0100601	Eclampsia	OLS API EFO lookup	fuzzy	check if valid
+Primary coxarthrosis, bilateral	http://www.ebi.ac.uk/efo/EFO_0008519	primary hyperparathyroidism	OLS API EFO lookup	fuzzy	check if valid
+Primary gonarthrosis, bilateral	http://www.ebi.ac.uk/efo/EFO_0008519	primary hyperparathyroidism	OLS API EFO lookup	fuzzy	check if valid
+Other psoriatic arthropathies	http://www.ebi.ac.uk/efo/EFO_0003778	psoriatic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Psoriatic and enteropathic arthropathies	http://www.ebi.ac.uk/efo/EFO_0003778	Psoriatic and enteropathic arthropathies	Zooma API lookup	match	
+Other pulmonary diagnosis					
+Anxiety (asthma-related co-morbidities)	http://www.ebi.ac.uk/efo/EFO_0009874	decreased anxiety-related response	OLS API EFO lookup	fuzzy	check if valid
+Immune disease comorbidities	http://www.ebi.ac.uk/efo/EFO_0000540	immune system disease	OLS API EFO lookup	fuzzy	check if valid
+COPD/asthma/ILD related infections	http://www.ebi.ac.uk/efo/EFO_1001406	Prosthesis-Related Infections	OLS API EFO lookup	fuzzy	check if valid
+Medication related adverse effects (Asthma/COPD)	http://www.ebi.ac.uk/efo/EFO_0009658	adverse effect	OLS API EFO lookup	fuzzy	check if valid
+COPD/asthma/ILD related pneumonia or pneumonia derived septichaemia	http://www.ebi.ac.uk/efo/EFO_0003106	pneumonia	OLS API EFO lookup	fuzzy	check if valid
+Psychiatric comorbidites (Asthma/COPD)	http://purl.obolibrary.org/obo/MONDO_0002025	psychiatric disorder	OLS API EFO lookup	fuzzy	check if valid
+Rheumatoid arthritis -related co-morbidities	http://www.ebi.ac.uk/efo/EFO_0000685	rheumatoid arthritis	OLS API EFO lookup	fuzzy	check if valid
+Other/unspecified reactive arthropathies	http://www.ebi.ac.uk/efo/EFO_0007460	reactive arthritis	OLS API EFO lookup	fuzzy	check if valid
+Respiratory insufficiency	http://purl.obolibrary.org/obo/HP_0002093	respiratory insufficiency	Zooma API lookup	match	
+Reactive arthropathies, FINNGEN	http://www.ebi.ac.uk/efo/EFO_0007460	reactive arthritis	OLS API EFO lookup	fuzzy	check if valid
+Rheumatological diseases related comorbidities	http://www.orpha.net/ORDO/Orphanet_232288	Alpha-thalassemia-related diseases	OLS API EFO lookup	fuzzy	check if valid
+Finngen Rheumatological endpoints	http://www.ebi.ac.uk/efo/EFO_1001161	rheumatic heart disease	OLS API EFO lookup	fuzzy	check if valid
+Other/unspecified rheumatoid arthritis	http://www.ebi.ac.uk/efo/EFO_0000685	rheumatoid arthritis	OLS API EFO lookup	fuzzy	check if valid
+Other (seronegative) rheumatoid arthritis, wide	http://www.ebi.ac.uk/efo/EFO_0000685	rheumatoid arthritis	OLS API EFO lookup	fuzzy	check if valid
+Seropositive rheumatoid arthritis	http://www.ebi.ac.uk/efo/EFO_0000685	Seropositive rheumatoid arthritis	Zooma API lookup	match	
+Other/unspecified seropositiverheumatoid arthritis	http://www.ebi.ac.uk/efo/EFO_0009734	unspecified juvenile idiopathic arthritis	OLS API EFO lookup	fuzzy	check if valid
+Seropositive rheumatoid arthritis, wide	http://www.ebi.ac.uk/efo/EFO_0000685	Seropositive rheumatoid arthritis	Zooma API lookup	match	
+Other arthritis (FG)	http://www.ebi.ac.uk/efo/EFO_0009297	fg syndrome	OLS API EFO lookup	fuzzy	check if valid
+Vasomotor rhinitis (mode)	http://www.ebi.ac.uk/efo/EFO_0007533	vasomotor rhinitis	OLS API EFO lookup	fuzzy	check if valid
+Other secondary coxarthrosis	http://www.ebi.ac.uk/efo/EFO_1001173	secondary hyperparathyroidism	OLS API EFO lookup	fuzzy	check if valid
+Other secondary gonarthrosis	http://www.ebi.ac.uk/efo/EFO_1001173	secondary hyperparathyroidism	OLS API EFO lookup	fuzzy	check if valid
+Pneumonia derived septichemia	http://www.ebi.ac.uk/efo/EFO_0003106	pneumonia	OLS API EFO lookup	fuzzy	check if valid
+Sodium-glucose co-transporter 2 (SGLT2) inhibitors					
+Sleep disorders (combined)	http://www.ebi.ac.uk/efo/EFO_0008568	Sleep Disorder	OLS API EFO lookup	fuzzy	check if valid
+SLE-related co-morbidities					
+SLE (FG)	http://www.ebi.ac.uk/efo/EFO_0009297	fg syndrome	OLS API EFO lookup	fuzzy	check if valid
+Systemic lupus erythematosus, unspecified	http://www.ebi.ac.uk/efo/EFO_0002690	systemic lupus erythematosus	EFO OBO	match	
+Smoking	http://www.ebi.ac.uk/efo/EFO_0004318	smoking behavior	EFO OBO	match	
+Smoking dependancy	http://www.ebi.ac.uk/efo/EFO_0004318	smoking behavior	OLS API EFO lookup	fuzzy	check if valid
+Snoring	http://www.ebi.ac.uk/efo/EFO_0008341	Snoring	Zooma API lookup	match	
+Spondyloarthritis	http://www.ebi.ac.uk/efo/EFO_0000706	spondyloarthropathy	OLS API EFO lookup	match	
+Spondylopathies (FG)	http://www.ebi.ac.uk/efo/EFO_0009297	fg syndrome	OLS API EFO lookup	fuzzy	check if valid
+Spondylopathy related co-morbidities					
+Selective serotonin reuptake inhibitors	http://www.ebi.ac.uk/efo/EFO_0005658	response to selective serotonin reuptake inhibitor	OLS API EFO lookup	fuzzy	check if valid
+Adult-onset Still disease	http://www.ebi.ac.uk/efo/EFO_0007135	adult-onset Still's disease	OLS API EFO lookup	match	
+Sulfonylureas	http://www.ebi.ac.uk/efo/EFO_0007922	response to sulfonylurea	OLS API EFO lookup	fuzzy	check if valid
+Type1 diabetes, definitions combined	http://www.ebi.ac.uk/efo/EFO_1001428	Subacute Combined Degeneration	OLS API EFO lookup	fuzzy	check if valid
+Sub-endpoint used in defining T1D endpoints	http://www.ebi.ac.uk/efo/EFO_0009926	Vasodilators used in cardiac diseases use measurement	OLS API EFO lookup	fuzzy	check if valid
+Type 1 diabetes, strict def1n1t1on	http://www.ebi.ac.uk/efo/EFO_0009266	refractory celiac disease	OLS API EFO lookup	fuzzy	check if valid
+Type 1 diabetes, strict definition, subgroup 1					
+Type 1 diabetes, wide definition	http://purl.obolibrary.org/obo/HP_0000445	Wide nose	OLS API EFO lookup	fuzzy	check if valid
+Type 1 diabetes, wide definition, subgroup 1	http://purl.obolibrary.org/obo/HP_0000445	Wide nose	OLS API EFO lookup	fuzzy	check if valid
+Type 1 diabetes, wide definition, subgroup 2	http://purl.obolibrary.org/obo/HP_0000445	Wide nose	OLS API EFO lookup	fuzzy	check if valid
+Type 2 diabetes, definitions combined	http://www.ebi.ac.uk/efo/EFO_1001428	Subacute Combined Degeneration	OLS API EFO lookup	fuzzy	check if valid
+Type 2 diabetes, wide definition	http://purl.obolibrary.org/obo/HP_0000445	Wide nose	OLS API EFO lookup	fuzzy	check if valid
+Respiratory tuberculosis	http://www.orpha.net/ORDO/Orphanet_3389	Tuberculosis	OLS API EFO lookup	fuzzy	check if valid
+Respiratory TBC, ICD-8 codes not specifying whether confirmed bacteriologically or histologically	http://www.ebi.ac.uk/efo/EFO_1000178	Chronic Eosinophilic Leukemia, Not Otherwise Specified	OLS API EFO lookup	fuzzy	check if valid
+Thyroiditis	http://www.ebi.ac.uk/efo/EFO_1000627	Thyroiditis	Zooma API lookup	match	
+Thyroiditis, ILD-related definition					
+Disorders of thyroid, IBD co-morbidities	http://www.ebi.ac.uk/efo/EFO_1000627	thyroid disease	OLS API EFO lookup	fuzzy	check if valid
+Thyrotoxicosis	http://www.ebi.ac.uk/efo/EFO_0009190	Thyrotoxicosis	OLS API EFO lookup	match	
+Tobacco use	http://www.ebi.ac.uk/efo/EFO_0003768	nicotine dependence	OLS API EFO lookup	fuzzy	check if valid
+Previously done organ transplantation					
+severe traumatic brain injury, does not include concussion	http://www.ebi.ac.uk/efo/EFO_1001276	Brain Stem Hemorrhage, Traumatic	OLS API EFO lookup	fuzzy	check if valid
+Tuberculosis	http://www.orpha.net/ORDO/Orphanet_3389	tuberculosis	Zooma API lookup	match	
+Ulcerative enterocolitis	http://www.ebi.ac.uk/efo/EFO_1001481	enterocolitis	OLS API EFO lookup	fuzzy	check if valid
+Ulcerative ileocolitis	http://www.ebi.ac.uk/efo/EFO_0005624	ileocolitis	OLS API EFO lookup	fuzzy	check if valid
+Ulcerative colitis, NAS	http://www.ebi.ac.uk/efo/EFO_0000729	ulcerative colitis	EFO OBO	match	
+Other ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729	ulcerative colitis	OLS API EFO lookup	match	
+Ulcerative proctitis	http://www.ebi.ac.uk/efo/EFO_0005628	proctitis	OLS API EFO lookup	fuzzy	check if valid
+Ulcerative rectosigmoiditis	http://www.ebi.ac.uk/efo/EFO_1001223	ulcerative proctosigmoiditis	OLS API EFO lookup	fuzzy	check if valid
+Retention of urine	http://purl.obolibrary.org/obo/HP_0000016	Retention of urine	Zooma API lookup	match	
+Vascular dementia (undefined)	http://www.ebi.ac.uk/efo/EFO_0004718	vascular dementia	OLS API EFO lookup	fuzzy	check if valid
+Diseases of the ear and mastoid process	http://www.ebi.ac.uk/efo/EFO_1000678	cholesteatoma of middle ear	OLS API EFO lookup	fuzzy	check if valid
+Diseases of the eye and adnexa	http://www.ebi.ac.uk/efo/EFO_0009546	eye adnexa disease	OLS API EFO lookup	fuzzy	check if valid
+Viral pneumonia (known virus, not influenza)	http://www.ebi.ac.uk/efo/EFO_0007541	viral pneumonia	OLS API EFO lookup	fuzzy	check if valid
+Viral pneumonia (unknown virus, not influenza)	http://www.ebi.ac.uk/efo/EFO_0007541	viral pneumonia	OLS API EFO lookup	fuzzy	check if valid
+Vitamin deficiency	http://www.ebi.ac.uk/efo/EFO_0005878	vitamin deficiency	EFO OBO	match	
+Diseases of the nervous system	http://purl.obolibrary.org/obo/MONDO_0002977	autoimmune disease of the nervous system	OLS API EFO lookup	fuzzy	check if valid
+Vocal cord dysfunction	http://purl.obolibrary.org/obo/HP_0031801	Vocal cord dysfunction	OLS API HP exact lookup	match	check if in OT
+Mental and behavioural disorders	http://www.ebi.ac.uk/efo/EFO_0000677	mental or behavioural disorder	OLS API EFO lookup	fuzzy	check if valid
+Wet age-related macular degeneration	http://www.ebi.ac.uk/efo/EFO_0004683	wet macular degeneration	OLS API EFO lookup	fuzzy	check if valid
+Diseases of the musculoskeletal system and connective tissue					
+Diseases of the skin and subcutaneous tissue	http://purl.obolibrary.org/obo/HP_0001482	Subcutaneous nodule	OLS API EFO lookup	fuzzy	check if valid
+Diseases of the genitourinary system					
+Injury, poisoning and certain other consequences of external causes					
+Diseases of the digestive system	http://www.ebi.ac.uk/efo/EFO_0000405	digestive system disease	OLS API EFO lookup	match	
+Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified					
+Congenital malformations, deformations and chromosomal abnormalities					
+Certain conditions originating in the perinatal period	http://www.ebi.ac.uk/efo/EFO_0010238	perinatal disease	OLS API EFO lookup	fuzzy	check if valid
+Pregnancy, childbirth and the puerperium	http://www.ebi.ac.uk/efo/EFO_0009816	perineal laceration during delivery	OLS API EFO lookup	fuzzy	check if valid
+Factors influencing health status and contact with health services	http://www.ebi.ac.uk/efo/EFO_1001810	mercury poisoning	OLS API EFO lookup	fuzzy	check if valid
+External causes of morbidity and mortality	http://www.ebi.ac.uk/efo/EFO_0004889	postoperative ventricular dysfunction	OLS API EFO lookup	fuzzy	check if valid
+Diseases of the respiratory system	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease	OLS API EFO lookup	match	

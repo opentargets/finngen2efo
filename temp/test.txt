@@ -1,0 +1,11 @@
+query	term	label	source	quality	action
+name					
+Arthropod-borne viral fevers and viral haemorrhagic fevers	http://purl.obolibrary.org/obo/MONDO_0018087	viral hemorrhagic fever	OLS API EFO lookup	fuzzy	check if valid
+Bacterial, viral and other infectious agents	http://purl.obolibrary.org/obo/MONDO_0025294	tick-borne infectious disease	OLS API EFO lookup	fuzzy	check if valid
+Human immunodeficiency virus [HIV] disease	http://www.ebi.ac.uk/efo/EFO_0000764	HIV infection	OLS API EFO lookup	match	
+Certain infectious and parasitic diseases	http://www.ebi.ac.uk/efo/EFO_0001067	parasitic infection	OLS API EFO lookup	fuzzy	check if valid
+Intestinal infectious diseases	http://purl.obolibrary.org/obo/MONDO_0000916	intestinal infectious disease	OLS API EFO lookup	fuzzy	check if valid
+Mycoses	http://purl.obolibrary.org/obo/MONDO_0002041	fungal infectious disease	OLS API EFO lookup	match	
+Other bacterial diseases	http://www.ebi.ac.uk/efo/EFO_1001272	bacterial pneumonia	OLS API EFO lookup	fuzzy	check if valid
+Other infectious diseases	http://www.ebi.ac.uk/efo/EFO_1001869	dysentery	OLS API EFO lookup	fuzzy	check if valid
+Other spirochaetal diseases	http://www.ebi.ac.uk/efo/EFO_0000405	digestive system disease	OLS API EFO lookup	fuzzy	check if valid
